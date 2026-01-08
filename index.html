@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="Description" CONTENT="Visual and Data Work by William Webster.">
+    <meta name="description" content="Visual and Data Work by William Webster.">
     <meta name="author" content="William Webster">
     <title>Visual and Data Work by William Webster</title>
 
@@ -14,52 +13,59 @@
 
     <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
-    <div id="container">
 
-        <div id="introduction">
-            <h1>William Webster is an Applied Data Fellow at the University of Chicago</h1>
-            <p id="description">He is a data analyst focused on translating complex datasets into clear analysis and visualizations, with experience in public policy and government data. He currently works with the <a href="https://ipa.illinois.gov/">Illinois Power Agency</a>.
-                <br><br>Contact him at <a href="mailto:williamqwebster@gmail.com">williamqwebster@gmail.com</a></p>
-        </div>
-            
-        <div class="tab-nav">
-            <h2 class="tab active" data-tab="work">Selected Work</h2>
-            <h2 class="tab" data-tab="photo">Photo and Video</h2>
-        </div>
+<div id="container">
 
-        <div id="work-content" class="tab-content active"></div>
-        <div id="photo-content" class="tab-content"></div>
-
+    <div id="introduction">
+        <h1>William Webster is an Applied Data Fellow at the University of Chicago</h1>
+        <p id="description">
+            He is a data analyst focused on translating complex datasets into clear analysis and visualizations,
+            with experience in public policy and government data. He currently works with the
+            <a href="https://ipa.illinois.gov/">Illinois Power Agency</a>.
+            <br><br>
+            Contact him at <a href="mailto:williamqwebster@gmail.com">williamqwebster@gmail.com</a>
+        </p>
     </div>
 
-    <script>
-        const tabs = document.querySelectorAll('.tab');
-        const contents = document.querySelectorAll('.tab-content');
+    <div class="tab-nav">
+        <h2 class="tab active" data-tab="work">Selected Work</h2>
+        <h2 class="tab" data-tab="photo">Photo and Video</h2>
+    </div>
 
-        async function loadContent(tabName) {
-            const contentDiv = document.getElementById(`${tabName}-content`);
-            if (contentDiv.innerHTML === '') {
-                const response = await fetch(`${tabName}.html`);
-                const html = await response.text();
-                contentDiv.innerHTML = html;
-            }
+    <div id="work-content" class="tab-content active"></div>
+    <div id="photo-content" class="tab-content"></div>
+
+</div>
+
+<script>
+    const tabs = document.querySelectorAll('.tab');
+    const contents = document.querySelectorAll('.tab-content');
+
+    async function loadContent(tabName) {
+        const contentDiv = document.getElementById(`${tabName}-content`);
+        if (contentDiv.innerHTML === '') {
+            const response = await fetch(`${tabName}.html`);
+            const html = await response.text();
+            contentDiv.innerHTML = html;
         }
+    }
 
-        loadContent('work');
+    loadContent('work');
 
-        tabs.forEach(tab => {
-            tab.addEventListener('click', async () => {
-                tabs.forEach(t => t.classList.remove('active'));
-                contents.forEach(c => c.classList.remove('active'));
-                tab.classList.add('active');
-                
-                const tabName = tab.getAttribute('data-tab');
-                await loadContent(tabName);
-                document.getElementById(`${tabName}-content`).classList.add('active');
-            });
+    tabs.forEach(tab => {
+        tab.addEventListener('click', async () => {
+            tabs.forEach(t => t.classList.remove('active'));
+            contents.forEach(c => c.classList.remove('active'));
+
+            tab.classList.add('active');
+            const tabName = tab.dataset.tab;
+
+            await loadContent(tabName);
+            document.getElementById(`${tabName}-content`).classList.add('active');
         });
-    </script>
+    });
+</script>
+
 </body>
 </html>
