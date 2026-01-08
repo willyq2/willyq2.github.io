@@ -3,59 +3,62 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="Description" CONTENT="Photos and video by William Webster.">
+    <meta name="Description" CONTENT="Visual and Data Work by William Webster.">
     <meta name="author" content="William Webster">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>About - William Webster</title>
+    <title>Visual and Data Work by William Webster</title>
 
-    <link rel="stylesheet" href="index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
 
-    <script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
-    <script src="testing.js"></script>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <div class="head">
-        <div class="nav">
-            <a href="#">about</a>
-            <a href="video.html">video</a>
-            <a href="portrait.html">portrait</a>
-            <a href="live.html">live</a>
-            <a href="35mm.html">35mm</a>
+    <div id="container">
+
+        <div id="introduction">
+            <h1>William Webster is an Applied Data Fellow at the University of Chicago</h1>
+            <p id="description">He is a data analyst focused on translating complex datasets into clear analysis and visualizations, with experience in public policy and government data. He currently works with the <a href="https://ipa.illinois.gov/">Illinois Power Agency</a>.
+                <br><br>Contact him at <a href="mailto:williamqwebster@gmail.com">williamqwebster@gmail.com</a></p>
+        </div>
+            
+        <div class="tab-nav">
+            <h2 class="tab active" data-tab="work">Selected Work</h2>
+            <h2 class="tab" data-tab="photo">Photo and Video</h2>
         </div>
 
-        <h1 class="name"><a href="#">William</a></h1>
-        <h1 class="name"><a href="#">Webster</a></h1>
+        <div id="work-content" class="tab-content active"></div>
+        <div id="photo-content" class="tab-content"></div>
 
-        <a class="dropdown" onclick="openNav()"><h1>dropdown</h1></a>
     </div>
 
-    <div class="body">
-        <img class="indexImg" src="/images/me.jpg" alt="A picture of myself.">
+    <script>
+        const tabs = document.querySelectorAll('.tab');
+        const contents = document.querySelectorAll('.tab-content');
 
-        <div class="about">
-            <h2>Hello! It's Will.</h2>
-            <p>I recently graduated from UC Berkeley with degrees in Data Science and Film. I’m passionate about using these two skillsets to tell compelling human stories. Currently based in Oakland, I’m eager to explore how data can enhance storytelling in meaningful ways.</p><br>
-            <p>Currently looking for freelance video work.</p><br>
-            <p style="font-family: bold;">williamwebster@berkeley.edu</p><br>
-            <a style="font-family: bold;" target="_blank" href="https://drive.google.com/file/d/1rRqww4iRDUhe4rcLeyNQ2aDd09ZYcgo4/view?usp=sharing"><p><b>view resume</b></p></a>
-        </div>
-    </div>
+        async function loadContent(tabName) {
+            const contentDiv = document.getElementById(`${tabName}-content`);
+            if (contentDiv.innerHTML === '') {
+                const response = await fetch(`${tabName}.html`);
+                const html = await response.text();
+                contentDiv.innerHTML = html;
+            }
+        }
 
-    <div class="foot">
-        <a style="text-decoration: underline;" target="_blank" href="https://github.com/willyq2/willyq2.github.io.git">built with good ol' HTML, CSS, and Java</a>
-    </div>
+        loadContent('work');
 
-    <div id="full_page_nav" class="overlay">
-        <a class="closebtn" onclick="closeNav()">&times;</a>
-
-        <div class="overlay_nav">
-            <a onclick="closeNav()"><h1>about</h1></a>
-            <a href="video.html"><h1>video</h1></a>
-            <a href="portrait.html"><h1>portrait</h1></a>
-            <a href="live.html"><h1>live</h1></a>
-            <a href="35mm.html"><h1>35mm</h1></a>
-        </div>
-    </div>
+        tabs.forEach(tab => {
+            tab.addEventListener('click', async () => {
+                tabs.forEach(t => t.classList.remove('active'));
+                contents.forEach(c => c.classList.remove('active'));
+                tab.classList.add('active');
+                
+                const tabName = tab.getAttribute('data-tab');
+                await loadContent(tabName);
+                document.getElementById(`${tabName}-content`).classList.add('active');
+            });
+        });
+    </script>
 </body>
 </html>
