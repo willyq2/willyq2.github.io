@@ -22,14 +22,13 @@ loadContent('work');
 tabs.forEach(tab => {
     tab.addEventListener('click', async () => {
         const tabName = tab.dataset.tab;
-        const targetContent = document.getElementById(tabName + '-content');
+       
+        await loadContent(tabName);
 
         tabs.forEach(t => t.classList.remove('active'));
         contents.forEach(c => c.classList.remove('active'));
 
         tab.classList.add('active');
-        targetContent.classList.add('active');
-
-        await loadContent(tabName);
+        document.getElementById(tabName + '-content').classList.add('active');
     });
 });
