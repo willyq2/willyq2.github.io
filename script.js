@@ -17,9 +17,7 @@ async function loadContent(tabName) {
     }
 }
 
-// Load both work and photo content on page load
 loadContent('work');
-loadContent('photo');
 
 tabs.forEach(tab => {
     tab.addEventListener('click', async () => {
