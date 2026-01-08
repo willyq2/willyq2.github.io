@@ -33,31 +33,6 @@
         <div id="photo-content" class="tab-content"></div>
     </div>
 
-    <script>
-        const tabs = document.querySelectorAll('.tab');
-        const contents = document.querySelectorAll('.tab-content');
-
-        async function loadContent(tabName) {
-            const contentDiv = document.getElementById(tabName + '-content');
-            if (!contentDiv.innerHTML) {
-                const response = await fetch(tabName + '.html');
-                contentDiv.innerHTML = await response.text();
-            }
-        }
-
-        loadContent('work');
-
-        tabs.forEach(tab => {
-            tab.addEventListener('click', async () => {
-                tabs.forEach(t => t.classList.remove('active'));
-                contents.forEach(c => c.classList.remove('active'));
-                
-                tab.classList.add('active');
-                const tabName = tab.dataset.tab;
-                await loadContent(tabName);
-                document.getElementById(tabName + '-content').classList.add('active');
-            });
-        });
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>
