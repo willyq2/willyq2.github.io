@@ -30,11 +30,3 @@ tabs.forEach(tab => {
         document.getElementById(tabName + '-content').classList.add('active');
     });
 });
-
-function refreshIframes() {
-    document.querySelectorAll('iframe').forEach(iframe => {
-        iframe.style.display = 'none';
-        iframe.offsetHeight;
-        iframe.style.display = 'block';
-    });
-}
