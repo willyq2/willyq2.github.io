@@ -26,7 +26,8 @@ body {
     gap: 20px;
     padding-bottom: 20px;
     align-items: baseline;
-    border-bottom: 0.5px solid grey;
+    border-bottom: 1px solid lightgrey;
+    min-height: 36px;
 }
 
 .tab {
@@ -58,7 +59,7 @@ body {
 .work-item {
     margin: 20px 0;
     padding-bottom: 20px;
-    border-bottom: 0.5px solid grey;
+    border-bottom: 1px solid lightgrey;
 }
 
 .work-item:last-child {
@@ -102,7 +103,7 @@ body {
 .photo-row {
     display: flex;
     gap: 20px;
-    margin: 10px 0;
+    margin: 20px 0;
 }
 
 .photo-row:last-child {
@@ -117,13 +118,13 @@ body {
 .photo-row img {
     width: 100%;
     height: auto;
-    object-fit: cover;
     cursor: pointer;
 }
 
 .photo-row iframe {
     flex: 1;
     width: 0;
+    min-height: 200px;
     aspect-ratio: 16 / 9;
 }
 
