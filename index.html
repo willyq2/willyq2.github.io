@@ -6,7 +6,6 @@
     <meta name="description" content="Visual and Data Work by William Webster.">
     <meta name="author" content="William Webster">
     <title>Visual and Data Work by William Webster</title>
-
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
@@ -25,13 +24,13 @@
             </p>
         </div>
 
-        <nav class="tab-nav" role="tablist">
-            <h2 class="tab active" data-tab="work" role="tab" aria-selected="true">Selected Work</h2>
-            <h2 class="tab" data-tab="photo" role="tab" aria-selected="false">Photo and Video</h2>
-        </nav>
+        <div class="tab-nav">
+            <h2 class="tab active" data-tab="work">Selected Work</h2>
+            <h2 class="tab" data-tab="photo">Photo and Video</h2>
+        </div>
 
-        <div id="work-content" class="tab-content active" role="tabpanel"></div>
-        <div id="photo-content" class="tab-content" role="tabpanel"></div>
+        <div id="work-content" class="tab-content active"></div>
+        <div id="photo-content" class="tab-content"></div>
     </div>
 
     <script>
@@ -39,29 +38,24 @@
         const contents = document.querySelectorAll('.tab-content');
 
         async function loadContent(tabName) {
-            const contentDiv = document.getElementById(`${tabName}-content`);
+            const contentDiv = document.getElementById(tabName + '-content');
             if (!contentDiv.innerHTML) {
-                const response = await fetch(`${tabName}.html`);
+                const response = await fetch(tabName + '.html');
                 contentDiv.innerHTML = await response.text();
             }
         }
 
         loadContent('work');
+        loadContent('photo');
 
         tabs.forEach(tab => {
-            tab.addEventListener('click', async () => {
-                tabs.forEach(t => {
-                    t.classList.remove('active');
-                    t.setAttribute('aria-selected', 'false');
-                });
+            tab.addEventListener('click', () => {
+                tabs.forEach(t => t.classList.remove('active'));
                 contents.forEach(c => c.classList.remove('active'));
-
-                tab.classList.add('active');
-                tab.setAttribute('aria-selected', 'true');
                 
+                tab.classList.add('active');
                 const tabName = tab.dataset.tab;
-                await loadContent(tabName);
-                document.getElementById(`${tabName}-content`).classList.add('active');
+                document.getElementById(tabName + '-content').classList.add('active');
             });
         });
     </script>
