@@ -146,4 +146,19 @@ body {
     .photo-row {
         flex-direction: column;
     }
+
+    .work-link {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .work-link img {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .work-info {
+        width: 100%;
+        gap: 10px;
+    }
 }
