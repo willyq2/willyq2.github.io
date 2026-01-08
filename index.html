@@ -10,64 +10,60 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
-
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div id="container">
+        <div id="introduction">
+            <h1>William Webster is an Applied Data Fellow at the University of Chicago</h1>
+            <p id="description">
+                He is a data analyst focused on translating complex datasets into clear analysis and visualizations,
+                with experience in public policy and government data. He currently works with the
+                <a href="https://ipa.illinois.gov/">Illinois Power Agency</a>.
+                <br><br>
+                Contact him at <a href="mailto:williamqwebster@gmail.com">williamqwebster@gmail.com</a>
+            </p>
+        </div>
 
-<div id="container">
+        <nav class="tab-nav" role="tablist">
+            <h2 class="tab active" data-tab="work" role="tab" aria-selected="true">Selected Work</h2>
+            <h2 class="tab" data-tab="photo" role="tab" aria-selected="false">Photo and Video</h2>
+        </nav>
 
-    <div id="introduction">
-        <h1>William Webster is an Applied Data Fellow at the University of Chicago</h1>
-        <p id="description">
-            He is a data analyst focused on translating complex datasets into clear analysis and visualizations,
-            with experience in public policy and government data. He currently works with the
-            <a href="https://ipa.illinois.gov/">Illinois Power Agency</a>.
-            <br><br>
-            Contact him at <a href="mailto:williamqwebster@gmail.com">williamqwebster@gmail.com</a>
-        </p>
+        <div id="work-content" class="tab-content active" role="tabpanel"></div>
+        <div id="photo-content" class="tab-content" role="tabpanel"></div>
     </div>
 
-    <div class="tab-nav">
-        <h2 class="tab active" data-tab="work">Selected Work</h2>
-        <h2 class="tab" data-tab="photo">Photo and Video</h2>
-    </div>
+    <script>
+        const tabs = document.querySelectorAll('.tab');
+        const contents = document.querySelectorAll('.tab-content');
 
-    <div id="work-content" class="tab-content active"></div>
-    <div id="photo-content" class="tab-content"></div>
-
-</div>
-
-<script>
-    const tabs = document.querySelectorAll('.tab');
-    const contents = document.querySelectorAll('.tab-content');
-
-    async function loadContent(tabName) {
-        const contentDiv = document.getElementById(`${tabName}-content`);
-        if (contentDiv.innerHTML === '') {
-            const response = await fetch(`${tabName}.html`);
-            const html = await response.text();
-            contentDiv.innerHTML = html;
+        async function loadContent(tabName) {
+            const contentDiv = document.getElementById(`${tabName}-content`);
+            if (!contentDiv.innerHTML) {
+                const response = await fetch(`${tabName}.html`);
+                contentDiv.innerHTML = await response.text();
+            }
         }
-    }
 
-    // load first tab
-    loadContent('work');
+        loadContent('work');
 
-    tabs.forEach(tab => {
-        tab.addEventListener('click', async () => {
-            tabs.forEach(t => t.classList.remove('active'));
-            contents.forEach(c => c.classList.remove('active'));
+        tabs.forEach(tab => {
+            tab.addEventListener('click', async () => {
+                tabs.forEach(t => {
+                    t.classList.remove('active');
+                    t.setAttribute('aria-selected', 'false');
+                });
+                contents.forEach(c => c.classList.remove('active'));
 
-            tab.classList.add('active');
-            const tabName = tab.dataset.tab;
-            const content = document.getElementById(`${tabName}-content`);
-
-            content.classList.add('active'); // activate BEFORE loading
-            await loadContent(tabName);
+                tab.classList.add('active');
+                tab.setAttribute('aria-selected', 'true');
+                
+                const tabName = tab.dataset.tab;
+                await loadContent(tabName);
+                document.getElementById(`${tabName}-content`).classList.add('active');
+            });
         });
-    });
-</script>
-
+    </script>
 </body>
 </html>
