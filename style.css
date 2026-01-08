@@ -76,6 +76,7 @@ body {
 }
 
 .work-link img {
+    box-sizing: border-box;
     flex: 0 0 auto;
     max-width: 60%;
     height: auto;
