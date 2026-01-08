@@ -76,20 +76,28 @@ body {
     gap: 20px;
     color: inherit;
     text-decoration: none;
+    align-items: stretch;
 }
 
 .work-link img {
-    width: 50%;
+    flex: 0 0 auto;
+    width: auto;
+    max-width: 60%;
+    height: auto;
     border: 1px solid lightgrey;
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
+    display: block;
 }
 
 .work-info {
-    width: 50%;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .work-info h4 {
-    margin: 0 0 10px 0;
+    margin: 0;
 }
 
 .work-info p {
@@ -137,14 +145,5 @@ body {
 @media (max-width: 500px) {
     .photo-row {
         flex-direction: column;
-    }
-    
-    .work-link {
-        flex-direction: column;
-    }
-    
-    .work-link img,
-    .work-info {
-        width: 100%;
     }
 }
