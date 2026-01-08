@@ -20,15 +20,16 @@ async function loadContent(tabName) {
 loadContent('work');
 
 tabs.forEach(tab => {
-    tab.addEventListener('click', async () => {
+    tab.addEventListener('click', () => {
         const tabName = tab.dataset.tab;
-       
-        await loadContent(tabName);
 
         tabs.forEach(t => t.classList.remove('active'));
         contents.forEach(c => c.classList.remove('active'));
 
         tab.classList.add('active');
-        document.getElementById(tabName + '-content').classList.add('active');
+        const targetContent = document.getElementById(tabName + '-content');
+        targetContent.classList.add('active');
+
+        loadContent(tabName);
     });
 });
