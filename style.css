@@ -121,13 +121,6 @@ body {
     border: 0;
 }
 
-.photo-row iframe {
-    flex: 1;
-    width: 0;
-    min-height: 200px;
-    aspect-ratio: 16 / 9;
-}
-
 @media (min-width: 1250px) {
     #container {
         max-width: 700px;
