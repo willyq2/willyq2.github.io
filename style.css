@@ -115,10 +115,10 @@ body {
     width: 0;
 }
 
-.photo-row img {
+.photo-row iframe {
     width: 100%;
-    height: auto;
-    cursor: pointer;
+    aspect-ratio: 16 / 9;
+    border: 0;
 }
 
 .photo-row iframe {
