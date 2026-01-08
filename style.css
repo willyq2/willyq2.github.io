@@ -33,7 +33,6 @@ body {
 .tab {
     margin: 0;
     font-size: 1.25em;
-    line-height: 1;
     color: lightgrey;
     cursor: pointer;
     transition: color 0.25s;
@@ -87,9 +86,6 @@ body {
 
 .work-info {
     width: 50%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
 }
 
 .work-info h4 {
@@ -116,15 +112,9 @@ body {
     margin-bottom: 0;
 }
 
-.photo-row a {
-    flex: 1;
-    min-width: 0;
-}
-
 .photo-row img {
     width: 100%;
     display: block;
-    cursor: pointer;
 }
 
 .video-wrapper {
@@ -149,18 +139,11 @@ body {
         flex-direction: column;
     }
     
-    .photo-row a {
-        width: 100%;
-    }
-    
     .work-link {
         flex-direction: column;
     }
     
-    .work-link img {
-        width: 100%;
-    }
-    
+    .work-link img,
     .work-info {
         width: 100%;
     }
