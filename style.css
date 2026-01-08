@@ -1,6 +1,6 @@
 body {
     font-family: 'Lora', Georgia, serif;
-    margin: 50px 25px;
+    margin: 50px 15px;
 }
 
 #container {
@@ -130,15 +130,5 @@ body {
 @media (min-width: 1250px) {
     #container {
         max-width: 700px;
-    }
-}
-
-@media (max-width: 500px) {
-    body {
-        margin: 5px;
-    }
-    
-    #container {
-        max-width: 100%;
     }
 }
