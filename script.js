@@ -38,6 +38,3 @@ function refreshIframes() {
         iframe.style.display = 'block';
     });
 }
-
-window.addEventListener('orientationchange', refreshIframes);
-window.addEventListener('resize', refreshIframes);

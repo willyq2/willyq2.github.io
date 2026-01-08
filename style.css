@@ -127,6 +127,10 @@ body {
     display: block;
 }
 
+.video-row {
+    display: block;
+}
+
 .video-wrapper {
     width: 100%;
     aspect-ratio: 16 / 9;
