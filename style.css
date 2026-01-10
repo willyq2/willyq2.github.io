@@ -12,13 +12,13 @@ body {
     margin-bottom: 80px;
 }
 
-#description {
-    color: grey;
-}
-
-#description a {
+#introduction a {
     color: black;
     text-decoration: none;
+}
+
+#description {
+    color: grey;
 }
 
 .tab-nav {
@@ -76,6 +76,7 @@ body {
 }
 
 .work-link img {
+    box-sizing: border-box;
     flex: 0 0 auto;
     max-width: 60%;
     height: auto;

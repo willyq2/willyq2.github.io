@@ -20,21 +20,16 @@ async function loadContent(tabName) {
 loadContent('work');
 
 tabs.forEach(tab => {
-    tab.addEventListener('click', async () => {
+    tab.addEventListener('click', () => {
+        const tabName = tab.dataset.tab;
+
         tabs.forEach(t => t.classList.remove('active'));
         contents.forEach(c => c.classList.remove('active'));
-        
+
         tab.classList.add('active');
-        const tabName = tab.dataset.tab;
-        await loadContent(tabName);
-        document.getElementById(tabName + '-content').classList.add('active');
+        const targetContent = document.getElementById(tabName + '-content');
+        targetContent.classList.add('active');
+
+        loadContent(tabName);
     });
 });
-
-function refreshIframes() {
-    document.querySelectorAll('iframe').forEach(iframe => {
-        iframe.style.display = 'none';
-        iframe.offsetHeight;
-        iframe.style.display = 'block';
-    });
-}
