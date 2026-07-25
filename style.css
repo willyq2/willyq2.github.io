@@ -4,12 +4,12 @@ body {
 }
 
 #container {
-    max-width: 500px;
+    max-width: 550px;
     margin: 0 auto;
 }
 
 #introduction {
-    margin-bottom: 80px;
+    margin-bottom: 60px;
 }
 
 #introduction a {
