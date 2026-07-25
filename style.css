@@ -55,19 +55,19 @@ body {
     display: block;
 }
 
-.work-item {
+.data-item {
     margin: 20px 0;
     padding-bottom: 20px;
     border-bottom: 1px solid lightgrey;
 }
 
-.work-item:last-child {
+.data-item:last-child {
     margin-bottom: 0;
     padding-bottom: 0;
     border-bottom: none;
 }
 
-.work-link {
+.data-link {
     display: flex;
     gap: 20px;
     color: inherit;
@@ -75,7 +75,7 @@ body {
     align-items: stretch;
 }
 
-.work-link img {
+.data-link img {
     box-sizing: border-box;
     flex: 0 0 auto;
     max-width: 60%;
@@ -85,43 +85,43 @@ body {
     display: block;
 }
 
-.work-info {
+.data-info {
     flex: 1;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
 }
 
-.work-info h4,
-.work-info p {
+.data-info h4,
+.data-info p {
     margin: 0;
 }
 
-.work-info p {
+.data-info p {
     font-size: 0.8em;
     color: grey;
 }
 
-.photo-row {
+.visual-row {
     display: flex;
     gap: 10px;
     margin: 10px 0;
 }
 
-.photo-row:first-child {
+.visual-row:first-child {
     margin-top: 20px;
 }
 
-.photo-row:last-child {
+.visual-row:last-child {
     margin-bottom: 0;
 }
 
-.photo-row a {
+.visual-row a {
     flex: 1;
     display: flex;
 }
 
-.photo-row img {
+.visual-row img {
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -155,21 +155,21 @@ body {
 }
 
 @media (max-width: 500px) {
-    .photo-row {
+    .visual-row {
         flex-direction: column;
     }
 
-    .work-link {
+    .data-link {
         flex-direction: column;
         align-items: flex-start;
     }
 
-    .work-link img {
+    .data-link img {
         width: 100%;
         max-width: 100%;
     }
 
-    .work-info {
+    .data-info {
         width: 100%;
         gap: 10px;
     }
