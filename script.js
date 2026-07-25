@@ -26,4 +26,3 @@ tabs.forEach(tab => {
 });
 
 showTab('data');
-loadContent('visual');
