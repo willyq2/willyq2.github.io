@@ -2,34 +2,27 @@ const tabs = document.querySelectorAll('.tab');
 const contents = document.querySelectorAll('.tab-content');
 
 async function loadContent(tabName) {
-    const contentDiv = document.getElementById(tabName + '-content');
-    if (!contentDiv.innerHTML) {
-        try {
-            const response = await fetch(tabName + '.html');
-            if (response.ok) {
-                contentDiv.innerHTML = await response.text();
-            } else {
-                contentDiv.innerHTML = '<p>Error loading content.</p>';
-            }
-        } catch (error) {
-            contentDiv.innerHTML = '<p>Error loading content.</p>';
-        }
+    const contentDiv = document.getElementById(`${tabName}-content`);
+    if (contentDiv.innerHTML) return; // already loaded, don't re-fetch
+
+    try {
+        const response = await fetch(`${tabName}.html`);
+        contentDiv.innerHTML = response.ok
+            ? await response.text()
+            : '<p>Error loading content.</p>';
+    } catch {
+        contentDiv.innerHTML = '<p>Error loading content.</p>';
     }
 }
 
-loadContent('work');
+function showTab(tabName) {
+    tabs.forEach(tab => tab.classList.toggle('active', tab.dataset.tab === tabName));
+    contents.forEach(content => content.classList.toggle('active', content.id === `${tabName}-content`));
+    loadContent(tabName);
+}
 
 tabs.forEach(tab => {
-    tab.addEventListener('click', () => {
-        const tabName = tab.dataset.tab;
-
-        tabs.forEach(t => t.classList.remove('active'));
-        contents.forEach(c => c.classList.remove('active'));
-
-        tab.classList.add('active');
-        const targetContent = document.getElementById(tabName + '-content');
-        targetContent.classList.add('active');
-
-        loadContent(tabName);
-    });
+    tab.addEventListener('click', () => showTab(tab.dataset.tab));
 });
+
+showTab('data');
