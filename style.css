@@ -18,6 +18,10 @@ body {
     text-decoration: none;
 }
 
+#introduction a:hover {
+    color: darkorange;
+}
+
 #description {
     color: grey;
 }
@@ -40,12 +44,13 @@ body {
 }
 
 .tab.active {
-    color: black;
+    color: darkorange;
     font-size: 1.5em;
+    text-decoration: underline;
 }
 
 .tab:not(.active):hover {
-    color: dimgrey;
+    color: darkorange;
 }
 
 .tab-content {
@@ -98,6 +103,10 @@ body {
     margin: 0;
 }
 
+.data-info h4 {
+    color: black;
+}
+
 .data-info p {
     font-size: 0.8em;
     color: grey;
@@ -120,6 +129,10 @@ body {
 .visual-row a {
     flex: 1;
     display: flex;
+}
+
+a:hover {
+    color: darkorange;
 }
 
 .visual-row img {
