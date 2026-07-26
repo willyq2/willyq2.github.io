@@ -1,6 +1,7 @@
 body {
     font-family: 'Lora', Georgia, serif;
     margin: 50px 15px;
+    background-color: hsl(33, 100%, 99%);;
 }
 
 #container {
@@ -26,14 +27,14 @@ body {
     gap: 20px;
     align-items: baseline;
     padding-bottom: 20px;
-    border-bottom: 1px solid lightgrey;
+    border-bottom: 1px solid lightgray;
     min-height: 52px;
 }
 
 .tab {
     margin: 0;
     font-size: 1.25em;
-    color: lightgrey;
+    color: darkgray;
     cursor: pointer;
     transition: color 0.25s;
 }
@@ -44,7 +45,7 @@ body {
 }
 
 .tab:not(.active):hover {
-    color: grey;
+    color: dimgrey;
 }
 
 .tab-content {
@@ -58,7 +59,7 @@ body {
 .data-item {
     margin: 20px 0;
     padding-bottom: 20px;
-    border-bottom: 1px solid lightgrey;
+    border-bottom: 1px solid lightgray;
 }
 
 .data-item:last-child {
@@ -80,7 +81,7 @@ body {
     flex: 0 0 auto;
     max-width: 60%;
     height: auto;
-    border: 1px solid lightgrey;
+    border: 1px solid lightgray;
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
     display: block;
 }
