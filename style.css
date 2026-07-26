@@ -19,7 +19,7 @@ body {
 }
 
 #introduction a:hover {
-    color: darkorange;
+    color: hsl(33, 100%, 50%);
 }
 
 #description {
@@ -44,13 +44,13 @@ body {
 }
 
 .tab.active {
-    color: darkorange;
+    color: hsl(33, 100%, 50%);
     font-size: 1.5em;
     text-decoration: underline;
 }
 
 .tab:not(.active):hover {
-    color: darkorange;
+    color: hsl(33, 100%, 70%);
 }
 
 .tab-content {
@@ -132,7 +132,7 @@ body {
 }
 
 a:hover {
-    color: darkorange;
+    color: hsl(33, 100%, 50%);
 }
 
 .visual-row img {
