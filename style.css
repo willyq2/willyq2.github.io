@@ -1,5 +1,5 @@
 body {
-    font-family: 'Lora', Georgia, serif;
+    font-family: 'Arial', sans-serif;
     margin: 50px 15px;
     background-color: white;
 }
@@ -44,6 +44,7 @@ body {
 }
 
 .tab.active {
+    font-family: 'Trocchi', Georgia, serif;
     color: hsl(33, 100%, 50%);
     font-size: 1.5em;
     text-decoration: underline;
