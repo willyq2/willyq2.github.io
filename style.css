@@ -1,5 +1,6 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 350;
     margin: 50px 15px;
     background-color: white;
 }
@@ -11,6 +12,10 @@ body {
 
 #introduction {
     margin-bottom: 60px;
+}
+
+#introduction h1 {
+    font-weight: 550;
 }
 
 #introduction a {
@@ -44,10 +49,10 @@ body {
 }
 
 .tab.active {
-    font-family: 'Trocchi', Georgia, serif;
+    font-family: 'Noto Serif', serif;
+    font-weight: 800;
     color: hsl(33, 100%, 50%);
     font-size: 1.5em;
-    text-decoration: underline;
 }
 
 .tab:not(.active):hover {
@@ -106,6 +111,7 @@ body {
 
 .data-info h4 {
     color: black;
+    font-weight: 550;
 }
 
 .data-info p {
