@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>Promontory Point — Revetment Removal Plan</title>
+
+  <!-- MapLibre GL JS: draws the map. -->
+  <script src="https://unpkg.com/maplibre-gl@4/dist/maplibre-gl.js"></script>
+  <link href="https://unpkg.com/maplibre-gl@4/dist/maplibre-gl.css" rel="stylesheet" />
+
+  <!-- Turf.js: does the geospatial math (clipping, buffering in feet,
+       point-in-polygon tests) right in the browser. -->
+  <script src="https://unpkg.com/@turf/turf@6/turf.min.js"></script>
+
+  <!-- csv2geojson: converts the tree inventory CSV straight into GeoJSON. -->
+  <script src="https://unpkg.com/csv2geojson@5.1.2/csv2geojson.js"></script>
+
+  <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+
+  <div id="sidebar">
+    <h1>Promontory Point</h1>
+    <p>Proposed revetment work zone — <span id="bufferLabel">75ft</span> buffer</p>
+
+    <div id="stats">Loading tree data…</div>
+
+    <h2>Trees being removed</h2>
+    <div id="breakdown"></div>
+
+    <h2>Legend</h2>
+    <div class="legend-row"><span class="dot" style="background:#5a7350"></span> Retained</div>
+    <div class="legend-row"><span class="dot" style="background:#a03228"></span> Removed (revetment zone)</div>
+    <p class="hint">Circle size = trunk diameter (DBH)</p>
+
+    <h2>Export</h2>
+    <button id="downloadDataBtn" class="btn">Download tree data (CSV)</button>
+    <button id="downloadImageBtn" class="btn" disabled>Download map image (PNG)</button>
+  </div>
+
+  <div id="map"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>

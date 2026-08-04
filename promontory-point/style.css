@@ -1,0 +1,102 @@
+/* Basic page layout: a sidebar on the left, map filling the rest */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, sans-serif;
+  display: flex;
+  height: 100vh;
+}
+
+#sidebar {
+  width: 260px;
+  padding: 16px;
+  background: white;
+  border-right: 1px solid #ddd;
+  overflow-y: auto;
+}
+
+#sidebar h1 {
+  font-size: 1.1rem;
+  margin: 0 0 4px;
+}
+
+#sidebar p {
+  font-size: 0.8rem;
+  color: #666;
+  margin: 0 0 16px;
+}
+
+#sidebar h2 {
+  font-size: 0.85rem;
+  margin: 20px 0 8px;
+}
+
+#map {
+  flex: 1;
+}
+
+#stats {
+  font-size: 0.85rem;
+  margin-bottom: 16px;
+  line-height: 1.6;
+}
+
+#stats b {
+  color: #222;
+}
+
+.hint {
+  font-size: 0.72rem;
+  color: #888;
+  margin-top: -8px;
+}
+
+/* Species breakdown list — one row per species, name left / count right */
+#breakdown {
+  font-size: 0.8rem;
+  max-height: 160px;
+  overflow-y: auto;
+}
+
+.breakdown-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 3px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.legend-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.8rem;
+  padding: 4px 0;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.btn {
+  display: block;
+  width: 100%;
+  padding: 8px 12px;
+  margin-bottom: 8px;
+  border: 1.5px solid #ccc;
+  border-radius: 6px;
+  background: white;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.btn:disabled {
+  color: #aaa;
+  cursor: default;
+}
