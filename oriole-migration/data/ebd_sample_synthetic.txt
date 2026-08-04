@@ -1,0 +1,841 @@
+GLOBAL UNIQUE IDENTIFIER	COMMON NAME	SCIENTIFIC NAME	OBSERVATION COUNT	COUNTRY	STATE	LOCALITY	LATITUDE	LONGITUDE	OBSERVATION DATE	OBSERVER ID	SAMPLING EVENT IDENTIFIER	PROTOCOL TYPE	ALL SPECIES REPORTED
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000000	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	19.207	-75.257	2025-01-09	obsr5785687	S554200826	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000001	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	5.192	-73.319	2025-01-24	obsr3597059	S303901283	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000002	Baltimore Oriole	Icterus galbula	1		Florida	Florida	27.989	-80.426	2025-01-07	obsr2022698	S903132646	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000003	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	10.182	-72.419	2025-01-02	obsr8999183	S639931481	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000004	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	10.577	-71.856	2025-01-06	obsr9519948	S186019028	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000005	Baltimore Oriole	Icterus galbula	1		Panama	Panama	10.967	-81.507	2025-01-03	obsr4946066	S533550699	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000006	Baltimore Oriole	Icterus galbula	2		Florida	Florida	27.567	-79.329	2025-01-19	obsr1666754	S765055833	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000007	Baltimore Oriole	Icterus galbula	3		Cuba	Cuba	19.809	-77.687	2025-01-14	obsr5374922	S319321646	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000008	Baltimore Oriole	Icterus galbula	3		Florida	Florida	27.84	-81.774	2025-01-23	obsr5004485	S385201412	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000009	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	5.913	-71.044	2025-01-05	obsr8670955	S439492674	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000010	Baltimore Oriole	Icterus galbula	4		Florida	Florida	26.393	-81.689	2025-01-01	obsr2677407	S178663096	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000011	Baltimore Oriole	Icterus galbula	3		Florida	Florida	28.288	-82.599	2025-01-07	obsr3222252	S474745382	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000012	Baltimore Oriole	Icterus galbula	3		Florida	Florida	26.287	-83.255	2025-01-08	obsr5781295	S269379374	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000013	Baltimore Oriole	Icterus galbula	3		Panama	Panama	8.559	-82.172	2025-01-27	obsr9874152	S108399996	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000014	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	8.741	-73.25	2025-01-27	obsr2737893	S244193987	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000015	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	8.897	-71.375	2025-01-04	obsr3607983	S392431670	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000016	Baltimore Oriole	Icterus galbula	2		Cuba	Cuba	20.191	-78.397	2025-01-20	obsr6752576	S318610946	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000017	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	12.38	-73.625	2025-01-21	obsr9479356	S624557080	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000018	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	18.36	-78.043	2025-01-28	obsr2548511	S781057736	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000019	Baltimore Oriole	Icterus galbula	3		Cuba	Cuba	20.379	-75.887	2025-01-27	obsr1739653	S103807155	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000020	Baltimore Oriole	Icterus galbula	2		Florida	Florida	26.615	-82.476	2025-01-25	obsr5394880	S273497327	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000021	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	16.618	-74.904	2025-01-15	obsr1162230	S220123666	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000022	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	8.327	-70.868	2025-01-23	obsr1604451	S996139578	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000023	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	12.353	-71.548	2025-01-19	obsr8210624	S236843584	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000024	Baltimore Oriole	Icterus galbula	3		Florida	Florida	28.707	-82.192	2025-01-10	obsr1669324	S484194737	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000025	Baltimore Oriole	Icterus galbula	2		Panama	Panama	8.15	-80.095	2025-01-22	obsr2724590	S479759538	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000026	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	10.407	-72.932	2025-01-28	obsr3592974	S354194771	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000027	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	5.97	-77.603	2025-01-26	obsr7917152	S126614158	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000028	Baltimore Oriole	Icterus galbula	3		Panama	Panama	14.103	-80.672	2025-01-24	obsr7907400	S961393416	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000029	Baltimore Oriole	Icterus galbula	2		Panama	Panama	9.252	-81.477	2025-01-28	obsr5476257	S270937380	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000030	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	5.614	-76.085	2025-01-04	obsr1649691	S605399561	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000031	Baltimore Oriole	Icterus galbula	4		Panama	Panama	9.572	-80.193	2025-01-07	obsr6866294	S427696198	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000032	Baltimore Oriole	Icterus galbula	1		Florida	Florida	27.064	-84.641	2025-01-08	obsr4240180	S527849588	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000033	Baltimore Oriole	Icterus galbula	1		Florida	Florida	27.604	-79.588	2025-01-09	obsr5682940	S477040284	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000034	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	18.701	-78.687	2025-01-17	obsr9996207	S455569462	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000035	Baltimore Oriole	Icterus galbula	3		Cuba	Cuba	20.137	-75.204	2025-01-04	obsr3995870	S723403479	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000036	Baltimore Oriole	Icterus galbula	1		Panama	Panama	8.123	-78.085	2025-01-02	obsr8290770	S471178705	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000037	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	7.996	-74.568	2025-01-26	obsr8321474	S750911797	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000038	Baltimore Oriole	Icterus galbula	4		Florida	Florida	26.949	-80.806	2025-01-04	obsr4188992	S373506211	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000039	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	18.399	-77.982	2025-01-23	obsr1028374	S658260221	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000040	Baltimore Oriole	Icterus galbula	2		Cuba	Cuba	18.298	-80.704	2025-01-22	obsr7110622	S563102056	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000041	Baltimore Oriole	Icterus galbula	3		Panama	Panama	9.005	-80.23	2025-01-22	obsr6266630	S812306873	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000042	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	6.34	-68.366	2025-01-24	obsr9508103	S432091877	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000043	Baltimore Oriole	Icterus galbula	3		Florida	Florida	27.791	-81.647	2025-01-14	obsr7751158	S848621833	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000044	Baltimore Oriole	Icterus galbula	2		Florida	Florida	27.375	-81.02	2025-01-18	obsr4218542	S551450815	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000045	Baltimore Oriole	Icterus galbula	2		Panama	Panama	10.069	-78.933	2025-01-13	obsr6049101	S536019893	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000046	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	20.353	-75.271	2025-01-27	obsr6098175	S408071259	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000047	Baltimore Oriole	Icterus galbula	3		Panama	Panama	12.03	-82.383	2025-01-14	obsr8801207	S574364121	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000048	Baltimore Oriole	Icterus galbula	2		Panama	Panama	10.814	-81.408	2025-01-22	obsr9576076	S608079792	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000049	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	20.36	-76.425	2025-01-06	obsr5761145	S653462378	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000050	Baltimore Oriole	Icterus galbula	3		Florida	Florida	26.719	-82.258	2025-01-21	obsr2566777	S978775497	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000051	Baltimore Oriole	Icterus galbula	3		Panama	Panama	9.737	-80.966	2025-01-22	obsr4768844	S966040317	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000052	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	7.286	-74.537	2025-01-05	obsr1775337	S362897676	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000053	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	9.142	-69.815	2025-01-20	obsr8640615	S545002643	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000054	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	5.92	-68.895	2025-01-19	obsr7442089	S630833445	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000055	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	10.78	-72.72	2025-01-08	obsr1093026	S906341966	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000056	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	11.244	-69.055	2025-01-25	obsr4671545	S288856883	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000057	Baltimore Oriole	Icterus galbula	4		Panama	Panama	9.449	-85.453	2025-01-17	obsr1842524	S698509918	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000058	Baltimore Oriole	Icterus galbula	1		Florida	Florida	27.878	-81.302	2025-01-28	obsr8658158	S243171768	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000059	Baltimore Oriole	Icterus galbula	3		Panama	Panama	9.777	-83.99	2025-01-22	obsr8425149	S757830420	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000060	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	14.789	-79.934	2025-01-17	obsr8481188	S270894498	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000061	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	8.981	-74.863	2025-01-28	obsr8550917	S378304807	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000062	Baltimore Oriole	Icterus galbula	3		Florida	Florida	28.085	-81.493	2025-01-27	obsr9745959	S620332086	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000063	Baltimore Oriole	Icterus galbula	3		Panama	Panama	9.571	-83.425	2025-01-08	obsr8379837	S183197117	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000064	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	7.059	-70.603	2025-01-10	obsr5558623	S460613550	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000065	Baltimore Oriole	Icterus galbula	1		Florida	Florida	27.41	-81.867	2025-01-18	obsr3321531	S261953189	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000066	Baltimore Oriole	Icterus galbula	2		Florida	Florida	25.466	-79.872	2025-01-13	obsr4589533	S168965204	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000067	Baltimore Oriole	Icterus galbula	3		Florida	Florida	27.058	-81.079	2025-01-14	obsr8816912	S546434187	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000068	Baltimore Oriole	Icterus galbula	4		Panama	Panama	10.479	-81.543	2025-01-07	obsr7534336	S926561919	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000069	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	11.755	-78.263	2025-01-23	obsr7381734	S612153089	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000070	Baltimore Oriole	Icterus galbula	2		Florida	Florida	28.353	-81.859	2025-02-03	obsr5438490	S945923902	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000071	Baltimore Oriole	Icterus galbula	2		Florida	Florida	26.54	-80.735	2025-02-19	obsr8132648	S223240112	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000072	Baltimore Oriole	Icterus galbula	2		Cuba	Cuba	15.647	-75.552	2025-02-08	obsr5456573	S987588450	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000073	Baltimore Oriole	Icterus galbula	1		Panama	Panama	10.712	-82.331	2025-02-03	obsr3783722	S951078441	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000074	Baltimore Oriole	Icterus galbula	3		Panama	Panama	6.658	-83.746	2025-02-20	obsr8367772	S233523720	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000075	Baltimore Oriole	Icterus galbula	3		Cuba	Cuba	15.879	-74.34	2025-02-23	obsr7752972	S392322121	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000076	Baltimore Oriole	Icterus galbula	4		Florida	Florida	27.083	-84.055	2025-02-18	obsr8344375	S186373782	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000077	Baltimore Oriole	Icterus galbula	4		Panama	Panama	8.463	-82.435	2025-02-02	obsr6407658	S748232591	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000078	Baltimore Oriole	Icterus galbula	1		Panama	Panama	8.295	-81.151	2025-02-01	obsr4840714	S824022357	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000079	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	9.826	-74.286	2025-02-19	obsr5521644	S718740490	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000080	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	6.961	-71.531	2025-02-25	obsr8893693	S657233178	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000081	Baltimore Oriole	Icterus galbula	3		Florida	Florida	28.308	-83.507	2025-02-15	obsr4044882	S728492896	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000082	Baltimore Oriole	Icterus galbula	4		Panama	Panama	8.509	-82.004	2025-02-21	obsr2530793	S604669821	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000083	Baltimore Oriole	Icterus galbula	3		Florida	Florida	27.835	-81.427	2025-02-14	obsr6386463	S819550381	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000084	Baltimore Oriole	Icterus galbula	2		Florida	Florida	27.557	-81.208	2025-02-28	obsr6533187	S542000551	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000085	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	5.787	-71.147	2025-02-16	obsr7718473	S973559879	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000086	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	8.153	-74.215	2025-02-02	obsr2477398	S437710224	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000087	Baltimore Oriole	Icterus galbula	1		Florida	Florida	27.651	-82.401	2025-02-11	obsr7780932	S652543518	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000088	Baltimore Oriole	Icterus galbula	4		Panama	Panama	6.615	-86.052	2025-02-22	obsr7933143	S158201193	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000089	Baltimore Oriole	Icterus galbula	3		Cuba	Cuba	18.028	-76.771	2025-02-17	obsr9363326	S771527524	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000090	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	5.954	-78.06	2025-02-25	obsr4415140	S386749454	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000091	Baltimore Oriole	Icterus galbula	3		Panama	Panama	8.205	-80.375	2025-02-05	obsr8350368	S849740261	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000092	Baltimore Oriole	Icterus galbula	1		Florida	Florida	28.642	-80.987	2025-02-04	obsr5014745	S862123506	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000093	Baltimore Oriole	Icterus galbula	1		Florida	Florida	28.89	-81.417	2025-02-10	obsr7844947	S200082623	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000094	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	4.892	-74.816	2025-02-27	obsr8741810	S226128312	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000095	Baltimore Oriole	Icterus galbula	2		Cuba	Cuba	18.808	-77.583	2025-02-27	obsr9361353	S869446962	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000096	Baltimore Oriole	Icterus galbula	3		Panama	Panama	8.518	-82.399	2025-02-17	obsr7970771	S996278008	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000097	Baltimore Oriole	Icterus galbula	2		Cuba	Cuba	19.137	-74.711	2025-02-16	obsr8663605	S691916368	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000098	Baltimore Oriole	Icterus galbula	2		Panama	Panama	9.577	-83.734	2025-02-13	obsr9526867	S901325519	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000099	Baltimore Oriole	Icterus galbula	1		Florida	Florida	27.63	-82.17	2025-02-28	obsr5634662	S929653607	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000100	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	7.63	-76.591	2025-02-11	obsr1043037	S403696046	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000101	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	17.622	-73.676	2025-02-10	obsr3493017	S579476614	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000102	Baltimore Oriole	Icterus galbula	3		Panama	Panama	7.213	-80.772	2025-02-16	obsr6577416	S692616814	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000103	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	12.378	-72.835	2025-02-13	obsr6398528	S302563940	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000104	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	8.95	-76.968	2025-02-08	obsr4918527	S932734539	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000105	Baltimore Oriole	Icterus galbula	3		Panama	Panama	7.817	-82.891	2025-02-02	obsr8935224	S857232668	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000106	Baltimore Oriole	Icterus galbula	2		Panama	Panama	10.545	-83.05	2025-02-13	obsr9310235	S139749508	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000107	Baltimore Oriole	Icterus galbula	3		Panama	Panama	10.213	-82.085	2025-02-17	obsr2683838	S572775194	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000108	Baltimore Oriole	Icterus galbula	4		Panama	Panama	7.693	-80.142	2025-02-17	obsr1257489	S875718152	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000109	Baltimore Oriole	Icterus galbula	2		Panama	Panama	10.039	-81.462	2025-02-14	obsr2255409	S604111692	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000110	Baltimore Oriole	Icterus galbula	4		Panama	Panama	8.622	-83.395	2025-02-11	obsr2347467	S452794611	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000111	Baltimore Oriole	Icterus galbula	4		Panama	Panama	7.411	-82.518	2025-02-28	obsr6312692	S773020489	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000112	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	9.836	-73.698	2025-02-25	obsr1602286	S762992051	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000113	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	6.457	-74.235	2025-02-08	obsr4816586	S901834280	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000114	Baltimore Oriole	Icterus galbula	1		Panama	Panama	13.208	-85.75	2025-02-14	obsr2686231	S576396216	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000115	Baltimore Oriole	Icterus galbula	3		Panama	Panama	10.323	-83.313	2025-02-23	obsr1485654	S149382425	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000116	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	10.975	-72.513	2025-02-26	obsr5921894	S484897084	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000117	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	3.402	-73.274	2025-02-14	obsr5096953	S670335494	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000118	Baltimore Oriole	Icterus galbula	2		Cuba	Cuba	21.523	-75.706	2025-02-19	obsr3851852	S287979290	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000119	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	6.309	-76.573	2025-02-20	obsr5040453	S634366139	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000120	Baltimore Oriole	Icterus galbula	2		Panama	Panama	8.654	-78.247	2025-02-05	obsr8736811	S784944881	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000121	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	9.22	-74.361	2025-02-15	obsr1157662	S963968184	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000122	Baltimore Oriole	Icterus galbula	2		Cuba	Cuba	19.36	-76.53	2025-02-10	obsr2239197	S574303740	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000123	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	12.346	-74.571	2025-02-19	obsr8118722	S841218491	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000124	Baltimore Oriole	Icterus galbula	3		Cuba	Cuba	18.232	-76.982	2025-02-15	obsr4342306	S513061224	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000125	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	10.091	-73.611	2025-02-04	obsr7398231	S714097318	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000126	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	7.692	-71.137	2025-02-19	obsr5953150	S123557463	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000127	Baltimore Oriole	Icterus galbula	3		Florida	Florida	27.717	-81.167	2025-02-13	obsr1135861	S707661655	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000128	Baltimore Oriole	Icterus galbula	1		Panama	Panama	7.937	-84.696	2025-02-25	obsr9333700	S994253959	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000129	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	3.757	-70.713	2025-02-25	obsr6910964	S335154329	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000130	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	10.396	-72.964	2025-02-07	obsr3294774	S774576271	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000131	Baltimore Oriole	Icterus galbula	1		Panama	Panama	7.817	-84.285	2025-02-21	obsr6183033	S946764061	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000132	Baltimore Oriole	Icterus galbula	3		Cuba	Cuba	21.464	-80.515	2025-02-02	obsr3204724	S196779973	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000133	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	6.952	-75.247	2025-02-11	obsr3946751	S315601773	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000134	Baltimore Oriole	Icterus galbula	3		Panama	Panama	10.407	-77.283	2025-02-26	obsr9906224	S638798023	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000135	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	5.38	-72.72	2025-02-27	obsr5311242	S985503942	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000136	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	8.678	-71.384	2025-02-26	obsr6682698	S963538119	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000137	Baltimore Oriole	Icterus galbula	1		Panama	Panama	10.28	-80.864	2025-02-15	obsr3361510	S909763993	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000138	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	19.08	-77.557	2025-02-28	obsr7136687	S196961971	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000139	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	11.637	-74.011	2025-02-01	obsr3073474	S588322781	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000140	Baltimore Oriole	Icterus galbula	2		Central America	Central America	9.805	-78.553	2025-03-10	obsr3302417	S920511515	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000141	Baltimore Oriole	Icterus galbula	3		Central America	Central America	11.671	-75.886	2025-03-10	obsr3013003	S108299923	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000142	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	18.61	-84.872	2025-03-24	obsr3947669	S238712095	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000143	Baltimore Oriole	Icterus galbula	2		Central America	Central America	11.327	-75.476	2025-03-18	obsr9393009	S699924859	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000144	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	14.326	-87.548	2025-03-26	obsr2209226	S526351920	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000145	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	18.561	-91.15	2025-03-02	obsr1314430	S593657365	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000146	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	10.646	-73.78	2025-03-28	obsr8202195	S715683222	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000147	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	17.341	-88.975	2025-03-23	obsr5857259	S223666470	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000148	Baltimore Oriole	Icterus galbula	3		Central America	Central America	9.286	-78.975	2025-03-01	obsr3883553	S960413104	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000149	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	10.202	-75.877	2025-03-15	obsr2478574	S568915703	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000150	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	18.436	-90.982	2025-03-08	obsr7718433	S662600500	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000151	Baltimore Oriole	Icterus galbula	3		Central America	Central America	14.518	-82.154	2025-03-13	obsr6696087	S337911187	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000152	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	19.475	-91.859	2025-03-25	obsr2281433	S648127255	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000153	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	8.459	-72.437	2025-03-04	obsr6861544	S476990466	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000154	Baltimore Oriole	Icterus galbula	2		Central America	Central America	10.573	-83.633	2025-03-27	obsr4963933	S210385522	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000155	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	18.727	-91.301	2025-03-09	obsr3910830	S746820987	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000156	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	16.315	-88.409	2025-03-25	obsr3972018	S929839316	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000157	Baltimore Oriole	Icterus galbula	4		Central America	Central America	10.035	-79.121	2025-03-16	obsr8531380	S831361497	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000158	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	16.636	-89.572	2025-03-21	obsr6303930	S262089272	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000159	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	17.721	-90.866	2025-03-03	obsr8419020	S777944609	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000160	Baltimore Oriole	Icterus galbula	3		Central America	Central America	13.261	-76.536	2025-03-26	obsr1942411	S477895080	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000161	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	9.746	-73.535	2025-03-03	obsr8746753	S585238820	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000162	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	9.053	-69.046	2025-03-02	obsr5816353	S182389284	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000163	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	19.038	-88.7	2025-03-28	obsr9507186	S512834919	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000164	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	17.637	-90.303	2025-03-19	obsr8545279	S969533218	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000165	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	16.661	-89.542	2025-03-21	obsr6394323	S749620068	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000166	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	18.547	-89.624	2025-03-17	obsr2038068	S583745511	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000167	Baltimore Oriole	Icterus galbula	3		Central America	Central America	11.494	-81.081	2025-03-26	obsr2414808	S641755366	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000168	Baltimore Oriole	Icterus galbula	1		Central America	Central America	9.785	-76.475	2025-03-06	obsr5156449	S859803019	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000169	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	17.891	-96.027	2025-03-15	obsr7105194	S500346767	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000170	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	14.316	-88.959	2025-03-13	obsr6676858	S828960875	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000171	Baltimore Oriole	Icterus galbula	3		Central America	Central America	13.26	-83.224	2025-03-02	obsr2105817	S454002758	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000172	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	18.25	-92.512	2025-03-18	obsr5767195	S370578414	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000173	Baltimore Oriole	Icterus galbula	2		Central America	Central America	12.251	-82.472	2025-03-28	obsr6592886	S187512088	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000174	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	19.248	-87.009	2025-03-22	obsr6869018	S433108786	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000175	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	20.622	-90.554	2025-03-23	obsr3163449	S738920648	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000176	Baltimore Oriole	Icterus galbula	3		Central America	Central America	17.398	-80.678	2025-03-03	obsr7319630	S790945624	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000177	Baltimore Oriole	Icterus galbula	2		Central America	Central America	12.733	-80.266	2025-03-27	obsr9831414	S200344359	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000178	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	14.497	-91.46	2025-03-22	obsr9531021	S488509962	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000179	Baltimore Oriole	Icterus galbula	3		Central America	Central America	9.026	-76.525	2025-03-12	obsr4024309	S329987621	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000180	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	18.405	-91.718	2025-03-25	obsr4221313	S343248743	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000181	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	18.56	-92.483	2025-03-05	obsr5962567	S946237594	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000182	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	19.232	-93.313	2025-03-17	obsr6649968	S922816526	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000183	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	21.476	-86.749	2025-03-05	obsr3587931	S274211616	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000184	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	17.278	-89.456	2025-03-27	obsr8342941	S146914391	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000185	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	14.582	-90.321	2025-03-12	obsr8452417	S755621841	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000186	Baltimore Oriole	Icterus galbula	4		Central America	Central America	10.755	-79.748	2025-03-25	obsr4925917	S673390109	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000187	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	19.217	-88.32	2025-03-10	obsr4255051	S494966219	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000188	Baltimore Oriole	Icterus galbula	4		Central America	Central America	8.226	-76.991	2025-03-19	obsr8745704	S926178355	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000189	Baltimore Oriole	Icterus galbula	4		Central America	Central America	11.499	-73.68	2025-03-25	obsr9437374	S666355637	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000190	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	17.39	-91.526	2025-03-06	obsr3321942	S368438908	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000191	Baltimore Oriole	Icterus galbula	4		Central America	Central America	12.886	-76.807	2025-03-21	obsr7227905	S695433590	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000192	Baltimore Oriole	Icterus galbula	1		Central America	Central America	14.351	-79.855	2025-03-23	obsr5782563	S190060226	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000193	Baltimore Oriole	Icterus galbula	4		Central America	Central America	8.61	-75.301	2025-03-09	obsr9612629	S258214411	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000194	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	7.12	-71.85	2025-03-03	obsr8568671	S475364113	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000195	Baltimore Oriole	Icterus galbula	1		Central America	Central America	12.708	-71.327	2025-03-14	obsr7651393	S639026034	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000196	Baltimore Oriole	Icterus galbula	4		Central America	Central America	13.176	-77.173	2025-03-08	obsr2369112	S502559419	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000197	Baltimore Oriole	Icterus galbula	3		Central America	Central America	13.593	-77.825	2025-03-01	obsr2662338	S867407868	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000198	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	16.232	-87.79	2025-03-11	obsr3308538	S141127742	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000199	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	20.066	-87.775	2025-03-27	obsr3328554	S914799481	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000200	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	16.695	-90.043	2025-03-16	obsr1088100	S185068029	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000201	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	19.517	-91.299	2025-03-09	obsr3508522	S689274064	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000202	Baltimore Oriole	Icterus galbula	4		Central America	Central America	9.606	-76.457	2025-03-20	obsr2865405	S933409017	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000203	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	18.356	-88.616	2025-03-08	obsr3044276	S151270577	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000204	Baltimore Oriole	Icterus galbula	4		Central America	Central America	10.673	-77.916	2025-03-14	obsr2053729	S219032752	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000205	Baltimore Oriole	Icterus galbula	1		Central America	Central America	12.182	-79.69	2025-03-20	obsr9646569	S717452511	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000206	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	17.079	-89.962	2025-03-23	obsr5886733	S560891752	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000207	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	20.763	-90.781	2025-03-20	obsr5035998	S712745501	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000208	Baltimore Oriole	Icterus galbula	1		Central America	Central America	11.504	-77.379	2025-03-06	obsr9782613	S487195336	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000209	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	17.864	-90.252	2025-03-17	obsr7550726	S604803700	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000210	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	19.83	-93.101	2025-04-12	obsr6353876	S359564054	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000211	Baltimore Oriole	Icterus galbula	3		Texas	Texas	26.996	-96.669	2025-04-04	obsr8542969	S366200875	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000212	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	17.676	-97.975	2025-04-04	obsr5868949	S512477736	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000213	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	20.49	-95.373	2025-04-14	obsr3679315	S973465185	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000214	Baltimore Oriole	Icterus galbula	3		Louisiana	Louisiana	30.928	-89.397	2025-04-19	obsr4184887	S919395339	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000215	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	20.637	-98.76	2025-04-16	obsr9367799	S431292818	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000216	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	19.373	-94.66	2025-04-01	obsr7597509	S642716859	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000217	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	20.411	-97.01	2025-04-08	obsr6920597	S152246275	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000218	Baltimore Oriole	Icterus galbula	4		Texas	Texas	28.313	-96.863	2025-04-10	obsr8895137	S406819991	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000219	Baltimore Oriole	Icterus galbula	1		Illinois	Illinois	39.565	-93.986	2025-04-01	obsr8229768	S243811545	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000220	Baltimore Oriole	Icterus galbula	3		Louisiana	Louisiana	35.136	-90.087	2025-04-24	obsr7765480	S492922240	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000221	Baltimore Oriole	Icterus galbula	1		Texas	Texas	29.534	-98.627	2025-04-13	obsr4265774	S489256938	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000222	Baltimore Oriole	Icterus galbula	1		Illinois	Illinois	40.673	-88.508	2025-04-10	obsr7481857	S641440255	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000223	Baltimore Oriole	Icterus galbula	3		Louisiana	Louisiana	30.021	-86.832	2025-04-25	obsr2993318	S238151258	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000224	Baltimore Oriole	Icterus galbula	3		Illinois	Illinois	42.645	-92.084	2025-04-13	obsr6688907	S698967370	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000225	Baltimore Oriole	Icterus galbula	2		Louisiana	Louisiana	32.066	-95.679	2025-04-25	obsr4339637	S746889670	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000226	Baltimore Oriole	Icterus galbula	1		Louisiana	Louisiana	29.133	-88.727	2025-04-13	obsr1760064	S141783553	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000227	Baltimore Oriole	Icterus galbula	3		Texas	Texas	26.745	-99.23	2025-04-23	obsr8948107	S657629251	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000228	Baltimore Oriole	Icterus galbula	2		Louisiana	Louisiana	32.691	-90.442	2025-04-05	obsr6502353	S758276886	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000229	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	22.389	-96.18	2025-04-06	obsr6020319	S737506993	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000230	Baltimore Oriole	Icterus galbula	4		Louisiana	Louisiana	30.378	-90.86	2025-04-17	obsr6029651	S609912042	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000231	Baltimore Oriole	Icterus galbula	3		Texas	Texas	27.235	-96.042	2025-04-12	obsr2838859	S547256709	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000232	Baltimore Oriole	Icterus galbula	1		Illinois	Illinois	44.147	-88.86	2025-04-10	obsr8962302	S385111130	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000233	Baltimore Oriole	Icterus galbula	2		Illinois	Illinois	40.971	-85.462	2025-04-26	obsr1861596	S726553348	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000234	Baltimore Oriole	Icterus galbula	4		Louisiana	Louisiana	29.316	-88.81	2025-04-06	obsr3479264	S982252092	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000235	Baltimore Oriole	Icterus galbula	1		Illinois	Illinois	41.603	-86.293	2025-04-08	obsr2843740	S304853117	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000236	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	20.152	-94.089	2025-04-15	obsr8025967	S262598077	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000237	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	21.372	-96.64	2025-04-23	obsr7884990	S638824588	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000238	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	18.266	-97.977	2025-04-16	obsr3316639	S656931857	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000239	Baltimore Oriole	Icterus galbula	3		Illinois	Illinois	41.833	-90.355	2025-04-18	obsr9025733	S664226794	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000240	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	19.652	-97.476	2025-04-11	obsr8711874	S672440825	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000241	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	20.92	-94.997	2025-04-18	obsr5435261	S755064741	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000242	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	20.011	-97.473	2025-04-07	obsr5680950	S699240979	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000243	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	21.452	-95.144	2025-04-08	obsr5848684	S856881618	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000244	Baltimore Oriole	Icterus galbula	4		Louisiana	Louisiana	31.965	-87.95	2025-04-23	obsr6319061	S615185000	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000245	Baltimore Oriole	Icterus galbula	3		Illinois	Illinois	40.042	-89.022	2025-04-18	obsr5828304	S230861323	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000246	Baltimore Oriole	Icterus galbula	4		Illinois	Illinois	40.953	-92.087	2025-04-22	obsr7619156	S978726109	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000247	Baltimore Oriole	Icterus galbula	2		Louisiana	Louisiana	33.487	-86.777	2025-04-25	obsr5872986	S145168545	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000248	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	21.569	-95.978	2025-04-23	obsr6811015	S574997731	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000249	Baltimore Oriole	Icterus galbula	4		Texas	Texas	27.379	-100.05	2025-04-09	obsr4590102	S316968866	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000250	Baltimore Oriole	Icterus galbula	3		Illinois	Illinois	36.664	-89.088	2025-04-09	obsr3303058	S217281149	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000251	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	17.848	-94.192	2025-04-24	obsr5067770	S154508960	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000252	Baltimore Oriole	Icterus galbula	2		Texas	Texas	28.586	-96.751	2025-04-17	obsr4906349	S156361897	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000253	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	20.392	-91.866	2025-04-14	obsr8925622	S207959268	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000254	Baltimore Oriole	Icterus galbula	2		Louisiana	Louisiana	29.759	-88.952	2025-04-25	obsr1086930	S690936560	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000255	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	20.832	-93.157	2025-04-14	obsr9010256	S798510601	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000256	Baltimore Oriole	Icterus galbula	3		Illinois	Illinois	38.203	-88.475	2025-04-25	obsr6388299	S406462391	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000257	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	19.343	-94.565	2025-04-02	obsr4896008	S674615376	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000258	Baltimore Oriole	Icterus galbula	1		Illinois	Illinois	38.721	-89.369	2025-04-24	obsr3937099	S548700579	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000259	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	23.187	-97.869	2025-04-02	obsr9311162	S300050585	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000260	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	19.085	-96.012	2025-04-28	obsr1628578	S109950544	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000261	Baltimore Oriole	Icterus galbula	1		Illinois	Illinois	41.355	-92.008	2025-04-19	obsr6621073	S405545745	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000262	Baltimore Oriole	Icterus galbula	4		Texas	Texas	28.456	-96.386	2025-04-21	obsr3251501	S641394238	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000263	Baltimore Oriole	Icterus galbula	2		Texas	Texas	29.587	-98.04	2025-04-09	obsr2889899	S455069350	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000264	Baltimore Oriole	Icterus galbula	4		Louisiana	Louisiana	30.556	-85.055	2025-04-24	obsr5316188	S871588919	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000265	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	22.662	-95.014	2025-04-01	obsr5949685	S709650444	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000266	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	21.127	-93.5	2025-04-25	obsr3944316	S756007396	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000267	Baltimore Oriole	Icterus galbula	4		Louisiana	Louisiana	31.982	-91.519	2025-04-13	obsr9644974	S452108572	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000268	Baltimore Oriole	Icterus galbula	1		Illinois	Illinois	41.813	-86.339	2025-04-13	obsr4100114	S250980852	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000269	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	17.788	-98.796	2025-04-11	obsr1114590	S380016058	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000270	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	19.599	-94.727	2025-04-08	obsr5479421	S453932473	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000271	Baltimore Oriole	Icterus galbula	1		Texas	Texas	26.855	-98.24	2025-04-19	obsr5388133	S801887172	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000272	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	18.065	-94.724	2025-04-23	obsr2042273	S817029885	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000273	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	20.032	-98.512	2025-04-15	obsr3679603	S535312769	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000274	Baltimore Oriole	Icterus galbula	3		Louisiana	Louisiana	31.421	-87.234	2025-04-17	obsr2969909	S785811060	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000275	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	18.554	-95.834	2025-04-12	obsr4676367	S243418388	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000276	Baltimore Oriole	Icterus galbula	4		Texas	Texas	28.445	-95.499	2025-04-05	obsr7268384	S546510829	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000277	Baltimore Oriole	Icterus galbula	4		Louisiana	Louisiana	34.455	-89.027	2025-04-18	obsr4664338	S918040539	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000278	Baltimore Oriole	Icterus galbula	1		Louisiana	Louisiana	29.008	-90.804	2025-04-22	obsr9816538	S579691987	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000279	Baltimore Oriole	Icterus galbula	3		Illinois	Illinois	39.878	-86.954	2025-04-23	obsr2310346	S705771555	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000280	Baltimore Oriole	Icterus galbula	4		Michigan	Michigan	41.344	-90.835	2025-05-16	obsr1263935	S107099962	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000281	Baltimore Oriole	Icterus galbula	4		Nebraska	Nebraska	42.352	-95.688	2025-05-18	obsr1198826	S117959560	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000282	Baltimore Oriole	Icterus galbula	3		Nebraska	Nebraska	41.848	-95.737	2025-05-24	obsr9988193	S407829477	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000283	Baltimore Oriole	Icterus galbula	4		Nebraska	Nebraska	42.212	-94.487	2025-05-17	obsr4007598	S214908010	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000284	Baltimore Oriole	Icterus galbula	2		Virginia	Virginia	37.519	-82.298	2025-05-17	obsr5042786	S306085476	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000285	Baltimore Oriole	Icterus galbula	3		New York	New York	42.593	-72.917	2025-05-17	obsr6946534	S387037751	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000286	Baltimore Oriole	Icterus galbula	3		Virginia	Virginia	35.515	-80.336	2025-05-03	obsr7812009	S592845076	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000287	Baltimore Oriole	Icterus galbula	2		Virginia	Virginia	35.029	-80.069	2025-05-08	obsr6032739	S834484102	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000288	Baltimore Oriole	Icterus galbula	1		Michigan	Michigan	42.564	-88.508	2025-05-21	obsr2568678	S535164258	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000289	Baltimore Oriole	Icterus galbula	4		Manitoba	Manitoba	48.717	-91.133	2025-05-13	obsr1941452	S783703040	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000290	Baltimore Oriole	Icterus galbula	2		Manitoba	Manitoba	49.381	-89.487	2025-05-23	obsr2387242	S636718857	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000291	Baltimore Oriole	Icterus galbula	3		Virginia	Virginia	32.868	-79.45	2025-05-21	obsr2599906	S667106600	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000292	Baltimore Oriole	Icterus galbula	2		Nebraska	Nebraska	43.828	-103.896	2025-05-08	obsr8977571	S391086098	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000293	Baltimore Oriole	Icterus galbula	3		New York	New York	39.613	-72.025	2025-05-03	obsr1552000	S292580427	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000294	Baltimore Oriole	Icterus galbula	2		New York	New York	39.986	-76.208	2025-05-01	obsr3419132	S907727084	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000295	Baltimore Oriole	Icterus galbula	4		Nebraska	Nebraska	39.575	-98.317	2025-05-27	obsr2290796	S421346113	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000296	Baltimore Oriole	Icterus galbula	2		Michigan	Michigan	41.466	-90.983	2025-05-19	obsr7528964	S826960759	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000297	Baltimore Oriole	Icterus galbula	4		Virginia	Virginia	37.123	-79.972	2025-05-11	obsr3347981	S948790854	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000298	Baltimore Oriole	Icterus galbula	1		Michigan	Michigan	44.677	-89.119	2025-05-24	obsr9401909	S900427880	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000299	Baltimore Oriole	Icterus galbula	1		Nebraska	Nebraska	40.304	-101.562	2025-05-02	obsr8333124	S349262723	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000300	Baltimore Oriole	Icterus galbula	4		Michigan	Michigan	43.239	-89.141	2025-05-11	obsr6475691	S131810311	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000301	Baltimore Oriole	Icterus galbula	4		Manitoba	Manitoba	48.094	-92.191	2025-05-09	obsr9230960	S344961731	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000302	Baltimore Oriole	Icterus galbula	4		Virginia	Virginia	38.242	-82.979	2025-05-18	obsr8245206	S299434489	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000303	Baltimore Oriole	Icterus galbula	4		Manitoba	Manitoba	49.125	-90.31	2025-05-19	obsr2437708	S929108437	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000304	Baltimore Oriole	Icterus galbula	2		Michigan	Michigan	42.53	-84.701	2025-05-10	obsr2233237	S188087644	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000305	Baltimore Oriole	Icterus galbula	4		Virginia	Virginia	37.742	-76.867	2025-05-05	obsr3588336	S894198823	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000306	Baltimore Oriole	Icterus galbula	3		New York	New York	43.045	-74.862	2025-05-11	obsr2787627	S198269319	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000307	Baltimore Oriole	Icterus galbula	4		Manitoba	Manitoba	49.771	-89.224	2025-05-10	obsr7038413	S917489574	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000308	Baltimore Oriole	Icterus galbula	2		Michigan	Michigan	39.215	-86.371	2025-05-04	obsr2464604	S301210399	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000309	Baltimore Oriole	Icterus galbula	4		New York	New York	40.706	-77.44	2025-05-15	obsr2732967	S128198506	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000310	Baltimore Oriole	Icterus galbula	1		New York	New York	42.79	-75.355	2025-05-12	obsr6443037	S513646070	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000311	Baltimore Oriole	Icterus galbula	4		Nebraska	Nebraska	42.559	-96.618	2025-05-10	obsr7506196	S936626463	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000312	Baltimore Oriole	Icterus galbula	2		Michigan	Michigan	40.773	-83.122	2025-05-24	obsr9742683	S282088279	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000313	Baltimore Oriole	Icterus galbula	2		Manitoba	Manitoba	47.592	-93.854	2025-05-13	obsr3329349	S388749542	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000314	Baltimore Oriole	Icterus galbula	4		New York	New York	41.381	-70.305	2025-05-09	obsr3448380	S167932588	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000315	Baltimore Oriole	Icterus galbula	3		Nebraska	Nebraska	39.399	-96.511	2025-05-14	obsr8064924	S421856529	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000316	Baltimore Oriole	Icterus galbula	1		New York	New York	43.175	-73.85	2025-05-26	obsr7058670	S370260533	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000317	Baltimore Oriole	Icterus galbula	4		Virginia	Virginia	37.483	-83.838	2025-05-24	obsr4280754	S591625191	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000318	Baltimore Oriole	Icterus galbula	3		New York	New York	39.38	-75.954	2025-05-05	obsr1113537	S524871030	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000319	Baltimore Oriole	Icterus galbula	4		Manitoba	Manitoba	47.122	-98.056	2025-05-27	obsr6528792	S572685761	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000320	Baltimore Oriole	Icterus galbula	2		Nebraska	Nebraska	42.044	-95.759	2025-05-14	obsr6040467	S444311586	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000321	Baltimore Oriole	Icterus galbula	2		Michigan	Michigan	38.624	-91.415	2025-05-23	obsr9036449	S437351729	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000322	Baltimore Oriole	Icterus galbula	3		Virginia	Virginia	38.322	-77.315	2025-05-13	obsr5889688	S889065340	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000323	Baltimore Oriole	Icterus galbula	4		Michigan	Michigan	44.787	-88.433	2025-05-21	obsr5067204	S449917685	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000324	Baltimore Oriole	Icterus galbula	4		Nebraska	Nebraska	40.137	-95.869	2025-05-09	obsr7123944	S222286118	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000325	Baltimore Oriole	Icterus galbula	2		Virginia	Virginia	35.106	-80.411	2025-05-07	obsr1451577	S880839406	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000326	Baltimore Oriole	Icterus galbula	2		New York	New York	41.013	-73.772	2025-05-23	obsr8356053	S956508307	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000327	Baltimore Oriole	Icterus galbula	1		Manitoba	Manitoba	49.424	-86.146	2025-05-27	obsr7864256	S822604249	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000328	Baltimore Oriole	Icterus galbula	3		Manitoba	Manitoba	53.964	-84.71	2025-05-05	obsr5060441	S371314895	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000329	Baltimore Oriole	Icterus galbula	4		New York	New York	44.041	-74.873	2025-05-05	obsr7324856	S179419456	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000330	Baltimore Oriole	Icterus galbula	4		Michigan	Michigan	40.792	-85.271	2025-05-20	obsr7724393	S673772626	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000331	Baltimore Oriole	Icterus galbula	4		Virginia	Virginia	38.263	-81.808	2025-05-28	obsr1616817	S949030118	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000332	Baltimore Oriole	Icterus galbula	1		New York	New York	43.794	-75.174	2025-05-23	obsr2834914	S925658123	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000333	Baltimore Oriole	Icterus galbula	3		New York	New York	44.458	-70.406	2025-05-22	obsr3790696	S794710793	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000334	Baltimore Oriole	Icterus galbula	4		New York	New York	39.189	-72.631	2025-05-02	obsr6563269	S954946593	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000335	Baltimore Oriole	Icterus galbula	1		New York	New York	42.993	-77.205	2025-05-04	obsr2654343	S377818215	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000336	Baltimore Oriole	Icterus galbula	2		Michigan	Michigan	43.157	-86.818	2025-05-17	obsr8478923	S501707828	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000337	Baltimore Oriole	Icterus galbula	2		Manitoba	Manitoba	48.07	-94.285	2025-05-15	obsr6787592	S126373949	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000338	Baltimore Oriole	Icterus galbula	3		Michigan	Michigan	43.607	-89.176	2025-05-04	obsr7978909	S192185888	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000339	Baltimore Oriole	Icterus galbula	2		Virginia	Virginia	37.01	-82.916	2025-05-27	obsr6843985	S434889710	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000340	Baltimore Oriole	Icterus galbula	2		Nebraska	Nebraska	44.478	-97.214	2025-05-15	obsr9742856	S618537844	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000341	Baltimore Oriole	Icterus galbula	1		Manitoba	Manitoba	47.307	-93.827	2025-05-16	obsr8351204	S875235090	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000342	Baltimore Oriole	Icterus galbula	3		Michigan	Michigan	40.903	-87.575	2025-05-15	obsr2126998	S422406106	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000343	Baltimore Oriole	Icterus galbula	1		Virginia	Virginia	37.245	-84.449	2025-05-26	obsr1378915	S468377143	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000344	Baltimore Oriole	Icterus galbula	2		Nebraska	Nebraska	40.493	-97.547	2025-05-04	obsr5092180	S654044237	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000345	Baltimore Oriole	Icterus galbula	2		Michigan	Michigan	38.29	-84.561	2025-05-18	obsr6553084	S701133236	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000346	Baltimore Oriole	Icterus galbula	2		Nebraska	Nebraska	39.074	-96.768	2025-05-15	obsr7795568	S776199993	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000347	Baltimore Oriole	Icterus galbula	4		Virginia	Virginia	39.335	-79.635	2025-05-06	obsr7636771	S131344962	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000348	Baltimore Oriole	Icterus galbula	2		Michigan	Michigan	41.935	-90.415	2025-05-20	obsr8542617	S735873300	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000349	Baltimore Oriole	Icterus galbula	1		Nebraska	Nebraska	38.751	-98.729	2025-05-13	obsr4603680	S320959407	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000350	Baltimore Oriole	Icterus galbula	4		Saskatchewan	Saskatchewan	50.371	-96.676	2025-06-05	obsr8421969	S333264702	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000351	Baltimore Oriole	Icterus galbula	2		Michigan	Michigan	42.131	-85.884	2025-06-04	obsr3066235	S733050169	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000352	Baltimore Oriole	Icterus galbula	3		Nebraska	Nebraska	41.386	-99.881	2025-06-13	obsr8203947	S437695739	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000353	Baltimore Oriole	Icterus galbula	3		Saskatchewan	Saskatchewan	50.536	-100.515	2025-06-08	obsr2413458	S366467312	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000354	Baltimore Oriole	Icterus galbula	3		New York	New York	41.716	-75.035	2025-06-20	obsr1450038	S806957378	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000355	Baltimore Oriole	Icterus galbula	2		Nebraska	Nebraska	38.855	-96.043	2025-06-07	obsr7572491	S417335858	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000356	Baltimore Oriole	Icterus galbula	2		Saskatchewan	Saskatchewan	49.484	-97.574	2025-06-02	obsr9302838	S514341484	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000357	Baltimore Oriole	Icterus galbula	4		New York	New York	43.408	-72.076	2025-06-08	obsr2191383	S667243311	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000358	Baltimore Oriole	Icterus galbula	3		Michigan	Michigan	44.121	-87.542	2025-06-12	obsr3214305	S515364404	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000359	Baltimore Oriole	Icterus galbula	3		New York	New York	42.894	-75.077	2025-06-14	obsr3898604	S918970742	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000360	Baltimore Oriole	Icterus galbula	1		Michigan	Michigan	43.802	-88.194	2025-06-25	obsr1280001	S730676755	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000361	Baltimore Oriole	Icterus galbula	3		New York	New York	40.975	-74.002	2025-06-01	obsr4619565	S142763764	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000362	Baltimore Oriole	Icterus galbula	4		Virginia	Virginia	38.47	-79.965	2025-06-26	obsr9499515	S407613928	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000363	Baltimore Oriole	Icterus galbula	4		Michigan	Michigan	44.887	-88.081	2025-06-23	obsr8106413	S853563434	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000364	Baltimore Oriole	Icterus galbula	2		Michigan	Michigan	43.201	-87.22	2025-06-03	obsr5655136	S189761677	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000365	Baltimore Oriole	Icterus galbula	2		Michigan	Michigan	38.569	-84.434	2025-06-03	obsr3606795	S675944565	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000366	Baltimore Oriole	Icterus galbula	1		Nebraska	Nebraska	41.09	-101.796	2025-06-13	obsr6203780	S850197517	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000367	Baltimore Oriole	Icterus galbula	2		Nebraska	Nebraska	39.166	-96.45	2025-06-24	obsr1971500	S362508142	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000368	Baltimore Oriole	Icterus galbula	1		Michigan	Michigan	43.611	-82.849	2025-06-14	obsr8606317	S757448675	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000369	Baltimore Oriole	Icterus galbula	3		Nebraska	Nebraska	43.301	-98.483	2025-06-02	obsr3946849	S228250953	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000370	Baltimore Oriole	Icterus galbula	2		Michigan	Michigan	43.818	-90.971	2025-06-23	obsr1190431	S275913951	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000371	Baltimore Oriole	Icterus galbula	3		Saskatchewan	Saskatchewan	50.717	-98.166	2025-06-12	obsr3801173	S499291766	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000372	Baltimore Oriole	Icterus galbula	3		Michigan	Michigan	39.552	-86.269	2025-06-24	obsr2980663	S928316966	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000373	Baltimore Oriole	Icterus galbula	4		Nebraska	Nebraska	40.509	-97.679	2025-06-11	obsr5563077	S662484182	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000374	Baltimore Oriole	Icterus galbula	1		New York	New York	41.696	-78.8	2025-06-09	obsr9323974	S588764892	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000375	Baltimore Oriole	Icterus galbula	1		Michigan	Michigan	40.259	-84.989	2025-06-12	obsr9382064	S708689346	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000376	Baltimore Oriole	Icterus galbula	2		Nebraska	Nebraska	40.991	-95.267	2025-06-12	obsr5280137	S930355646	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000377	Baltimore Oriole	Icterus galbula	1		Nebraska	Nebraska	39.158	-96.906	2025-06-19	obsr4831990	S895406424	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000378	Baltimore Oriole	Icterus galbula	1		Virginia	Virginia	38.02	-77.788	2025-06-01	obsr1206159	S362585121	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000379	Baltimore Oriole	Icterus galbula	3		Saskatchewan	Saskatchewan	50.086	-98.978	2025-06-16	obsr7425329	S261152186	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000380	Baltimore Oriole	Icterus galbula	1		New York	New York	42.331	-73.809	2025-06-28	obsr8035849	S341071485	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000381	Baltimore Oriole	Icterus galbula	4		Michigan	Michigan	44.23	-86.542	2025-06-08	obsr6367620	S391261014	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000382	Baltimore Oriole	Icterus galbula	3		Michigan	Michigan	44.228	-88.202	2025-06-19	obsr3003215	S639062353	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000383	Baltimore Oriole	Icterus galbula	2		New York	New York	45.095	-74.393	2025-06-02	obsr4744423	S963651372	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000384	Baltimore Oriole	Icterus galbula	4		Nebraska	Nebraska	44.683	-98.537	2025-06-02	obsr2156393	S599391065	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000385	Baltimore Oriole	Icterus galbula	3		Virginia	Virginia	38.455	-78.346	2025-06-25	obsr6491198	S192755745	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000386	Baltimore Oriole	Icterus galbula	1		Virginia	Virginia	36.051	-77.103	2025-06-15	obsr7189439	S315469014	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000387	Baltimore Oriole	Icterus galbula	3		Virginia	Virginia	38.478	-77.371	2025-06-19	obsr5069884	S598137488	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000388	Baltimore Oriole	Icterus galbula	4		Saskatchewan	Saskatchewan	53.956	-96.992	2025-06-19	obsr4278644	S886476517	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000389	Baltimore Oriole	Icterus galbula	2		Saskatchewan	Saskatchewan	48.191	-96.73	2025-06-25	obsr3526084	S106848195	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000390	Baltimore Oriole	Icterus galbula	2		Nebraska	Nebraska	40.306	-99.748	2025-06-01	obsr6812025	S782837348	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000391	Baltimore Oriole	Icterus galbula	3		Nebraska	Nebraska	41.789	-101.383	2025-06-01	obsr1024528	S914893975	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000392	Baltimore Oriole	Icterus galbula	3		Virginia	Virginia	39.897	-76.193	2025-06-13	obsr2743975	S320325776	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000393	Baltimore Oriole	Icterus galbula	4		Michigan	Michigan	42.299	-84.79	2025-06-08	obsr9254874	S164311845	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000394	Baltimore Oriole	Icterus galbula	3		Virginia	Virginia	39.084	-78.059	2025-06-23	obsr2560728	S147137549	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000395	Baltimore Oriole	Icterus galbula	4		Saskatchewan	Saskatchewan	47.98	-97.439	2025-06-28	obsr7249378	S592265554	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000396	Baltimore Oriole	Icterus galbula	1		Nebraska	Nebraska	39.485	-99.209	2025-06-03	obsr9479670	S243359401	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000397	Baltimore Oriole	Icterus galbula	4		Michigan	Michigan	42.718	-88.712	2025-06-27	obsr2255447	S735543236	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000398	Baltimore Oriole	Icterus galbula	4		Nebraska	Nebraska	42.44	-97.531	2025-06-02	obsr3192921	S354231714	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000399	Baltimore Oriole	Icterus galbula	3		Saskatchewan	Saskatchewan	53.098	-98.72	2025-06-09	obsr7592651	S852398388	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000400	Baltimore Oriole	Icterus galbula	3		New York	New York	43.127	-74.828	2025-06-11	obsr8596016	S392010397	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000401	Baltimore Oriole	Icterus galbula	2		New York	New York	43.206	-72.126	2025-06-03	obsr3283577	S937450959	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000402	Baltimore Oriole	Icterus galbula	2		Saskatchewan	Saskatchewan	51.243	-98.246	2025-06-04	obsr2772642	S276496293	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000403	Baltimore Oriole	Icterus galbula	3		Saskatchewan	Saskatchewan	51.025	-97.086	2025-06-15	obsr7820148	S229640083	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000404	Baltimore Oriole	Icterus galbula	2		Virginia	Virginia	40.97	-77.189	2025-06-12	obsr8581910	S431042889	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000405	Baltimore Oriole	Icterus galbula	1		Michigan	Michigan	42.107	-87.865	2025-06-09	obsr2517010	S269238221	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000406	Baltimore Oriole	Icterus galbula	1		Virginia	Virginia	40.946	-78.395	2025-06-10	obsr4607450	S997567367	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000407	Baltimore Oriole	Icterus galbula	1		Michigan	Michigan	45.925	-90.749	2025-06-05	obsr5164420	S481975879	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000408	Baltimore Oriole	Icterus galbula	1		Michigan	Michigan	43.971	-88.698	2025-06-17	obsr6013715	S379351967	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000409	Baltimore Oriole	Icterus galbula	4		New York	New York	45.179	-72.71	2025-06-01	obsr8586676	S696950800	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000410	Baltimore Oriole	Icterus galbula	2		New York	New York	43.012	-70.724	2025-06-18	obsr2589226	S596115163	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000411	Baltimore Oriole	Icterus galbula	2		Michigan	Michigan	45.799	-86.438	2025-06-26	obsr3037647	S112838650	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000412	Baltimore Oriole	Icterus galbula	2		Michigan	Michigan	39.744	-88.545	2025-06-27	obsr3193037	S312743722	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000413	Baltimore Oriole	Icterus galbula	1		Virginia	Virginia	39.337	-78.847	2025-06-12	obsr5342289	S972680546	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000414	Baltimore Oriole	Icterus galbula	1		Michigan	Michigan	45.036	-90.005	2025-06-01	obsr4317700	S793623149	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000415	Baltimore Oriole	Icterus galbula	2		Michigan	Michigan	46.566	-88.999	2025-06-26	obsr2543145	S990514408	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000416	Baltimore Oriole	Icterus galbula	1		Michigan	Michigan	39.898	-86.386	2025-06-04	obsr8734211	S154371817	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000417	Baltimore Oriole	Icterus galbula	4		Michigan	Michigan	42.954	-85.613	2025-06-19	obsr7626978	S632711663	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000418	Baltimore Oriole	Icterus galbula	4		New York	New York	43.116	-70.106	2025-06-13	obsr3899223	S480043678	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000419	Baltimore Oriole	Icterus galbula	3		Nebraska	Nebraska	38.402	-98.606	2025-06-06	obsr5695180	S578901124	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000420	Baltimore Oriole	Icterus galbula	4		Michigan	Michigan	42.041	-88.375	2025-07-18	obsr4817030	S694425527	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000421	Baltimore Oriole	Icterus galbula	4		Nebraska	Nebraska	42.246	-100.691	2025-07-27	obsr9767475	S549502766	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000422	Baltimore Oriole	Icterus galbula	4		Michigan	Michigan	44.001	-87.253	2025-07-22	obsr4953417	S611382735	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000423	Baltimore Oriole	Icterus galbula	4		Michigan	Michigan	41.482	-84.714	2025-07-03	obsr1582647	S639127345	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000424	Baltimore Oriole	Icterus galbula	2		New York	New York	40.472	-71.854	2025-07-17	obsr3017994	S913025234	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000425	Baltimore Oriole	Icterus galbula	2		Arkansas	Arkansas	31.613	-89.624	2025-07-06	obsr4554926	S968078090	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000426	Baltimore Oriole	Icterus galbula	1		New York	New York	43.318	-77.396	2025-07-05	obsr8103052	S184147554	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000427	Baltimore Oriole	Icterus galbula	2		New York	New York	43.609	-73.962	2025-07-14	obsr3480985	S995616775	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000428	Baltimore Oriole	Icterus galbula	3		Nebraska	Nebraska	44.912	-96.972	2025-07-09	obsr2124274	S193445007	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000429	Baltimore Oriole	Icterus galbula	4		Saskatchewan	Saskatchewan	53.084	-89.795	2025-07-18	obsr6471499	S396568375	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000430	Baltimore Oriole	Icterus galbula	1		New York	New York	37.094	-72.164	2025-07-15	obsr9767135	S939328588	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000431	Baltimore Oriole	Icterus galbula	4		Arkansas	Arkansas	34.291	-87.635	2025-07-04	obsr3510581	S259128258	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000432	Baltimore Oriole	Icterus galbula	1		Michigan	Michigan	39.172	-84.742	2025-07-19	obsr2772258	S704177085	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000433	Baltimore Oriole	Icterus galbula	3		Michigan	Michigan	42.97	-85.241	2025-07-26	obsr9986438	S469226717	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000434	Baltimore Oriole	Icterus galbula	4		Virginia	Virginia	37.792	-77.506	2025-07-09	obsr9146760	S714205272	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000435	Baltimore Oriole	Icterus galbula	1		Virginia	Virginia	38.306	-77.369	2025-07-16	obsr3889032	S395723682	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000436	Baltimore Oriole	Icterus galbula	4		New York	New York	40.823	-71.93	2025-07-05	obsr1650662	S524979220	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000437	Baltimore Oriole	Icterus galbula	2		Arkansas	Arkansas	33.411	-86.943	2025-07-23	obsr1826965	S900742774	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000438	Baltimore Oriole	Icterus galbula	3		Arkansas	Arkansas	32.249	-92.371	2025-07-09	obsr1339451	S462780939	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000439	Baltimore Oriole	Icterus galbula	3		Michigan	Michigan	42.708	-81.85	2025-07-10	obsr9248001	S847520637	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000440	Baltimore Oriole	Icterus galbula	2		Nebraska	Nebraska	43.029	-99.053	2025-07-04	obsr3254614	S422638422	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000441	Baltimore Oriole	Icterus galbula	3		Michigan	Michigan	44.31	-86.809	2025-07-15	obsr5520117	S882542411	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000442	Baltimore Oriole	Icterus galbula	1		New York	New York	43.014	-68.528	2025-07-20	obsr4153037	S574289591	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000443	Baltimore Oriole	Icterus galbula	4		Michigan	Michigan	45.178	-84.29	2025-07-27	obsr9127895	S915499713	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000444	Baltimore Oriole	Icterus galbula	3		Arkansas	Arkansas	31.9	-89.013	2025-07-28	obsr1942977	S653266624	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000445	Baltimore Oriole	Icterus galbula	3		Michigan	Michigan	40.833	-91.775	2025-07-03	obsr9502613	S533131502	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000446	Baltimore Oriole	Icterus galbula	1		Saskatchewan	Saskatchewan	47.941	-94.172	2025-07-25	obsr3914829	S306978174	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000447	Baltimore Oriole	Icterus galbula	1		Arkansas	Arkansas	35.553	-93.344	2025-07-27	obsr5185752	S135509761	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000448	Baltimore Oriole	Icterus galbula	3		Nebraska	Nebraska	41.942	-96.294	2025-07-02	obsr4340507	S394181098	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000449	Baltimore Oriole	Icterus galbula	4		Michigan	Michigan	46.819	-83.655	2025-07-27	obsr9474614	S526213526	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000450	Baltimore Oriole	Icterus galbula	1		Saskatchewan	Saskatchewan	50.336	-93.491	2025-07-04	obsr5059047	S499933139	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000451	Baltimore Oriole	Icterus galbula	4		Michigan	Michigan	42.437	-83.229	2025-07-20	obsr3979359	S609578849	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000452	Baltimore Oriole	Icterus galbula	3		Arkansas	Arkansas	31.962	-89.673	2025-07-18	obsr6775539	S275571407	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000453	Baltimore Oriole	Icterus galbula	1		New York	New York	44.145	-72.226	2025-07-24	obsr5782670	S129474736	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000454	Baltimore Oriole	Icterus galbula	2		Saskatchewan	Saskatchewan	53.173	-94.187	2025-07-02	obsr4595669	S337673911	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000455	Baltimore Oriole	Icterus galbula	2		Arkansas	Arkansas	32.526	-88.109	2025-07-08	obsr5514473	S799636574	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000456	Baltimore Oriole	Icterus galbula	1		Arkansas	Arkansas	32.916	-89.499	2025-07-17	obsr1149283	S609057994	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000457	Baltimore Oriole	Icterus galbula	2		New York	New York	41.13	-68.395	2025-07-21	obsr1141997	S340271240	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000458	Baltimore Oriole	Icterus galbula	3		Michigan	Michigan	41.237	-92.382	2025-07-20	obsr5620085	S555059083	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000459	Baltimore Oriole	Icterus galbula	3		Michigan	Michigan	41.618	-87.054	2025-07-28	obsr8700708	S370581558	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000460	Baltimore Oriole	Icterus galbula	3		Arkansas	Arkansas	35.715	-87.947	2025-07-15	obsr9734854	S985097007	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000461	Baltimore Oriole	Icterus galbula	1		Michigan	Michigan	40.412	-87.91	2025-07-13	obsr1123271	S649233665	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000462	Baltimore Oriole	Icterus galbula	3		Virginia	Virginia	39.349	-79.334	2025-07-27	obsr5742531	S420486085	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000463	Baltimore Oriole	Icterus galbula	4		Michigan	Michigan	43.597	-85.247	2025-07-04	obsr2071008	S461081823	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000464	Baltimore Oriole	Icterus galbula	3		Michigan	Michigan	43.015	-84.531	2025-07-21	obsr5645358	S380404354	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000465	Baltimore Oriole	Icterus galbula	3		Saskatchewan	Saskatchewan	50.248	-91.903	2025-07-23	obsr4160157	S260985353	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000466	Baltimore Oriole	Icterus galbula	2		Nebraska	Nebraska	42.627	-100.273	2025-07-25	obsr1952520	S964823687	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000467	Baltimore Oriole	Icterus galbula	3		Michigan	Michigan	43.481	-91.953	2025-07-13	obsr3347627	S874471936	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000468	Baltimore Oriole	Icterus galbula	4		New York	New York	42.175	-73.458	2025-07-21	obsr5959422	S378556835	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000469	Baltimore Oriole	Icterus galbula	4		Michigan	Michigan	41.708	-85.817	2025-07-13	obsr1592554	S726016935	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000470	Baltimore Oriole	Icterus galbula	2		Nebraska	Nebraska	40.78	-97.063	2025-07-19	obsr6757387	S880126986	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000471	Baltimore Oriole	Icterus galbula	4		Michigan	Michigan	45.145	-89.877	2025-07-08	obsr7014583	S644725181	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000472	Baltimore Oriole	Icterus galbula	2		New York	New York	42.604	-72.291	2025-07-28	obsr4038955	S415448230	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000473	Baltimore Oriole	Icterus galbula	2		New York	New York	41.872	-74.735	2025-07-16	obsr5339457	S878663220	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000474	Baltimore Oriole	Icterus galbula	2		Michigan	Michigan	42.602	-85.596	2025-07-25	obsr6630978	S802693852	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000475	Baltimore Oriole	Icterus galbula	3		Virginia	Virginia	39.521	-77.542	2025-07-08	obsr4746820	S899089320	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000476	Baltimore Oriole	Icterus galbula	3		Michigan	Michigan	45.695	-85.577	2025-07-14	obsr7235796	S379773344	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000477	Baltimore Oriole	Icterus galbula	4		Saskatchewan	Saskatchewan	49.539	-97.246	2025-07-10	obsr2976045	S605234798	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000478	Baltimore Oriole	Icterus galbula	1		Nebraska	Nebraska	41.596	-97.938	2025-07-28	obsr8922531	S308889819	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000479	Baltimore Oriole	Icterus galbula	4		New York	New York	42.268	-72.382	2025-07-04	obsr9889215	S420357050	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000480	Baltimore Oriole	Icterus galbula	2		Nebraska	Nebraska	41.688	-99.876	2025-07-02	obsr3304606	S315066828	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000481	Baltimore Oriole	Icterus galbula	4		New York	New York	42.41	-74.079	2025-07-14	obsr3402902	S439714150	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000482	Baltimore Oriole	Icterus galbula	1		Michigan	Michigan	44.369	-86.009	2025-07-06	obsr9180249	S457158145	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000483	Baltimore Oriole	Icterus galbula	3		Michigan	Michigan	41.661	-85.807	2025-07-06	obsr1973306	S105061082	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000484	Baltimore Oriole	Icterus galbula	2		Nebraska	Nebraska	41.189	-101.669	2025-07-09	obsr3828735	S718774770	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000485	Baltimore Oriole	Icterus galbula	1		Michigan	Michigan	42.672	-88.537	2025-07-16	obsr3171071	S759792599	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000486	Baltimore Oriole	Icterus galbula	4		Virginia	Virginia	40.073	-79.333	2025-07-21	obsr7767819	S560662565	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000487	Baltimore Oriole	Icterus galbula	1		Michigan	Michigan	43.292	-88.748	2025-07-13	obsr1632925	S673144707	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000488	Baltimore Oriole	Icterus galbula	3		Michigan	Michigan	44.183	-83.133	2025-07-24	obsr1236174	S445973716	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000489	Baltimore Oriole	Icterus galbula	1		New York	New York	43.706	-71.424	2025-07-07	obsr1069186	S772899961	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000490	Baltimore Oriole	Icterus galbula	4		Illinois	Illinois	38.385	-88.798	2025-08-06	obsr3356346	S982442542	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000491	Baltimore Oriole	Icterus galbula	4		Illinois	Illinois	41.67	-90.479	2025-08-24	obsr2794516	S373041065	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000492	Baltimore Oriole	Icterus galbula	2		Illinois	Illinois	38.589	-87.058	2025-08-07	obsr3025778	S521869399	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000493	Baltimore Oriole	Icterus galbula	2		Illinois	Illinois	37.499	-88.468	2025-08-15	obsr6669584	S215712585	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000494	Baltimore Oriole	Icterus galbula	1		Illinois	Illinois	36.013	-81.738	2025-08-02	obsr8558212	S591116494	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000495	Baltimore Oriole	Icterus galbula	2		Illinois	Illinois	38.973	-86.08	2025-08-19	obsr9368955	S104657489	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000496	Baltimore Oriole	Icterus galbula	1		Illinois	Illinois	38.656	-82.701	2025-08-24	obsr8261353	S728268579	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000497	Baltimore Oriole	Icterus galbula	2		Arkansas	Arkansas	35.994	-89.455	2025-08-17	obsr3913368	S884362665	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000498	Baltimore Oriole	Icterus galbula	4		Illinois	Illinois	37.51	-88.333	2025-08-04	obsr6399642	S641284117	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000499	Baltimore Oriole	Icterus galbula	2		Illinois	Illinois	42.021	-90.424	2025-08-14	obsr5590177	S527209652	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000500	Baltimore Oriole	Icterus galbula	4		Illinois	Illinois	38.991	-86.628	2025-08-10	obsr3237608	S248369653	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000501	Baltimore Oriole	Icterus galbula	3		Arkansas	Arkansas	34.824	-82.284	2025-08-20	obsr6266549	S864369269	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000502	Baltimore Oriole	Icterus galbula	2		Texas	Texas	28.754	-95.227	2025-08-18	obsr4370359	S325177291	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000503	Baltimore Oriole	Icterus galbula	3		Texas	Texas	29.733	-96.695	2025-08-23	obsr6793064	S821955780	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000504	Baltimore Oriole	Icterus galbula	2		Arkansas	Arkansas	33.173	-91.423	2025-08-23	obsr9453929	S682495784	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000505	Baltimore Oriole	Icterus galbula	3		Texas	Texas	28.073	-96.157	2025-08-21	obsr2936178	S916875967	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000506	Baltimore Oriole	Icterus galbula	4		Texas	Texas	27.985	-95.829	2025-08-18	obsr8004117	S823963430	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000507	Baltimore Oriole	Icterus galbula	3		Arkansas	Arkansas	35.682	-86.933	2025-08-27	obsr8086467	S967910655	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000508	Baltimore Oriole	Icterus galbula	1		Illinois	Illinois	39.08	-88.244	2025-08-17	obsr1423996	S508956386	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000509	Baltimore Oriole	Icterus galbula	1		Illinois	Illinois	40.773	-86.693	2025-08-02	obsr4353806	S386665729	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000510	Baltimore Oriole	Icterus galbula	3		Illinois	Illinois	42.274	-88.248	2025-08-10	obsr3456660	S166607238	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000511	Baltimore Oriole	Icterus galbula	3		Illinois	Illinois	38.498	-88.603	2025-08-26	obsr4422567	S909165341	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000512	Baltimore Oriole	Icterus galbula	3		Illinois	Illinois	40.029	-89.705	2025-08-02	obsr8593275	S210037068	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000513	Baltimore Oriole	Icterus galbula	2		Texas	Texas	29.097	-95.072	2025-08-28	obsr7524435	S355116198	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000514	Baltimore Oriole	Icterus galbula	3		Texas	Texas	27.427	-91.834	2025-08-26	obsr1788191	S509721231	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000515	Baltimore Oriole	Icterus galbula	3		Texas	Texas	29.525	-94.485	2025-08-14	obsr1902651	S113921319	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000516	Baltimore Oriole	Icterus galbula	2		Arkansas	Arkansas	32.145	-90.191	2025-08-09	obsr8433377	S991187981	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000517	Baltimore Oriole	Icterus galbula	3		Illinois	Illinois	45.573	-87.116	2025-08-21	obsr4296204	S933381221	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000518	Baltimore Oriole	Icterus galbula	3		Illinois	Illinois	40.191	-89.118	2025-08-07	obsr8529864	S290509600	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000519	Baltimore Oriole	Icterus galbula	2		Illinois	Illinois	40.381	-85.992	2025-08-03	obsr3915798	S889285590	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000520	Baltimore Oriole	Icterus galbula	4		Texas	Texas	31.269	-96.258	2025-08-04	obsr1681729	S560106760	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000521	Baltimore Oriole	Icterus galbula	3		Illinois	Illinois	39.426	-87.961	2025-08-18	obsr3182154	S272796036	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000522	Baltimore Oriole	Icterus galbula	3		Texas	Texas	28.215	-95.633	2025-08-28	obsr1094709	S454939091	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000523	Baltimore Oriole	Icterus galbula	2		Arkansas	Arkansas	33.997	-93.223	2025-08-23	obsr1670091	S265037749	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000524	Baltimore Oriole	Icterus galbula	1		Texas	Texas	30.519	-91.935	2025-08-20	obsr6052539	S626725060	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000525	Baltimore Oriole	Icterus galbula	3		Illinois	Illinois	42.803	-93.197	2025-08-18	obsr2222736	S941847352	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000526	Baltimore Oriole	Icterus galbula	2		Illinois	Illinois	42.406	-91.672	2025-08-11	obsr4084811	S658996745	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000527	Baltimore Oriole	Icterus galbula	2		Texas	Texas	26.845	-97.12	2025-08-26	obsr7978168	S683127878	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000528	Baltimore Oriole	Icterus galbula	1		Illinois	Illinois	39.385	-88.288	2025-08-13	obsr6862008	S337509631	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000529	Baltimore Oriole	Icterus galbula	3		Texas	Texas	30.31	-93.882	2025-08-22	obsr6554374	S487403718	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000530	Baltimore Oriole	Icterus galbula	4		Arkansas	Arkansas	30.327	-88.785	2025-08-07	obsr1147701	S223181755	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000531	Baltimore Oriole	Icterus galbula	4		Illinois	Illinois	41.212	-89.715	2025-08-12	obsr5032368	S789626099	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000532	Baltimore Oriole	Icterus galbula	2		Illinois	Illinois	36.719	-89.911	2025-08-20	obsr1669029	S832883943	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000533	Baltimore Oriole	Icterus galbula	1		Texas	Texas	31.47	-91.933	2025-08-13	obsr7473923	S375512010	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000534	Baltimore Oriole	Icterus galbula	3		Illinois	Illinois	40.304	-88.651	2025-08-24	obsr1414493	S654982592	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000535	Baltimore Oriole	Icterus galbula	4		Illinois	Illinois	42.693	-89.533	2025-08-17	obsr9167227	S147085363	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000536	Baltimore Oriole	Icterus galbula	2		Texas	Texas	27.045	-94.712	2025-08-21	obsr6373956	S651790232	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000537	Baltimore Oriole	Icterus galbula	2		Arkansas	Arkansas	32.614	-86.314	2025-08-04	obsr9945709	S107871158	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000538	Baltimore Oriole	Icterus galbula	2		Illinois	Illinois	39.579	-91.842	2025-08-03	obsr4576485	S835948208	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000539	Baltimore Oriole	Icterus galbula	1		Illinois	Illinois	38.795	-88.996	2025-08-27	obsr4449052	S677409188	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000540	Baltimore Oriole	Icterus galbula	4		Illinois	Illinois	38.346	-89.101	2025-08-24	obsr2209981	S901967913	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000541	Baltimore Oriole	Icterus galbula	1		Texas	Texas	27.404	-100.542	2025-08-05	obsr8704520	S869731458	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000542	Baltimore Oriole	Icterus galbula	1		Illinois	Illinois	39.141	-88.907	2025-08-02	obsr2228898	S158269903	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000543	Baltimore Oriole	Icterus galbula	3		Texas	Texas	26.572	-92.59	2025-08-26	obsr2181822	S717361056	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000544	Baltimore Oriole	Icterus galbula	4		Illinois	Illinois	40.073	-89.854	2025-08-09	obsr7510106	S584392493	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000545	Baltimore Oriole	Icterus galbula	4		Texas	Texas	29.331	-93.651	2025-08-13	obsr6308382	S118136542	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000546	Baltimore Oriole	Icterus galbula	1		Arkansas	Arkansas	33.784	-91.502	2025-08-22	obsr9973031	S106333920	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000547	Baltimore Oriole	Icterus galbula	1		Arkansas	Arkansas	31.061	-89.137	2025-08-24	obsr1763646	S852566344	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000548	Baltimore Oriole	Icterus galbula	1		Texas	Texas	29.246	-95.95	2025-08-12	obsr5862651	S944918740	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000549	Baltimore Oriole	Icterus galbula	1		Arkansas	Arkansas	32.283	-90.664	2025-08-10	obsr5723078	S921706952	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000550	Baltimore Oriole	Icterus galbula	4		Arkansas	Arkansas	32.988	-90.043	2025-08-13	obsr1517059	S608940398	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000551	Baltimore Oriole	Icterus galbula	2		Illinois	Illinois	38.414	-90.755	2025-08-18	obsr3288101	S901820909	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000552	Baltimore Oriole	Icterus galbula	3		Illinois	Illinois	39.933	-89.7	2025-08-26	obsr3417186	S420035728	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000553	Baltimore Oriole	Icterus galbula	3		Texas	Texas	28.563	-93.191	2025-08-26	obsr1187069	S694342064	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000554	Baltimore Oriole	Icterus galbula	1		Illinois	Illinois	42.034	-87.534	2025-08-05	obsr1700837	S105400747	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000555	Baltimore Oriole	Icterus galbula	4		Arkansas	Arkansas	31.549	-92.066	2025-08-20	obsr2428191	S427159637	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000556	Baltimore Oriole	Icterus galbula	3		Texas	Texas	28.279	-95.209	2025-08-24	obsr4552356	S543084388	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000557	Baltimore Oriole	Icterus galbula	2		Texas	Texas	30.349	-94.677	2025-08-28	obsr3700366	S297560682	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000558	Baltimore Oriole	Icterus galbula	3		Texas	Texas	28.724	-93.379	2025-08-20	obsr4260252	S223075021	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000559	Baltimore Oriole	Icterus galbula	1		Arkansas	Arkansas	32.452	-90.227	2025-08-22	obsr8738745	S792213989	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000560	Baltimore Oriole	Icterus galbula	2		Texas	Texas	25.996	-96.718	2025-09-13	obsr6299951	S538994061	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000561	Baltimore Oriole	Icterus galbula	2		Texas	Texas	25.21	-100.303	2025-09-04	obsr8148295	S799624335	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000562	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	17.793	-95.867	2025-09-09	obsr9994347	S554795749	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000563	Baltimore Oriole	Icterus galbula	3		Texas	Texas	27.418	-94.813	2025-09-12	obsr7668174	S910644910	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000564	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	21.425	-96.734	2025-09-14	obsr3998417	S497513146	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000565	Baltimore Oriole	Icterus galbula	4		Guatemala	Guatemala	17.587	-87.511	2025-09-18	obsr5257682	S429266242	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000566	Baltimore Oriole	Icterus galbula	4		Guatemala	Guatemala	15.766	-87.825	2025-09-12	obsr3316405	S807899575	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000567	Baltimore Oriole	Icterus galbula	2		Texas	Texas	24.692	-95.299	2025-09-24	obsr8492618	S940857164	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000568	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	20.745	-95.394	2025-09-06	obsr4598010	S645829727	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000569	Baltimore Oriole	Icterus galbula	3		Guatemala	Guatemala	17.495	-90.121	2025-09-26	obsr1873301	S272591127	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000570	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	16.86	-94.552	2025-09-21	obsr2528212	S983963824	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000571	Baltimore Oriole	Icterus galbula	4		Texas	Texas	26.508	-96.505	2025-09-16	obsr2478755	S168805869	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000572	Baltimore Oriole	Icterus galbula	3		Texas	Texas	24.197	-94.053	2025-09-08	obsr2342843	S753939761	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000573	Baltimore Oriole	Icterus galbula	4		Texas	Texas	24.906	-96.29	2025-09-24	obsr7721705	S759240529	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000574	Baltimore Oriole	Icterus galbula	3		Guatemala	Guatemala	14.169	-85.968	2025-09-17	obsr1964069	S930655747	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000575	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	16.723	-93.739	2025-09-21	obsr8364728	S111500207	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000576	Baltimore Oriole	Icterus galbula	3		Guatemala	Guatemala	16.399	-88.873	2025-09-28	obsr4267304	S136087763	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000577	Baltimore Oriole	Icterus galbula	2		Texas	Texas	25.845	-94.041	2025-09-17	obsr3843451	S823728171	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000578	Baltimore Oriole	Icterus galbula	2		Guatemala	Guatemala	17.204	-87.812	2025-09-12	obsr1004819	S269055029	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000579	Baltimore Oriole	Icterus galbula	4		Georgia	Georgia	32.421	-88.337	2025-09-09	obsr6924499	S819044151	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000580	Baltimore Oriole	Icterus galbula	2		Texas	Texas	26.995	-96.871	2025-09-13	obsr9686281	S116499677	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000581	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	19.092	-93.157	2025-09-23	obsr2512732	S690120616	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000582	Baltimore Oriole	Icterus galbula	3		Georgia	Georgia	33.741	-81.983	2025-09-24	obsr6829664	S975652436	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000583	Baltimore Oriole	Icterus galbula	2		Guatemala	Guatemala	16.682	-88.251	2025-09-08	obsr8629590	S533744956	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000584	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	17.472	-99.644	2025-09-01	obsr3936596	S537157475	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000585	Baltimore Oriole	Icterus galbula	1		Texas	Texas	23.473	-96.534	2025-09-04	obsr9441777	S415950492	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000586	Baltimore Oriole	Icterus galbula	3		Texas	Texas	25.914	-95.895	2025-09-04	obsr5196677	S845382835	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000587	Baltimore Oriole	Icterus galbula	4		Texas	Texas	29.218	-95.702	2025-09-13	obsr5081447	S913330750	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000588	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	17.204	-94.362	2025-09-25	obsr8729606	S730100172	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000589	Baltimore Oriole	Icterus galbula	1		Georgia	Georgia	33.71	-84.58	2025-09-16	obsr5325497	S172535838	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000590	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	21.978	-89.762	2025-09-21	obsr4857587	S959166755	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000591	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	22.052	-95.605	2025-09-14	obsr9665502	S675151857	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000592	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	18.222	-97.198	2025-09-23	obsr5165071	S408474841	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000593	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	16.902	-99.554	2025-09-13	obsr2275551	S695445137	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000594	Baltimore Oriole	Icterus galbula	3		Texas	Texas	31.025	-96.053	2025-09-16	obsr6931382	S334683594	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000595	Baltimore Oriole	Icterus galbula	2		Texas	Texas	28.542	-99.061	2025-09-09	obsr4190481	S635796460	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000596	Baltimore Oriole	Icterus galbula	2		Texas	Texas	23.978	-94.894	2025-09-07	obsr5061034	S384976854	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000597	Baltimore Oriole	Icterus galbula	2		Texas	Texas	25.91	-94.412	2025-09-08	obsr5189194	S998007554	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000598	Baltimore Oriole	Icterus galbula	2		Texas	Texas	26.889	-97.617	2025-09-12	obsr2789949	S228718546	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000599	Baltimore Oriole	Icterus galbula	4		Texas	Texas	28.701	-94.507	2025-09-22	obsr1111126	S920600973	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000600	Baltimore Oriole	Icterus galbula	4		Guatemala	Guatemala	14.684	-90.097	2025-09-02	obsr7227644	S766436631	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000601	Baltimore Oriole	Icterus galbula	3		Texas	Texas	28.47	-93.729	2025-09-16	obsr9234347	S296357164	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000602	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	17.538	-98.038	2025-09-09	obsr4726098	S905488247	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000603	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	19.98	-94.948	2025-09-05	obsr9820377	S958209543	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000604	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	20.684	-93.014	2025-09-16	obsr9430135	S472898686	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000605	Baltimore Oriole	Icterus galbula	2		Georgia	Georgia	34.721	-84.272	2025-09-28	obsr8670476	S229244346	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000606	Baltimore Oriole	Icterus galbula	4		Georgia	Georgia	33.84	-87.028	2025-09-17	obsr6295749	S840034196	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000607	Baltimore Oriole	Icterus galbula	2		Georgia	Georgia	31.657	-87.665	2025-09-01	obsr7365745	S723852830	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000608	Baltimore Oriole	Icterus galbula	3		Guatemala	Guatemala	12.72	-86.898	2025-09-11	obsr5357055	S300953401	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000609	Baltimore Oriole	Icterus galbula	2		Texas	Texas	25.949	-97.771	2025-09-09	obsr5519920	S606103226	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000610	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	20.893	-94.508	2025-09-11	obsr4085559	S635550230	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000611	Baltimore Oriole	Icterus galbula	4		Texas	Texas	25.729	-98.966	2025-09-07	obsr7246319	S491999503	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000612	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	18.923	-96.511	2025-09-09	obsr4018040	S713546516	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000613	Baltimore Oriole	Icterus galbula	2		Guatemala	Guatemala	15.053	-86.62	2025-09-19	obsr2675536	S873969707	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000614	Baltimore Oriole	Icterus galbula	2		Texas	Texas	27.553	-96.768	2025-09-26	obsr8251427	S508970423	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000615	Baltimore Oriole	Icterus galbula	2		Texas	Texas	26.533	-100.338	2025-09-05	obsr8935405	S965079822	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000616	Baltimore Oriole	Icterus galbula	4		Guatemala	Guatemala	14.186	-87.739	2025-09-06	obsr9381860	S244387866	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000617	Baltimore Oriole	Icterus galbula	3		Texas	Texas	25.823	-93.794	2025-09-17	obsr9164132	S422159250	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000618	Baltimore Oriole	Icterus galbula	1		Georgia	Georgia	33.508	-88.277	2025-09-18	obsr7684074	S206273380	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000619	Baltimore Oriole	Icterus galbula	1		Texas	Texas	24.277	-98.324	2025-09-06	obsr4614941	S973830502	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000620	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	19.033	-89.109	2025-09-16	obsr8547311	S899500884	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000621	Baltimore Oriole	Icterus galbula	3		Guatemala	Guatemala	16.654	-90.899	2025-09-09	obsr7044941	S701671267	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000622	Baltimore Oriole	Icterus galbula	3		Georgia	Georgia	32.497	-85.684	2025-09-26	obsr6773715	S121298026	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000623	Baltimore Oriole	Icterus galbula	3		Georgia	Georgia	34.288	-88.401	2025-09-04	obsr4337963	S719392003	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000624	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	15.144	-93.163	2025-09-21	obsr5774942	S481295430	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000625	Baltimore Oriole	Icterus galbula	4		Guatemala	Guatemala	15.273	-90.869	2025-09-22	obsr8498243	S184189438	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000626	Baltimore Oriole	Icterus galbula	3		Texas	Texas	23.724	-95.563	2025-09-20	obsr8780468	S778295798	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000627	Baltimore Oriole	Icterus galbula	2		Texas	Texas	25.912	-98.043	2025-09-28	obsr6660436	S552922001	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000628	Baltimore Oriole	Icterus galbula	4		Texas	Texas	27.085	-92.702	2025-09-20	obsr2196955	S184945787	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000629	Baltimore Oriole	Icterus galbula	2		Texas	Texas	26.744	-98.398	2025-09-11	obsr6259356	S440245422	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000630	Baltimore Oriole	Icterus galbula	4		Costa Rica	Costa Rica	13.681	-84.394	2025-10-21	obsr4112748	S120100290	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000631	Baltimore Oriole	Icterus galbula	3		Costa Rica	Costa Rica	12.268	-88.687	2025-10-28	obsr5006173	S444342661	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000632	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	5.473	-78.544	2025-10-03	obsr4185480	S662715631	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000633	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	8.371	-72.782	2025-10-16	obsr5750117	S446389157	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000634	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	13.968	-92.494	2025-10-21	obsr2853280	S203354415	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000635	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	17.437	-88.941	2025-10-22	obsr1734460	S996782035	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000636	Baltimore Oriole	Icterus galbula	1		Costa Rica	Costa Rica	12.503	-79.272	2025-10-06	obsr4390323	S214949614	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000637	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	8.311	-70.52	2025-10-07	obsr1533803	S713119661	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000638	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	19.585	-75.648	2025-10-27	obsr9219319	S664596387	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000639	Baltimore Oriole	Icterus galbula	3		Costa Rica	Costa Rica	7.774	-86.93	2025-10-23	obsr1823520	S493369637	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000640	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	9.533	-72.967	2025-10-20	obsr1219548	S324130818	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000641	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	19.104	-87.408	2025-10-16	obsr8852729	S960088617	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000642	Baltimore Oriole	Icterus galbula	3		Costa Rica	Costa Rica	7.815	-86.564	2025-10-02	obsr7978536	S982644252	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000643	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	8.76	-79.714	2025-10-26	obsr5459646	S668031793	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000644	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	10.014	-73.381	2025-10-24	obsr6098672	S183682466	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000645	Baltimore Oriole	Icterus galbula	1		Florida	Florida	27.468	-82.242	2025-10-17	obsr2698275	S878647434	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000646	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	15.436	-91.932	2025-10-18	obsr4178618	S307360430	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000647	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	16.685	-92.826	2025-10-22	obsr4001408	S699602642	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000648	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	9.914	-74.785	2025-10-18	obsr2770234	S922790554	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000649	Baltimore Oriole	Icterus galbula	3		Cuba	Cuba	19.511	-78.783	2025-10-19	obsr8696054	S854357762	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000650	Baltimore Oriole	Icterus galbula	1		Costa Rica	Costa Rica	11.024	-84.011	2025-10-14	obsr3798595	S950899166	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000651	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	17.876	-75.94	2025-10-18	obsr9467339	S462401682	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000652	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	8.221	-67.36	2025-10-06	obsr6911017	S438395096	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000653	Baltimore Oriole	Icterus galbula	3		Cuba	Cuba	19.029	-77.268	2025-10-11	obsr7917972	S920536715	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000654	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	9.311	-73.483	2025-10-14	obsr5038654	S704672023	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000655	Baltimore Oriole	Icterus galbula	4		Costa Rica	Costa Rica	12.377	-85.805	2025-10-07	obsr5262908	S486556226	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000656	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	17.55	-90.942	2025-10-15	obsr1003282	S879872949	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000657	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	17.934	-91.5	2025-10-10	obsr9684044	S245047170	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000658	Baltimore Oriole	Icterus galbula	3		Costa Rica	Costa Rica	11.651	-85.634	2025-10-01	obsr4722641	S330664237	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000659	Baltimore Oriole	Icterus galbula	3		Cuba	Cuba	17.54	-73.935	2025-10-01	obsr9577712	S697347361	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000660	Baltimore Oriole	Icterus galbula	2		Mexico	Mexico	19.414	-90.713	2025-10-19	obsr2581875	S140519046	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000661	Baltimore Oriole	Icterus galbula	2		Cuba	Cuba	20.53	-80.347	2025-10-12	obsr3322104	S384528891	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000662	Baltimore Oriole	Icterus galbula	2		Costa Rica	Costa Rica	13.587	-84.876	2025-10-19	obsr4908993	S375139723	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000663	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	19.074	-90.387	2025-10-03	obsr4647992	S888412068	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000664	Baltimore Oriole	Icterus galbula	3		Costa Rica	Costa Rica	11.073	-83.208	2025-10-24	obsr9095563	S285652633	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000665	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	8.801	-72.545	2025-10-27	obsr6039762	S140127441	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000666	Baltimore Oriole	Icterus galbula	4		Costa Rica	Costa Rica	8.05	-84.874	2025-10-26	obsr2316632	S937649523	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000667	Baltimore Oriole	Icterus galbula	3		Costa Rica	Costa Rica	12.775	-82.296	2025-10-25	obsr6837300	S977399222	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000668	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	11.113	-74.691	2025-10-14	obsr4803691	S902813840	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000669	Baltimore Oriole	Icterus galbula	1		Florida	Florida	28.36	-84.07	2025-10-28	obsr7417066	S158119446	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000670	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	4.159	-69.588	2025-10-17	obsr6357242	S679745130	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000671	Baltimore Oriole	Icterus galbula	3		Costa Rica	Costa Rica	10.288	-83.846	2025-10-05	obsr9428900	S849223390	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000672	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	11.364	-71.295	2025-10-05	obsr7591477	S578476787	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000673	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	18.326	-76.518	2025-10-19	obsr4725978	S563787397	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000674	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	21.576	-76.978	2025-10-26	obsr3483236	S241936908	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000675	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	7.512	-73.051	2025-10-03	obsr1827302	S688574163	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000676	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	5.744	-72.601	2025-10-09	obsr7686174	S638828465	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000677	Baltimore Oriole	Icterus galbula	2		Florida	Florida	28.231	-83.789	2025-10-25	obsr3262755	S616386600	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000678	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	10.368	-74.56	2025-10-07	obsr7632348	S800346424	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000679	Baltimore Oriole	Icterus galbula	2		Costa Rica	Costa Rica	10.128	-81.199	2025-10-07	obsr5065372	S176927143	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000680	Baltimore Oriole	Icterus galbula	4		Costa Rica	Costa Rica	10.046	-85.073	2025-10-25	obsr6425946	S835231799	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000681	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	18.206	-76.082	2025-10-03	obsr7938755	S554773258	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000682	Baltimore Oriole	Icterus galbula	2		Costa Rica	Costa Rica	9.769	-85.486	2025-10-12	obsr6381096	S469930807	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000683	Baltimore Oriole	Icterus galbula	1		Costa Rica	Costa Rica	11.934	-84.206	2025-10-21	obsr6114011	S281736451	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000684	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	19.025	-76.415	2025-10-20	obsr3446428	S572944000	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000685	Baltimore Oriole	Icterus galbula	2		Cuba	Cuba	19.313	-79.661	2025-10-27	obsr4350161	S835898867	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000686	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	8.586	-71.761	2025-10-05	obsr2885284	S894119729	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000687	Baltimore Oriole	Icterus galbula	2		Costa Rica	Costa Rica	8.06	-88.246	2025-10-08	obsr5826554	S114746008	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000688	Baltimore Oriole	Icterus galbula	1		Florida	Florida	27.776	-82.298	2025-10-23	obsr6119031	S583249931	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000689	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	14.467	-91.066	2025-10-01	obsr4506598	S894582888	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000690	Baltimore Oriole	Icterus galbula	2		Costa Rica	Costa Rica	16.272	-83.232	2025-10-07	obsr9778944	S905687707	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000691	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	16.288	-76.848	2025-10-18	obsr3371416	S846326954	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000692	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	10.685	-71.659	2025-10-22	obsr7318411	S725996789	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000693	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	11.005	-69.456	2025-10-17	obsr5285846	S282879331	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000694	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	8.6	-74.93	2025-10-10	obsr5551347	S156999852	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000695	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	17.896	-89.525	2025-10-21	obsr2117325	S517304549	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000696	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	6.504	-73.221	2025-10-09	obsr2810117	S120485196	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000697	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	18.024	-74.815	2025-10-28	obsr4878365	S508774805	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000698	Baltimore Oriole	Icterus galbula	1		Costa Rica	Costa Rica	12.299	-82.824	2025-10-23	obsr6292472	S620402022	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000699	Baltimore Oriole	Icterus galbula	1		Costa Rica	Costa Rica	11.053	-84.064	2025-10-18	obsr4127564	S313540619	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000700	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	17.339	-92.198	2025-11-11	obsr1822609	S216917219	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000701	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	7.25	-71.117	2025-11-06	obsr5771113	S756152630	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000702	Baltimore Oriole	Icterus galbula	2		Panama	Panama	8.711	-82.014	2025-11-23	obsr8639301	S904592121	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000703	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	20.104	-78.148	2025-11-12	obsr2562399	S925183459	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000704	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	17.879	-88.806	2025-11-11	obsr7357547	S980752567	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000705	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	9.853	-73.119	2025-11-25	obsr2089275	S414426733	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000706	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	17.836	-86.404	2025-11-05	obsr5603979	S453484964	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000707	Baltimore Oriole	Icterus galbula	2		Florida	Florida	28.313	-81.332	2025-11-14	obsr4507293	S757187708	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000708	Baltimore Oriole	Icterus galbula	1		Panama	Panama	10.843	-79.895	2025-11-04	obsr9114518	S877468683	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000709	Baltimore Oriole	Icterus galbula	3		Panama	Panama	6.261	-83.775	2025-11-20	obsr8164770	S753741918	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000710	Baltimore Oriole	Icterus galbula	3		Cuba	Cuba	20.068	-79.491	2025-11-09	obsr3176225	S759588843	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000711	Baltimore Oriole	Icterus galbula	4		Panama	Panama	10.89	-83.042	2025-11-16	obsr9262853	S967562309	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000712	Baltimore Oriole	Icterus galbula	2		Panama	Panama	10.606	-80.033	2025-11-20	obsr5873580	S307828574	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000713	Baltimore Oriole	Icterus galbula	1		Panama	Panama	8.077	-82.541	2025-11-04	obsr8799486	S771583357	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000714	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	4.284	-75.015	2025-11-24	obsr7956372	S544573290	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000715	Baltimore Oriole	Icterus galbula	3		Florida	Florida	28.338	-83.878	2025-11-11	obsr4562439	S112130346	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000716	Baltimore Oriole	Icterus galbula	3		Cuba	Cuba	17.23	-78.577	2025-11-07	obsr5268417	S948465967	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000717	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	8.956	-70.191	2025-11-10	obsr9500841	S690551135	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000718	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	21.89	-75.308	2025-11-25	obsr2909863	S836410568	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000719	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	8.303	-70.847	2025-11-11	obsr1488508	S993399121	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000720	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	17.769	-88.762	2025-11-07	obsr6669639	S822062338	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000721	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	16.886	-75.637	2025-11-16	obsr3277572	S617001884	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000722	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	19.869	-76.18	2025-11-21	obsr6622207	S596573456	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000723	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	8.897	-65.797	2025-11-24	obsr9742158	S421417903	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000724	Baltimore Oriole	Icterus galbula	3		Cuba	Cuba	17.601	-79.386	2025-11-24	obsr9990666	S120098766	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000725	Baltimore Oriole	Icterus galbula	3		Panama	Panama	9.342	-81.945	2025-11-19	obsr6932348	S171095709	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000726	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	7.011	-72.75	2025-11-09	obsr6690033	S502911719	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000727	Baltimore Oriole	Icterus galbula	2		Florida	Florida	27.754	-83.204	2025-11-18	obsr7535837	S301196574	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000728	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	9.38	-75.154	2025-11-04	obsr6276424	S862184916	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000729	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	9.9	-72.619	2025-11-09	obsr2456225	S633708134	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000730	Baltimore Oriole	Icterus galbula	4		Mexico	Mexico	16.756	-86.722	2025-11-12	obsr6077267	S332078427	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000731	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	6.889	-73.799	2025-11-10	obsr2882928	S501811039	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000732	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	12.183	-70.249	2025-11-25	obsr2553639	S576498805	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000733	Baltimore Oriole	Icterus galbula	4		Panama	Panama	7.464	-84.263	2025-11-01	obsr9389519	S265439752	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000734	Baltimore Oriole	Icterus galbula	4		Florida	Florida	26.883	-80.536	2025-11-11	obsr9785019	S433245127	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000735	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	17.069	-80.195	2025-11-05	obsr9659503	S826619655	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000736	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	21.409	-81.096	2025-11-07	obsr8706923	S516169674	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000737	Baltimore Oriole	Icterus galbula	1		Panama	Panama	8.516	-84.791	2025-11-28	obsr1068952	S433913647	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000738	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	19.19	-75.972	2025-11-22	obsr6591674	S601304182	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000739	Baltimore Oriole	Icterus galbula	3		Panama	Panama	6.863	-79.05	2025-11-04	obsr1377156	S720150147	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000740	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	6.731	-79.978	2025-11-21	obsr6383479	S315344841	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000741	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	10.074	-76.234	2025-11-10	obsr9930106	S442684477	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000742	Baltimore Oriole	Icterus galbula	1		Mexico	Mexico	19.125	-89.404	2025-11-22	obsr5574378	S260331909	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000743	Baltimore Oriole	Icterus galbula	1		Florida	Florida	26.77	-81.354	2025-11-09	obsr1255965	S768882058	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000744	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	12.041	-74.544	2025-11-17	obsr4465793	S682535775	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000745	Baltimore Oriole	Icterus galbula	3		Cuba	Cuba	17.952	-74.981	2025-11-18	obsr5547499	S251995483	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000746	Baltimore Oriole	Icterus galbula	3		Cuba	Cuba	20.046	-74.815	2025-11-26	obsr5107483	S283905107	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000747	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	5.967	-77.555	2025-11-10	obsr8443172	S154466824	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000748	Baltimore Oriole	Icterus galbula	4		Panama	Panama	9.825	-83.384	2025-11-01	obsr1846511	S213738160	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000749	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	9.146	-78.102	2025-11-02	obsr8154907	S520817418	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000750	Baltimore Oriole	Icterus galbula	4		Florida	Florida	27.237	-81.114	2025-11-23	obsr6966385	S435480597	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000751	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	5.624	-75.345	2025-11-27	obsr9950391	S184337702	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000752	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	7.185	-73.115	2025-11-19	obsr2558874	S972792130	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000753	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	18.48	-77.618	2025-11-15	obsr8643434	S433280534	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000754	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	14.561	-77.866	2025-11-21	obsr8894449	S348779766	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000755	Baltimore Oriole	Icterus galbula	3		Cuba	Cuba	20.761	-75.508	2025-11-05	obsr7097668	S520989391	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000756	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	9.489	-71.923	2025-11-23	obsr6448586	S586708987	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000757	Baltimore Oriole	Icterus galbula	1		Florida	Florida	27.093	-81.036	2025-11-01	obsr8974787	S221211559	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000758	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	7.396	-72.903	2025-11-16	obsr3865574	S403071541	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000759	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	3.262	-73.792	2025-11-20	obsr9521981	S210522618	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000760	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	11.637	-70.744	2025-11-27	obsr6467186	S697161367	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000761	Baltimore Oriole	Icterus galbula	3		Mexico	Mexico	18.043	-87.446	2025-11-03	obsr9937987	S594967982	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000762	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	8.033	-75.937	2025-11-19	obsr5002629	S766659283	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000763	Baltimore Oriole	Icterus galbula	2		Florida	Florida	26.841	-82.59	2025-11-18	obsr9092903	S512119784	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000764	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	6.263	-74.481	2025-11-11	obsr8233471	S942150718	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000765	Baltimore Oriole	Icterus galbula	3		Panama	Panama	8.898	-82.185	2025-11-19	obsr4962012	S285849093	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000766	Baltimore Oriole	Icterus galbula	1		Florida	Florida	28.747	-81.797	2025-11-22	obsr9164301	S222753236	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000767	Baltimore Oriole	Icterus galbula	4		Florida	Florida	28.055	-81.298	2025-11-20	obsr6458938	S696020884	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000768	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	8.854	-73.817	2025-11-27	obsr3955709	S430750834	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000769	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	6.799	-75.998	2025-11-03	obsr7357071	S451551922	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000770	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	19.436	-75.572	2025-12-20	obsr1954320	S737951442	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000771	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	6.472	-76.665	2025-12-27	obsr3043299	S860289849	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000772	Baltimore Oriole	Icterus galbula	2		Florida	Florida	26.178	-81.422	2025-12-03	obsr7307535	S804798365	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000773	Baltimore Oriole	Icterus galbula	2		Panama	Panama	11.004	-82.713	2025-12-19	obsr2859671	S846952406	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000774	Baltimore Oriole	Icterus galbula	3		Panama	Panama	11.955	-80.873	2025-12-09	obsr8834214	S809182681	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000775	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	5.28	-71.963	2025-12-21	obsr5636946	S926093073	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000776	Baltimore Oriole	Icterus galbula	3		Florida	Florida	26.945	-79.74	2025-12-23	obsr5317391	S273909699	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000777	Baltimore Oriole	Icterus galbula	1		Florida	Florida	27.427	-79.916	2025-12-09	obsr7422301	S517245798	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000778	Baltimore Oriole	Icterus galbula	3		Cuba	Cuba	18.791	-81.258	2025-12-02	obsr5440339	S291050332	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000779	Baltimore Oriole	Icterus galbula	4		Florida	Florida	28.24	-79.115	2025-12-03	obsr4366669	S755306663	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000780	Baltimore Oriole	Icterus galbula	4		Florida	Florida	27.506	-79.962	2025-12-06	obsr2819161	S254482024	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000781	Baltimore Oriole	Icterus galbula	4		Florida	Florida	27.966	-80.746	2025-12-25	obsr4663917	S759241286	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000782	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	9.042	-76.037	2025-12-04	obsr5345236	S210903699	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000783	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	17.364	-77.534	2025-12-03	obsr5204309	S934552051	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000784	Baltimore Oriole	Icterus galbula	4		Panama	Panama	9.898	-81.702	2025-12-01	obsr3497360	S801008808	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000785	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	6.768	-77.525	2025-12-01	obsr7551231	S386083995	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000786	Baltimore Oriole	Icterus galbula	3		Panama	Panama	9.615	-83.432	2025-12-23	obsr7565434	S717015275	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000787	Baltimore Oriole	Icterus galbula	4		Florida	Florida	27.598	-81.371	2025-12-17	obsr9021848	S568213353	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000788	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	21.698	-74.173	2025-12-28	obsr4789081	S103551249	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000789	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	18.86	-75.826	2025-12-23	obsr3033459	S709073484	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000790	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	4.508	-71.293	2025-12-12	obsr6080612	S530156867	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000791	Baltimore Oriole	Icterus galbula	1		Florida	Florida	25.544	-82.432	2025-12-21	obsr7129645	S674050611	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000792	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	19.49	-79.217	2025-12-03	obsr5864699	S795561982	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000793	Baltimore Oriole	Icterus galbula	1		Florida	Florida	27.927	-82.143	2025-12-06	obsr7445196	S809457825	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000794	Baltimore Oriole	Icterus galbula	4		Panama	Panama	9.082	-79.654	2025-12-10	obsr2791270	S777119907	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000795	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	17.73	-77.411	2025-12-12	obsr2423756	S779454449	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000796	Baltimore Oriole	Icterus galbula	2		Florida	Florida	27.392	-81.778	2025-12-24	obsr3347853	S138330751	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000797	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	8.189	-75.384	2025-12-01	obsr9207960	S517435960	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000798	Baltimore Oriole	Icterus galbula	3		Panama	Panama	8.854	-81.206	2025-12-26	obsr9383308	S673313757	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000799	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	18.46	-81.298	2025-12-01	obsr6692259	S160188010	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000800	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	20.957	-77.488	2025-12-26	obsr7803292	S226902446	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000801	Baltimore Oriole	Icterus galbula	4		Panama	Panama	8.282	-83.156	2025-12-26	obsr3499027	S895697985	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000802	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	16.899	-78.687	2025-12-08	obsr1618704	S889693867	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000803	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	18.47	-79.809	2025-12-16	obsr8905753	S763971973	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000804	Baltimore Oriole	Icterus galbula	2		Cuba	Cuba	17.837	-74.762	2025-12-08	obsr1241008	S284950962	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000805	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	9.161	-78.212	2025-12-02	obsr2632292	S589824472	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000806	Baltimore Oriole	Icterus galbula	1		Panama	Panama	10.22	-82.915	2025-12-06	obsr2783941	S222599500	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000807	Baltimore Oriole	Icterus galbula	2		Florida	Florida	28.024	-81.701	2025-12-20	obsr2058811	S963775406	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000808	Baltimore Oriole	Icterus galbula	3		Cuba	Cuba	18.191	-78.532	2025-12-14	obsr7744585	S448144622	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000809	Baltimore Oriole	Icterus galbula	2		Cuba	Cuba	21.32	-77.203	2025-12-22	obsr6395382	S998106748	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000810	Baltimore Oriole	Icterus galbula	1		Panama	Panama	8.031	-84.622	2025-12-25	obsr3909968	S460244389	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000811	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	7.56	-73.047	2025-12-04	obsr3369560	S913413214	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000812	Baltimore Oriole	Icterus galbula	3		Panama	Panama	9.429	-81.441	2025-12-06	obsr3768343	S571008888	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000813	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	21.282	-77.039	2025-12-19	obsr3237592	S207339659	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000814	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	11.081	-73.18	2025-12-20	obsr3646667	S116782928	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000815	Baltimore Oriole	Icterus galbula	1		Cuba	Cuba	17.553	-73.954	2025-12-03	obsr1121198	S292643087	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000816	Baltimore Oriole	Icterus galbula	3		Cuba	Cuba	19.748	-77.934	2025-12-23	obsr7983050	S844643743	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000817	Baltimore Oriole	Icterus galbula	2		Cuba	Cuba	20.038	-76.88	2025-12-23	obsr4458794	S253639423	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000818	Baltimore Oriole	Icterus galbula	4		Panama	Panama	9.891	-76.369	2025-12-09	obsr7912738	S356896763	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000819	Baltimore Oriole	Icterus galbula	1		Florida	Florida	26.556	-83.339	2025-12-20	obsr4019906	S870086298	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000820	Baltimore Oriole	Icterus galbula	1		Florida	Florida	26.571	-81.479	2025-12-20	obsr6053293	S473504921	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000821	Baltimore Oriole	Icterus galbula	2		Panama	Panama	6.957	-83.713	2025-12-01	obsr4219595	S226173057	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000822	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	6.31	-77.239	2025-12-04	obsr9515120	S335445955	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000823	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	11.456	-73.418	2025-12-25	obsr5637668	S156982428	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000824	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	8.478	-75.771	2025-12-04	obsr8959326	S634202492	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000825	Baltimore Oriole	Icterus galbula	1		Panama	Panama	7.916	-77.714	2025-12-06	obsr1906432	S792414048	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000826	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	6.296	-74.009	2025-12-10	obsr8292580	S369919135	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000827	Baltimore Oriole	Icterus galbula	4		Colombia	Colombia	7.619	-75.622	2025-12-20	obsr1726746	S212121299	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000828	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	6.241	-72.282	2025-12-02	obsr3651565	S943415633	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000829	Baltimore Oriole	Icterus galbula	1		Colombia	Colombia	7.115	-79.133	2025-12-16	obsr2188825	S352651266	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000830	Baltimore Oriole	Icterus galbula	3		Colombia	Colombia	7.658	-75.291	2025-12-15	obsr8030765	S313407685	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000831	Baltimore Oriole	Icterus galbula	3		Florida	Florida	26.663	-82.84	2025-12-22	obsr4859820	S936418338	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000832	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	11.349	-73.573	2025-12-11	obsr2645243	S354603902	Incidental	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000833	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	6.948	-75.4	2025-12-14	obsr7300387	S336934839	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000834	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	21.46	-76.831	2025-12-16	obsr1911663	S568006548	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000835	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	18.69	-80.285	2025-12-07	obsr3987363	S515892751	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000836	Baltimore Oriole	Icterus galbula	4		Florida	Florida	27.621	-81.568	2025-12-05	obsr4257379	S778627510	Stationary	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000837	Baltimore Oriole	Icterus galbula	2		Colombia	Colombia	8.799	-70.658	2025-12-09	obsr6635321	S236592599	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000838	Baltimore Oriole	Icterus galbula	1		Panama	Panama	7.717	-82.734	2025-12-23	obsr5707756	S246567370	Traveling	1
+URN:CornellLabOfOrnithology:EBIRD:OBS1000000839	Baltimore Oriole	Icterus galbula	4		Cuba	Cuba	19.434	-77.007	2025-12-28	obsr8693677	S549064417	Traveling	1

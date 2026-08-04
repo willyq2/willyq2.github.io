@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="noindex, nofollow" />
+<title>Baltimore Oriole — Annual Migration</title>
+
+<!-- MapLibre GL JS: draws the map. -->
+<script src="https://unpkg.com/maplibre-gl@4/dist/maplibre-gl.js"></script>
+<link href="https://unpkg.com/maplibre-gl@4/dist/maplibre-gl.css" rel="stylesheet" />
+
+<!-- Turf.js: concentration-area (convex hull) + centroid/distance math, in-browser. -->
+<script src="https://unpkg.com/@turf/turf@6/turf.min.js"></script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+<link href="style.css" rel="stylesheet" />
+</head>
+<body>
+
+<header id="banner">
+  <div id="banner-left">
+    <p class="eyebrow">Icterus galbula</p>
+    <h1>Baltimore Oriole — Annual Migration</h1>
+    <p class="deck">One bird, two hemispheres. Every year it flies this loop between Midwest backyards and South American treetops.</p>
+  </div>
+  <div id="banner-right">
+    <span id="hero-number">—</span>
+    <span class="hero-label">mile round trip, every year</span>
+  </div>
+</header>
+
+<div id="layout">
+  <aside id="sidebar">
+    <div id="stage-badge" class="badge">—</div>
+    <h2 id="month-name">—</h2>
+    <p id="month-note">Loading migration data…</p>
+
+    <div id="stats-row">
+      <div class="stat"><span id="stat-points" class="stat-value">—</span><span class="stat-label">sample points</span></div>
+      <div class="stat"><span id="stat-radius" class="stat-value">—</span><span class="stat-label">mi concentration radius</span></div>
+      <div class="stat"><span id="stat-delta" class="stat-value">—</span><span class="stat-label">mi moved since last month</span></div>
+    </div>
+
+    <div id="scrubber-row">
+      <button id="playBtn" aria-label="Play migration animation">▶</button>
+      <input id="monthSlider" type="range" min="1" max="12" value="6" step="1" />
+    </div>
+    <div id="month-ticks"></div>
+
+    <h3 class="sidebar-heading">Legend</h3>
+    <div class="legend-row"><span class="dot"></span> Sample sightings this month</div>
+    <div class="legend-row"><span class="swatch hull"></span> Concentration area</div>
+    <div class="legend-row"><span class="swatch line"></span> Full annual route</div>
+    <div class="legend-row"><span class="swatch line traveled"></span> Route so far this year</div>
+
+    <p id="data-note">Data simulated — no eBird API key available.</p>
+  </aside>
+
+  <div id="map"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

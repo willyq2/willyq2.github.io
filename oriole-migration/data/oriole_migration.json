@@ -1,0 +1,4407 @@
+{
+  "species": {
+    "common_name": "Baltimore Oriole",
+    "scientific_name": "Icterus galbula"
+  },
+  "total_annual_miles_estimate": 5656,
+  "migration_path": [
+    {
+      "lon": -77.912,
+      "lat": 15.934
+    },
+    {
+      "lon": -78.39,
+      "lat": 13.12
+    },
+    {
+      "lon": -83.834,
+      "lat": 14.671
+    },
+    {
+      "lon": -93.158,
+      "lat": 28.317
+    },
+    {
+      "lon": -85.996,
+      "lat": 41.835
+    },
+    {
+      "lon": -87.508,
+      "lat": 43.188
+    },
+    {
+      "lon": -85.726,
+      "lat": 41.668
+    },
+    {
+      "lon": -90.689,
+      "lat": 35.057
+    },
+    {
+      "lon": -93.208,
+      "lat": 23.23
+    },
+    {
+      "lon": -80.528,
+      "lat": 13.749
+    },
+    {
+      "lon": -78.581,
+      "lat": 14.309
+    },
+    {
+      "lon": -78.374,
+      "lat": 15.672
+    },
+    {
+      "lon": -77.912,
+      "lat": 15.934
+    }
+  ],
+  "months": {
+    "1": {
+      "name": "January",
+      "stage": "wintering",
+      "note": "The year begins in the tropics, in mixed flocks at good feeding trees.",
+      "centroid": {
+        "lon": -77.912,
+        "lat": 15.934
+      },
+      "points": [
+        {
+          "lon": -75.257,
+          "lat": 19.207,
+          "region": "Cuba"
+        },
+        {
+          "lon": -73.319,
+          "lat": 5.192,
+          "region": "Colombia"
+        },
+        {
+          "lon": -80.426,
+          "lat": 27.989,
+          "region": "Florida"
+        },
+        {
+          "lon": -72.419,
+          "lat": 10.182,
+          "region": "Colombia"
+        },
+        {
+          "lon": -71.856,
+          "lat": 10.577,
+          "region": "Colombia"
+        },
+        {
+          "lon": -81.507,
+          "lat": 10.967,
+          "region": "Panama"
+        },
+        {
+          "lon": -79.329,
+          "lat": 27.567,
+          "region": "Florida"
+        },
+        {
+          "lon": -77.687,
+          "lat": 19.809,
+          "region": "Cuba"
+        },
+        {
+          "lon": -81.774,
+          "lat": 27.84,
+          "region": "Florida"
+        },
+        {
+          "lon": -71.044,
+          "lat": 5.913,
+          "region": "Colombia"
+        },
+        {
+          "lon": -81.689,
+          "lat": 26.393,
+          "region": "Florida"
+        },
+        {
+          "lon": -82.599,
+          "lat": 28.288,
+          "region": "Florida"
+        },
+        {
+          "lon": -83.255,
+          "lat": 26.287,
+          "region": "Florida"
+        },
+        {
+          "lon": -82.172,
+          "lat": 8.559,
+          "region": "Panama"
+        },
+        {
+          "lon": -73.25,
+          "lat": 8.741,
+          "region": "Colombia"
+        },
+        {
+          "lon": -71.375,
+          "lat": 8.897,
+          "region": "Colombia"
+        },
+        {
+          "lon": -78.397,
+          "lat": 20.191,
+          "region": "Cuba"
+        },
+        {
+          "lon": -73.625,
+          "lat": 12.38,
+          "region": "Colombia"
+        },
+        {
+          "lon": -78.043,
+          "lat": 18.36,
+          "region": "Cuba"
+        },
+        {
+          "lon": -75.887,
+          "lat": 20.379,
+          "region": "Cuba"
+        },
+        {
+          "lon": -82.476,
+          "lat": 26.615,
+          "region": "Florida"
+        },
+        {
+          "lon": -74.904,
+          "lat": 16.618,
+          "region": "Cuba"
+        },
+        {
+          "lon": -70.868,
+          "lat": 8.327,
+          "region": "Colombia"
+        },
+        {
+          "lon": -71.548,
+          "lat": 12.353,
+          "region": "Colombia"
+        },
+        {
+          "lon": -82.192,
+          "lat": 28.707,
+          "region": "Florida"
+        },
+        {
+          "lon": -80.095,
+          "lat": 8.15,
+          "region": "Panama"
+        },
+        {
+          "lon": -72.932,
+          "lat": 10.407,
+          "region": "Colombia"
+        },
+        {
+          "lon": -77.603,
+          "lat": 5.97,
+          "region": "Colombia"
+        },
+        {
+          "lon": -80.672,
+          "lat": 14.103,
+          "region": "Panama"
+        },
+        {
+          "lon": -81.477,
+          "lat": 9.252,
+          "region": "Panama"
+        },
+        {
+          "lon": -76.085,
+          "lat": 5.614,
+          "region": "Colombia"
+        },
+        {
+          "lon": -80.193,
+          "lat": 9.572,
+          "region": "Panama"
+        },
+        {
+          "lon": -84.641,
+          "lat": 27.064,
+          "region": "Florida"
+        },
+        {
+          "lon": -79.588,
+          "lat": 27.604,
+          "region": "Florida"
+        },
+        {
+          "lon": -78.687,
+          "lat": 18.701,
+          "region": "Cuba"
+        },
+        {
+          "lon": -75.204,
+          "lat": 20.137,
+          "region": "Cuba"
+        },
+        {
+          "lon": -78.085,
+          "lat": 8.123,
+          "region": "Panama"
+        },
+        {
+          "lon": -74.568,
+          "lat": 7.996,
+          "region": "Colombia"
+        },
+        {
+          "lon": -80.806,
+          "lat": 26.949,
+          "region": "Florida"
+        },
+        {
+          "lon": -77.982,
+          "lat": 18.399,
+          "region": "Cuba"
+        },
+        {
+          "lon": -80.704,
+          "lat": 18.298,
+          "region": "Cuba"
+        },
+        {
+          "lon": -80.23,
+          "lat": 9.005,
+          "region": "Panama"
+        },
+        {
+          "lon": -68.366,
+          "lat": 6.34,
+          "region": "Colombia"
+        },
+        {
+          "lon": -81.647,
+          "lat": 27.791,
+          "region": "Florida"
+        },
+        {
+          "lon": -81.02,
+          "lat": 27.375,
+          "region": "Florida"
+        },
+        {
+          "lon": -78.933,
+          "lat": 10.069,
+          "region": "Panama"
+        },
+        {
+          "lon": -75.271,
+          "lat": 20.353,
+          "region": "Cuba"
+        },
+        {
+          "lon": -82.383,
+          "lat": 12.03,
+          "region": "Panama"
+        },
+        {
+          "lon": -81.408,
+          "lat": 10.814,
+          "region": "Panama"
+        },
+        {
+          "lon": -76.425,
+          "lat": 20.36,
+          "region": "Cuba"
+        },
+        {
+          "lon": -82.258,
+          "lat": 26.719,
+          "region": "Florida"
+        },
+        {
+          "lon": -80.966,
+          "lat": 9.737,
+          "region": "Panama"
+        },
+        {
+          "lon": -74.537,
+          "lat": 7.286,
+          "region": "Colombia"
+        },
+        {
+          "lon": -69.815,
+          "lat": 9.142,
+          "region": "Colombia"
+        },
+        {
+          "lon": -68.895,
+          "lat": 5.92,
+          "region": "Colombia"
+        },
+        {
+          "lon": -72.72,
+          "lat": 10.78,
+          "region": "Colombia"
+        },
+        {
+          "lon": -69.055,
+          "lat": 11.244,
+          "region": "Colombia"
+        },
+        {
+          "lon": -85.453,
+          "lat": 9.449,
+          "region": "Panama"
+        },
+        {
+          "lon": -81.302,
+          "lat": 27.878,
+          "region": "Florida"
+        },
+        {
+          "lon": -83.99,
+          "lat": 9.777,
+          "region": "Panama"
+        },
+        {
+          "lon": -79.934,
+          "lat": 14.789,
+          "region": "Cuba"
+        },
+        {
+          "lon": -74.863,
+          "lat": 8.981,
+          "region": "Colombia"
+        },
+        {
+          "lon": -81.493,
+          "lat": 28.085,
+          "region": "Florida"
+        },
+        {
+          "lon": -83.425,
+          "lat": 9.571,
+          "region": "Panama"
+        },
+        {
+          "lon": -70.603,
+          "lat": 7.059,
+          "region": "Colombia"
+        },
+        {
+          "lon": -81.867,
+          "lat": 27.41,
+          "region": "Florida"
+        },
+        {
+          "lon": -79.872,
+          "lat": 25.466,
+          "region": "Florida"
+        },
+        {
+          "lon": -81.079,
+          "lat": 27.058,
+          "region": "Florida"
+        },
+        {
+          "lon": -81.543,
+          "lat": 10.479,
+          "region": "Panama"
+        },
+        {
+          "lon": -78.263,
+          "lat": 11.755,
+          "region": "Colombia"
+        }
+      ],
+      "miles_since_last_month": 36
+    },
+    "2": {
+      "name": "February",
+      "stage": "wintering",
+      "note": "Still on the wintering grounds; early migrants begin moving through Panama.",
+      "centroid": {
+        "lon": -78.39,
+        "lat": 13.12
+      },
+      "points": [
+        {
+          "lon": -81.859,
+          "lat": 28.353,
+          "region": "Florida"
+        },
+        {
+          "lon": -80.735,
+          "lat": 26.54,
+          "region": "Florida"
+        },
+        {
+          "lon": -75.552,
+          "lat": 15.647,
+          "region": "Cuba"
+        },
+        {
+          "lon": -82.331,
+          "lat": 10.712,
+          "region": "Panama"
+        },
+        {
+          "lon": -83.746,
+          "lat": 6.658,
+          "region": "Panama"
+        },
+        {
+          "lon": -74.34,
+          "lat": 15.879,
+          "region": "Cuba"
+        },
+        {
+          "lon": -84.055,
+          "lat": 27.083,
+          "region": "Florida"
+        },
+        {
+          "lon": -82.435,
+          "lat": 8.463,
+          "region": "Panama"
+        },
+        {
+          "lon": -81.151,
+          "lat": 8.295,
+          "region": "Panama"
+        },
+        {
+          "lon": -74.286,
+          "lat": 9.826,
+          "region": "Colombia"
+        },
+        {
+          "lon": -71.531,
+          "lat": 6.961,
+          "region": "Colombia"
+        },
+        {
+          "lon": -83.507,
+          "lat": 28.308,
+          "region": "Florida"
+        },
+        {
+          "lon": -82.004,
+          "lat": 8.509,
+          "region": "Panama"
+        },
+        {
+          "lon": -81.427,
+          "lat": 27.835,
+          "region": "Florida"
+        },
+        {
+          "lon": -81.208,
+          "lat": 27.557,
+          "region": "Florida"
+        },
+        {
+          "lon": -71.147,
+          "lat": 5.787,
+          "region": "Colombia"
+        },
+        {
+          "lon": -74.215,
+          "lat": 8.153,
+          "region": "Colombia"
+        },
+        {
+          "lon": -82.401,
+          "lat": 27.651,
+          "region": "Florida"
+        },
+        {
+          "lon": -86.052,
+          "lat": 6.615,
+          "region": "Panama"
+        },
+        {
+          "lon": -76.771,
+          "lat": 18.028,
+          "region": "Cuba"
+        },
+        {
+          "lon": -78.06,
+          "lat": 5.954,
+          "region": "Colombia"
+        },
+        {
+          "lon": -80.375,
+          "lat": 8.205,
+          "region": "Panama"
+        },
+        {
+          "lon": -80.987,
+          "lat": 28.642,
+          "region": "Florida"
+        },
+        {
+          "lon": -81.417,
+          "lat": 28.89,
+          "region": "Florida"
+        },
+        {
+          "lon": -74.816,
+          "lat": 4.892,
+          "region": "Colombia"
+        },
+        {
+          "lon": -77.583,
+          "lat": 18.808,
+          "region": "Cuba"
+        },
+        {
+          "lon": -82.399,
+          "lat": 8.518,
+          "region": "Panama"
+        },
+        {
+          "lon": -74.711,
+          "lat": 19.137,
+          "region": "Cuba"
+        },
+        {
+          "lon": -83.734,
+          "lat": 9.577,
+          "region": "Panama"
+        },
+        {
+          "lon": -82.17,
+          "lat": 27.63,
+          "region": "Florida"
+        },
+        {
+          "lon": -76.591,
+          "lat": 7.63,
+          "region": "Colombia"
+        },
+        {
+          "lon": -73.676,
+          "lat": 17.622,
+          "region": "Cuba"
+        },
+        {
+          "lon": -80.772,
+          "lat": 7.213,
+          "region": "Panama"
+        },
+        {
+          "lon": -72.835,
+          "lat": 12.378,
+          "region": "Colombia"
+        },
+        {
+          "lon": -76.968,
+          "lat": 8.95,
+          "region": "Colombia"
+        },
+        {
+          "lon": -82.891,
+          "lat": 7.817,
+          "region": "Panama"
+        },
+        {
+          "lon": -83.05,
+          "lat": 10.545,
+          "region": "Panama"
+        },
+        {
+          "lon": -82.085,
+          "lat": 10.213,
+          "region": "Panama"
+        },
+        {
+          "lon": -80.142,
+          "lat": 7.693,
+          "region": "Panama"
+        },
+        {
+          "lon": -81.462,
+          "lat": 10.039,
+          "region": "Panama"
+        },
+        {
+          "lon": -83.395,
+          "lat": 8.622,
+          "region": "Panama"
+        },
+        {
+          "lon": -82.518,
+          "lat": 7.411,
+          "region": "Panama"
+        },
+        {
+          "lon": -73.698,
+          "lat": 9.836,
+          "region": "Colombia"
+        },
+        {
+          "lon": -74.235,
+          "lat": 6.457,
+          "region": "Colombia"
+        },
+        {
+          "lon": -85.75,
+          "lat": 13.208,
+          "region": "Panama"
+        },
+        {
+          "lon": -83.313,
+          "lat": 10.323,
+          "region": "Panama"
+        },
+        {
+          "lon": -72.513,
+          "lat": 10.975,
+          "region": "Colombia"
+        },
+        {
+          "lon": -73.274,
+          "lat": 3.402,
+          "region": "Colombia"
+        },
+        {
+          "lon": -75.706,
+          "lat": 21.523,
+          "region": "Cuba"
+        },
+        {
+          "lon": -76.573,
+          "lat": 6.309,
+          "region": "Colombia"
+        },
+        {
+          "lon": -78.247,
+          "lat": 8.654,
+          "region": "Panama"
+        },
+        {
+          "lon": -74.361,
+          "lat": 9.22,
+          "region": "Colombia"
+        },
+        {
+          "lon": -76.53,
+          "lat": 19.36,
+          "region": "Cuba"
+        },
+        {
+          "lon": -74.571,
+          "lat": 12.346,
+          "region": "Colombia"
+        },
+        {
+          "lon": -76.982,
+          "lat": 18.232,
+          "region": "Cuba"
+        },
+        {
+          "lon": -73.611,
+          "lat": 10.091,
+          "region": "Colombia"
+        },
+        {
+          "lon": -71.137,
+          "lat": 7.692,
+          "region": "Colombia"
+        },
+        {
+          "lon": -81.167,
+          "lat": 27.717,
+          "region": "Florida"
+        },
+        {
+          "lon": -84.696,
+          "lat": 7.937,
+          "region": "Panama"
+        },
+        {
+          "lon": -70.713,
+          "lat": 3.757,
+          "region": "Colombia"
+        },
+        {
+          "lon": -72.964,
+          "lat": 10.396,
+          "region": "Colombia"
+        },
+        {
+          "lon": -84.285,
+          "lat": 7.817,
+          "region": "Panama"
+        },
+        {
+          "lon": -80.515,
+          "lat": 21.464,
+          "region": "Cuba"
+        },
+        {
+          "lon": -75.247,
+          "lat": 6.952,
+          "region": "Colombia"
+        },
+        {
+          "lon": -77.283,
+          "lat": 10.407,
+          "region": "Panama"
+        },
+        {
+          "lon": -72.72,
+          "lat": 5.38,
+          "region": "Colombia"
+        },
+        {
+          "lon": -71.384,
+          "lat": 8.678,
+          "region": "Colombia"
+        },
+        {
+          "lon": -80.864,
+          "lat": 10.28,
+          "region": "Panama"
+        },
+        {
+          "lon": -77.557,
+          "lat": 19.08,
+          "region": "Cuba"
+        },
+        {
+          "lon": -74.011,
+          "lat": 11.637,
+          "region": "Colombia"
+        }
+      ],
+      "miles_since_last_month": 197
+    },
+    "3": {
+      "name": "March",
+      "stage": "migration",
+      "note": "Some reach Mexico; many are still as far south as Panama.",
+      "centroid": {
+        "lon": -83.834,
+        "lat": 14.671
+      },
+      "points": [
+        {
+          "lon": -78.553,
+          "lat": 9.805,
+          "region": "Central America"
+        },
+        {
+          "lon": -75.886,
+          "lat": 11.671,
+          "region": "Central America"
+        },
+        {
+          "lon": -84.872,
+          "lat": 18.61,
+          "region": "Mexico"
+        },
+        {
+          "lon": -75.476,
+          "lat": 11.327,
+          "region": "Central America"
+        },
+        {
+          "lon": -87.548,
+          "lat": 14.326,
+          "region": "Mexico"
+        },
+        {
+          "lon": -91.15,
+          "lat": 18.561,
+          "region": "Mexico"
+        },
+        {
+          "lon": -73.78,
+          "lat": 10.646,
+          "region": "Colombia"
+        },
+        {
+          "lon": -88.975,
+          "lat": 17.341,
+          "region": "Mexico"
+        },
+        {
+          "lon": -78.975,
+          "lat": 9.286,
+          "region": "Central America"
+        },
+        {
+          "lon": -75.877,
+          "lat": 10.202,
+          "region": "Colombia"
+        },
+        {
+          "lon": -90.982,
+          "lat": 18.436,
+          "region": "Mexico"
+        },
+        {
+          "lon": -82.154,
+          "lat": 14.518,
+          "region": "Central America"
+        },
+        {
+          "lon": -91.859,
+          "lat": 19.475,
+          "region": "Mexico"
+        },
+        {
+          "lon": -72.437,
+          "lat": 8.459,
+          "region": "Colombia"
+        },
+        {
+          "lon": -83.633,
+          "lat": 10.573,
+          "region": "Central America"
+        },
+        {
+          "lon": -91.301,
+          "lat": 18.727,
+          "region": "Mexico"
+        },
+        {
+          "lon": -88.409,
+          "lat": 16.315,
+          "region": "Mexico"
+        },
+        {
+          "lon": -79.121,
+          "lat": 10.035,
+          "region": "Central America"
+        },
+        {
+          "lon": -89.572,
+          "lat": 16.636,
+          "region": "Mexico"
+        },
+        {
+          "lon": -90.866,
+          "lat": 17.721,
+          "region": "Mexico"
+        },
+        {
+          "lon": -76.536,
+          "lat": 13.261,
+          "region": "Central America"
+        },
+        {
+          "lon": -73.535,
+          "lat": 9.746,
+          "region": "Colombia"
+        },
+        {
+          "lon": -69.046,
+          "lat": 9.053,
+          "region": "Colombia"
+        },
+        {
+          "lon": -88.7,
+          "lat": 19.038,
+          "region": "Mexico"
+        },
+        {
+          "lon": -90.303,
+          "lat": 17.637,
+          "region": "Mexico"
+        },
+        {
+          "lon": -89.542,
+          "lat": 16.661,
+          "region": "Mexico"
+        },
+        {
+          "lon": -89.624,
+          "lat": 18.547,
+          "region": "Mexico"
+        },
+        {
+          "lon": -81.081,
+          "lat": 11.494,
+          "region": "Central America"
+        },
+        {
+          "lon": -76.475,
+          "lat": 9.785,
+          "region": "Central America"
+        },
+        {
+          "lon": -96.027,
+          "lat": 17.891,
+          "region": "Mexico"
+        },
+        {
+          "lon": -88.959,
+          "lat": 14.316,
+          "region": "Mexico"
+        },
+        {
+          "lon": -83.224,
+          "lat": 13.26,
+          "region": "Central America"
+        },
+        {
+          "lon": -92.512,
+          "lat": 18.25,
+          "region": "Mexico"
+        },
+        {
+          "lon": -82.472,
+          "lat": 12.251,
+          "region": "Central America"
+        },
+        {
+          "lon": -87.009,
+          "lat": 19.248,
+          "region": "Mexico"
+        },
+        {
+          "lon": -90.554,
+          "lat": 20.622,
+          "region": "Mexico"
+        },
+        {
+          "lon": -80.678,
+          "lat": 17.398,
+          "region": "Central America"
+        },
+        {
+          "lon": -80.266,
+          "lat": 12.733,
+          "region": "Central America"
+        },
+        {
+          "lon": -91.46,
+          "lat": 14.497,
+          "region": "Mexico"
+        },
+        {
+          "lon": -76.525,
+          "lat": 9.026,
+          "region": "Central America"
+        },
+        {
+          "lon": -91.718,
+          "lat": 18.405,
+          "region": "Mexico"
+        },
+        {
+          "lon": -92.483,
+          "lat": 18.56,
+          "region": "Mexico"
+        },
+        {
+          "lon": -93.313,
+          "lat": 19.232,
+          "region": "Mexico"
+        },
+        {
+          "lon": -86.749,
+          "lat": 21.476,
+          "region": "Mexico"
+        },
+        {
+          "lon": -89.456,
+          "lat": 17.278,
+          "region": "Mexico"
+        },
+        {
+          "lon": -90.321,
+          "lat": 14.582,
+          "region": "Mexico"
+        },
+        {
+          "lon": -79.748,
+          "lat": 10.755,
+          "region": "Central America"
+        },
+        {
+          "lon": -88.32,
+          "lat": 19.217,
+          "region": "Mexico"
+        },
+        {
+          "lon": -76.991,
+          "lat": 8.226,
+          "region": "Central America"
+        },
+        {
+          "lon": -73.68,
+          "lat": 11.499,
+          "region": "Central America"
+        },
+        {
+          "lon": -91.526,
+          "lat": 17.39,
+          "region": "Mexico"
+        },
+        {
+          "lon": -76.807,
+          "lat": 12.886,
+          "region": "Central America"
+        },
+        {
+          "lon": -79.855,
+          "lat": 14.351,
+          "region": "Central America"
+        },
+        {
+          "lon": -75.301,
+          "lat": 8.61,
+          "region": "Central America"
+        },
+        {
+          "lon": -71.85,
+          "lat": 7.12,
+          "region": "Colombia"
+        },
+        {
+          "lon": -71.327,
+          "lat": 12.708,
+          "region": "Central America"
+        },
+        {
+          "lon": -77.173,
+          "lat": 13.176,
+          "region": "Central America"
+        },
+        {
+          "lon": -77.825,
+          "lat": 13.593,
+          "region": "Central America"
+        },
+        {
+          "lon": -87.79,
+          "lat": 16.232,
+          "region": "Mexico"
+        },
+        {
+          "lon": -87.775,
+          "lat": 20.066,
+          "region": "Mexico"
+        },
+        {
+          "lon": -90.043,
+          "lat": 16.695,
+          "region": "Mexico"
+        },
+        {
+          "lon": -91.299,
+          "lat": 19.517,
+          "region": "Mexico"
+        },
+        {
+          "lon": -76.457,
+          "lat": 9.606,
+          "region": "Central America"
+        },
+        {
+          "lon": -88.616,
+          "lat": 18.356,
+          "region": "Mexico"
+        },
+        {
+          "lon": -77.916,
+          "lat": 10.673,
+          "region": "Central America"
+        },
+        {
+          "lon": -79.69,
+          "lat": 12.182,
+          "region": "Central America"
+        },
+        {
+          "lon": -89.962,
+          "lat": 17.079,
+          "region": "Mexico"
+        },
+        {
+          "lon": -90.781,
+          "lat": 20.763,
+          "region": "Mexico"
+        },
+        {
+          "lon": -77.379,
+          "lat": 11.504,
+          "region": "Central America"
+        },
+        {
+          "lon": -90.252,
+          "lat": 17.864,
+          "region": "Mexico"
+        }
+      ],
+      "miles_since_last_month": 381
+    },
+    "4": {
+      "name": "April",
+      "stage": "migration",
+      "note": "Peak migration begins. First arrivals reach Texas; a few reach the central states by month's end.",
+      "centroid": {
+        "lon": -93.158,
+        "lat": 28.317
+      },
+      "points": [
+        {
+          "lon": -93.101,
+          "lat": 19.83,
+          "region": "Mexico"
+        },
+        {
+          "lon": -96.669,
+          "lat": 26.996,
+          "region": "Texas"
+        },
+        {
+          "lon": -97.975,
+          "lat": 17.676,
+          "region": "Mexico"
+        },
+        {
+          "lon": -95.373,
+          "lat": 20.49,
+          "region": "Mexico"
+        },
+        {
+          "lon": -89.397,
+          "lat": 30.928,
+          "region": "Louisiana"
+        },
+        {
+          "lon": -98.76,
+          "lat": 20.637,
+          "region": "Mexico"
+        },
+        {
+          "lon": -94.66,
+          "lat": 19.373,
+          "region": "Mexico"
+        },
+        {
+          "lon": -97.01,
+          "lat": 20.411,
+          "region": "Mexico"
+        },
+        {
+          "lon": -96.863,
+          "lat": 28.313,
+          "region": "Texas"
+        },
+        {
+          "lon": -93.986,
+          "lat": 39.565,
+          "region": "Illinois"
+        },
+        {
+          "lon": -90.087,
+          "lat": 35.136,
+          "region": "Louisiana"
+        },
+        {
+          "lon": -98.627,
+          "lat": 29.534,
+          "region": "Texas"
+        },
+        {
+          "lon": -88.508,
+          "lat": 40.673,
+          "region": "Illinois"
+        },
+        {
+          "lon": -86.832,
+          "lat": 30.021,
+          "region": "Louisiana"
+        },
+        {
+          "lon": -92.084,
+          "lat": 42.645,
+          "region": "Illinois"
+        },
+        {
+          "lon": -95.679,
+          "lat": 32.066,
+          "region": "Louisiana"
+        },
+        {
+          "lon": -88.727,
+          "lat": 29.133,
+          "region": "Louisiana"
+        },
+        {
+          "lon": -99.23,
+          "lat": 26.745,
+          "region": "Texas"
+        },
+        {
+          "lon": -90.442,
+          "lat": 32.691,
+          "region": "Louisiana"
+        },
+        {
+          "lon": -96.18,
+          "lat": 22.389,
+          "region": "Mexico"
+        },
+        {
+          "lon": -90.86,
+          "lat": 30.378,
+          "region": "Louisiana"
+        },
+        {
+          "lon": -96.042,
+          "lat": 27.235,
+          "region": "Texas"
+        },
+        {
+          "lon": -88.86,
+          "lat": 44.147,
+          "region": "Illinois"
+        },
+        {
+          "lon": -85.462,
+          "lat": 40.971,
+          "region": "Illinois"
+        },
+        {
+          "lon": -88.81,
+          "lat": 29.316,
+          "region": "Louisiana"
+        },
+        {
+          "lon": -86.293,
+          "lat": 41.603,
+          "region": "Illinois"
+        },
+        {
+          "lon": -94.089,
+          "lat": 20.152,
+          "region": "Mexico"
+        },
+        {
+          "lon": -96.64,
+          "lat": 21.372,
+          "region": "Mexico"
+        },
+        {
+          "lon": -97.977,
+          "lat": 18.266,
+          "region": "Mexico"
+        },
+        {
+          "lon": -90.355,
+          "lat": 41.833,
+          "region": "Illinois"
+        },
+        {
+          "lon": -97.476,
+          "lat": 19.652,
+          "region": "Mexico"
+        },
+        {
+          "lon": -94.997,
+          "lat": 20.92,
+          "region": "Mexico"
+        },
+        {
+          "lon": -97.473,
+          "lat": 20.011,
+          "region": "Mexico"
+        },
+        {
+          "lon": -95.144,
+          "lat": 21.452,
+          "region": "Mexico"
+        },
+        {
+          "lon": -87.95,
+          "lat": 31.965,
+          "region": "Louisiana"
+        },
+        {
+          "lon": -89.022,
+          "lat": 40.042,
+          "region": "Illinois"
+        },
+        {
+          "lon": -92.087,
+          "lat": 40.953,
+          "region": "Illinois"
+        },
+        {
+          "lon": -86.777,
+          "lat": 33.487,
+          "region": "Louisiana"
+        },
+        {
+          "lon": -95.978,
+          "lat": 21.569,
+          "region": "Mexico"
+        },
+        {
+          "lon": -100.05,
+          "lat": 27.379,
+          "region": "Texas"
+        },
+        {
+          "lon": -89.088,
+          "lat": 36.664,
+          "region": "Illinois"
+        },
+        {
+          "lon": -94.192,
+          "lat": 17.848,
+          "region": "Mexico"
+        },
+        {
+          "lon": -96.751,
+          "lat": 28.586,
+          "region": "Texas"
+        },
+        {
+          "lon": -91.866,
+          "lat": 20.392,
+          "region": "Mexico"
+        },
+        {
+          "lon": -88.952,
+          "lat": 29.759,
+          "region": "Louisiana"
+        },
+        {
+          "lon": -93.157,
+          "lat": 20.832,
+          "region": "Mexico"
+        },
+        {
+          "lon": -88.475,
+          "lat": 38.203,
+          "region": "Illinois"
+        },
+        {
+          "lon": -94.565,
+          "lat": 19.343,
+          "region": "Mexico"
+        },
+        {
+          "lon": -89.369,
+          "lat": 38.721,
+          "region": "Illinois"
+        },
+        {
+          "lon": -97.869,
+          "lat": 23.187,
+          "region": "Mexico"
+        },
+        {
+          "lon": -96.012,
+          "lat": 19.085,
+          "region": "Mexico"
+        },
+        {
+          "lon": -92.008,
+          "lat": 41.355,
+          "region": "Illinois"
+        },
+        {
+          "lon": -96.386,
+          "lat": 28.456,
+          "region": "Texas"
+        },
+        {
+          "lon": -98.04,
+          "lat": 29.587,
+          "region": "Texas"
+        },
+        {
+          "lon": -85.055,
+          "lat": 30.556,
+          "region": "Louisiana"
+        },
+        {
+          "lon": -95.014,
+          "lat": 22.662,
+          "region": "Mexico"
+        },
+        {
+          "lon": -93.5,
+          "lat": 21.127,
+          "region": "Mexico"
+        },
+        {
+          "lon": -91.519,
+          "lat": 31.982,
+          "region": "Louisiana"
+        },
+        {
+          "lon": -86.339,
+          "lat": 41.813,
+          "region": "Illinois"
+        },
+        {
+          "lon": -98.796,
+          "lat": 17.788,
+          "region": "Mexico"
+        },
+        {
+          "lon": -94.727,
+          "lat": 19.599,
+          "region": "Mexico"
+        },
+        {
+          "lon": -98.24,
+          "lat": 26.855,
+          "region": "Texas"
+        },
+        {
+          "lon": -94.724,
+          "lat": 18.065,
+          "region": "Mexico"
+        },
+        {
+          "lon": -98.512,
+          "lat": 20.032,
+          "region": "Mexico"
+        },
+        {
+          "lon": -87.234,
+          "lat": 31.421,
+          "region": "Louisiana"
+        },
+        {
+          "lon": -95.834,
+          "lat": 18.554,
+          "region": "Mexico"
+        },
+        {
+          "lon": -95.499,
+          "lat": 28.445,
+          "region": "Texas"
+        },
+        {
+          "lon": -89.027,
+          "lat": 34.455,
+          "region": "Louisiana"
+        },
+        {
+          "lon": -90.804,
+          "lat": 29.008,
+          "region": "Louisiana"
+        },
+        {
+          "lon": -86.954,
+          "lat": 39.878,
+          "region": "Illinois"
+        }
+      ],
+      "miles_since_last_month": 1116
+    },
+    "5": {
+      "name": "May",
+      "stage": "arrival",
+      "note": "Orioles reach the northern states and provinces \u2014 peak month for nest-building.",
+      "centroid": {
+        "lon": -85.996,
+        "lat": 41.835
+      },
+      "points": [
+        {
+          "lon": -90.835,
+          "lat": 41.344,
+          "region": "Michigan"
+        },
+        {
+          "lon": -95.688,
+          "lat": 42.352,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -95.737,
+          "lat": 41.848,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -94.487,
+          "lat": 42.212,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -82.298,
+          "lat": 37.519,
+          "region": "Virginia"
+        },
+        {
+          "lon": -72.917,
+          "lat": 42.593,
+          "region": "New York"
+        },
+        {
+          "lon": -80.336,
+          "lat": 35.515,
+          "region": "Virginia"
+        },
+        {
+          "lon": -80.069,
+          "lat": 35.029,
+          "region": "Virginia"
+        },
+        {
+          "lon": -88.508,
+          "lat": 42.564,
+          "region": "Michigan"
+        },
+        {
+          "lon": -91.133,
+          "lat": 48.717,
+          "region": "Manitoba"
+        },
+        {
+          "lon": -89.487,
+          "lat": 49.381,
+          "region": "Manitoba"
+        },
+        {
+          "lon": -79.45,
+          "lat": 32.868,
+          "region": "Virginia"
+        },
+        {
+          "lon": -103.896,
+          "lat": 43.828,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -72.025,
+          "lat": 39.613,
+          "region": "New York"
+        },
+        {
+          "lon": -76.208,
+          "lat": 39.986,
+          "region": "New York"
+        },
+        {
+          "lon": -98.317,
+          "lat": 39.575,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -90.983,
+          "lat": 41.466,
+          "region": "Michigan"
+        },
+        {
+          "lon": -79.972,
+          "lat": 37.123,
+          "region": "Virginia"
+        },
+        {
+          "lon": -89.119,
+          "lat": 44.677,
+          "region": "Michigan"
+        },
+        {
+          "lon": -101.562,
+          "lat": 40.304,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -89.141,
+          "lat": 43.239,
+          "region": "Michigan"
+        },
+        {
+          "lon": -92.191,
+          "lat": 48.094,
+          "region": "Manitoba"
+        },
+        {
+          "lon": -82.979,
+          "lat": 38.242,
+          "region": "Virginia"
+        },
+        {
+          "lon": -90.31,
+          "lat": 49.125,
+          "region": "Manitoba"
+        },
+        {
+          "lon": -84.701,
+          "lat": 42.53,
+          "region": "Michigan"
+        },
+        {
+          "lon": -76.867,
+          "lat": 37.742,
+          "region": "Virginia"
+        },
+        {
+          "lon": -74.862,
+          "lat": 43.045,
+          "region": "New York"
+        },
+        {
+          "lon": -89.224,
+          "lat": 49.771,
+          "region": "Manitoba"
+        },
+        {
+          "lon": -86.371,
+          "lat": 39.215,
+          "region": "Michigan"
+        },
+        {
+          "lon": -77.44,
+          "lat": 40.706,
+          "region": "New York"
+        },
+        {
+          "lon": -75.355,
+          "lat": 42.79,
+          "region": "New York"
+        },
+        {
+          "lon": -96.618,
+          "lat": 42.559,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -83.122,
+          "lat": 40.773,
+          "region": "Michigan"
+        },
+        {
+          "lon": -93.854,
+          "lat": 47.592,
+          "region": "Manitoba"
+        },
+        {
+          "lon": -70.305,
+          "lat": 41.381,
+          "region": "New York"
+        },
+        {
+          "lon": -96.511,
+          "lat": 39.399,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -73.85,
+          "lat": 43.175,
+          "region": "New York"
+        },
+        {
+          "lon": -83.838,
+          "lat": 37.483,
+          "region": "Virginia"
+        },
+        {
+          "lon": -75.954,
+          "lat": 39.38,
+          "region": "New York"
+        },
+        {
+          "lon": -98.056,
+          "lat": 47.122,
+          "region": "Manitoba"
+        },
+        {
+          "lon": -95.759,
+          "lat": 42.044,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -91.415,
+          "lat": 38.624,
+          "region": "Michigan"
+        },
+        {
+          "lon": -77.315,
+          "lat": 38.322,
+          "region": "Virginia"
+        },
+        {
+          "lon": -88.433,
+          "lat": 44.787,
+          "region": "Michigan"
+        },
+        {
+          "lon": -95.869,
+          "lat": 40.137,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -80.411,
+          "lat": 35.106,
+          "region": "Virginia"
+        },
+        {
+          "lon": -73.772,
+          "lat": 41.013,
+          "region": "New York"
+        },
+        {
+          "lon": -86.146,
+          "lat": 49.424,
+          "region": "Manitoba"
+        },
+        {
+          "lon": -84.71,
+          "lat": 53.964,
+          "region": "Manitoba"
+        },
+        {
+          "lon": -74.873,
+          "lat": 44.041,
+          "region": "New York"
+        },
+        {
+          "lon": -85.271,
+          "lat": 40.792,
+          "region": "Michigan"
+        },
+        {
+          "lon": -81.808,
+          "lat": 38.263,
+          "region": "Virginia"
+        },
+        {
+          "lon": -75.174,
+          "lat": 43.794,
+          "region": "New York"
+        },
+        {
+          "lon": -70.406,
+          "lat": 44.458,
+          "region": "New York"
+        },
+        {
+          "lon": -72.631,
+          "lat": 39.189,
+          "region": "New York"
+        },
+        {
+          "lon": -77.205,
+          "lat": 42.993,
+          "region": "New York"
+        },
+        {
+          "lon": -86.818,
+          "lat": 43.157,
+          "region": "Michigan"
+        },
+        {
+          "lon": -94.285,
+          "lat": 48.07,
+          "region": "Manitoba"
+        },
+        {
+          "lon": -89.176,
+          "lat": 43.607,
+          "region": "Michigan"
+        },
+        {
+          "lon": -82.916,
+          "lat": 37.01,
+          "region": "Virginia"
+        },
+        {
+          "lon": -97.214,
+          "lat": 44.478,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -93.827,
+          "lat": 47.307,
+          "region": "Manitoba"
+        },
+        {
+          "lon": -87.575,
+          "lat": 40.903,
+          "region": "Michigan"
+        },
+        {
+          "lon": -84.449,
+          "lat": 37.245,
+          "region": "Virginia"
+        },
+        {
+          "lon": -97.547,
+          "lat": 40.493,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -84.561,
+          "lat": 38.29,
+          "region": "Michigan"
+        },
+        {
+          "lon": -96.768,
+          "lat": 39.074,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -79.635,
+          "lat": 39.335,
+          "region": "Virginia"
+        },
+        {
+          "lon": -90.415,
+          "lat": 41.935,
+          "region": "Michigan"
+        },
+        {
+          "lon": -98.729,
+          "lat": 38.751,
+          "region": "Nebraska"
+        }
+      ],
+      "miles_since_last_month": 1017
+    },
+    "6": {
+      "name": "June",
+      "stage": "breeding",
+      "note": "Most eggs hatch this month; parents incubate and feed young.",
+      "centroid": {
+        "lon": -87.508,
+        "lat": 43.188
+      },
+      "points": [
+        {
+          "lon": -96.676,
+          "lat": 50.371,
+          "region": "Saskatchewan"
+        },
+        {
+          "lon": -85.884,
+          "lat": 42.131,
+          "region": "Michigan"
+        },
+        {
+          "lon": -99.881,
+          "lat": 41.386,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -100.515,
+          "lat": 50.536,
+          "region": "Saskatchewan"
+        },
+        {
+          "lon": -75.035,
+          "lat": 41.716,
+          "region": "New York"
+        },
+        {
+          "lon": -96.043,
+          "lat": 38.855,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -97.574,
+          "lat": 49.484,
+          "region": "Saskatchewan"
+        },
+        {
+          "lon": -72.076,
+          "lat": 43.408,
+          "region": "New York"
+        },
+        {
+          "lon": -87.542,
+          "lat": 44.121,
+          "region": "Michigan"
+        },
+        {
+          "lon": -75.077,
+          "lat": 42.894,
+          "region": "New York"
+        },
+        {
+          "lon": -88.194,
+          "lat": 43.802,
+          "region": "Michigan"
+        },
+        {
+          "lon": -74.002,
+          "lat": 40.975,
+          "region": "New York"
+        },
+        {
+          "lon": -79.965,
+          "lat": 38.47,
+          "region": "Virginia"
+        },
+        {
+          "lon": -88.081,
+          "lat": 44.887,
+          "region": "Michigan"
+        },
+        {
+          "lon": -87.22,
+          "lat": 43.201,
+          "region": "Michigan"
+        },
+        {
+          "lon": -84.434,
+          "lat": 38.569,
+          "region": "Michigan"
+        },
+        {
+          "lon": -101.796,
+          "lat": 41.09,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -96.45,
+          "lat": 39.166,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -82.849,
+          "lat": 43.611,
+          "region": "Michigan"
+        },
+        {
+          "lon": -98.483,
+          "lat": 43.301,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -90.971,
+          "lat": 43.818,
+          "region": "Michigan"
+        },
+        {
+          "lon": -98.166,
+          "lat": 50.717,
+          "region": "Saskatchewan"
+        },
+        {
+          "lon": -86.269,
+          "lat": 39.552,
+          "region": "Michigan"
+        },
+        {
+          "lon": -97.679,
+          "lat": 40.509,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -78.8,
+          "lat": 41.696,
+          "region": "New York"
+        },
+        {
+          "lon": -84.989,
+          "lat": 40.259,
+          "region": "Michigan"
+        },
+        {
+          "lon": -95.267,
+          "lat": 40.991,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -96.906,
+          "lat": 39.158,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -77.788,
+          "lat": 38.02,
+          "region": "Virginia"
+        },
+        {
+          "lon": -98.978,
+          "lat": 50.086,
+          "region": "Saskatchewan"
+        },
+        {
+          "lon": -73.809,
+          "lat": 42.331,
+          "region": "New York"
+        },
+        {
+          "lon": -86.542,
+          "lat": 44.23,
+          "region": "Michigan"
+        },
+        {
+          "lon": -88.202,
+          "lat": 44.228,
+          "region": "Michigan"
+        },
+        {
+          "lon": -74.393,
+          "lat": 45.095,
+          "region": "New York"
+        },
+        {
+          "lon": -98.537,
+          "lat": 44.683,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -78.346,
+          "lat": 38.455,
+          "region": "Virginia"
+        },
+        {
+          "lon": -77.103,
+          "lat": 36.051,
+          "region": "Virginia"
+        },
+        {
+          "lon": -77.371,
+          "lat": 38.478,
+          "region": "Virginia"
+        },
+        {
+          "lon": -96.992,
+          "lat": 53.956,
+          "region": "Saskatchewan"
+        },
+        {
+          "lon": -96.73,
+          "lat": 48.191,
+          "region": "Saskatchewan"
+        },
+        {
+          "lon": -99.748,
+          "lat": 40.306,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -101.383,
+          "lat": 41.789,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -76.193,
+          "lat": 39.897,
+          "region": "Virginia"
+        },
+        {
+          "lon": -84.79,
+          "lat": 42.299,
+          "region": "Michigan"
+        },
+        {
+          "lon": -78.059,
+          "lat": 39.084,
+          "region": "Virginia"
+        },
+        {
+          "lon": -97.439,
+          "lat": 47.98,
+          "region": "Saskatchewan"
+        },
+        {
+          "lon": -99.209,
+          "lat": 39.485,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -88.712,
+          "lat": 42.718,
+          "region": "Michigan"
+        },
+        {
+          "lon": -97.531,
+          "lat": 42.44,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -98.72,
+          "lat": 53.098,
+          "region": "Saskatchewan"
+        },
+        {
+          "lon": -74.828,
+          "lat": 43.127,
+          "region": "New York"
+        },
+        {
+          "lon": -72.126,
+          "lat": 43.206,
+          "region": "New York"
+        },
+        {
+          "lon": -98.246,
+          "lat": 51.243,
+          "region": "Saskatchewan"
+        },
+        {
+          "lon": -97.086,
+          "lat": 51.025,
+          "region": "Saskatchewan"
+        },
+        {
+          "lon": -77.189,
+          "lat": 40.97,
+          "region": "Virginia"
+        },
+        {
+          "lon": -87.865,
+          "lat": 42.107,
+          "region": "Michigan"
+        },
+        {
+          "lon": -78.395,
+          "lat": 40.946,
+          "region": "Virginia"
+        },
+        {
+          "lon": -90.749,
+          "lat": 45.925,
+          "region": "Michigan"
+        },
+        {
+          "lon": -88.698,
+          "lat": 43.971,
+          "region": "Michigan"
+        },
+        {
+          "lon": -72.71,
+          "lat": 45.179,
+          "region": "New York"
+        },
+        {
+          "lon": -70.724,
+          "lat": 43.012,
+          "region": "New York"
+        },
+        {
+          "lon": -86.438,
+          "lat": 45.799,
+          "region": "Michigan"
+        },
+        {
+          "lon": -88.545,
+          "lat": 39.744,
+          "region": "Michigan"
+        },
+        {
+          "lon": -78.847,
+          "lat": 39.337,
+          "region": "Virginia"
+        },
+        {
+          "lon": -90.005,
+          "lat": 45.036,
+          "region": "Michigan"
+        },
+        {
+          "lon": -88.999,
+          "lat": 46.566,
+          "region": "Michigan"
+        },
+        {
+          "lon": -86.386,
+          "lat": 39.898,
+          "region": "Michigan"
+        },
+        {
+          "lon": -85.613,
+          "lat": 42.954,
+          "region": "Michigan"
+        },
+        {
+          "lon": -70.106,
+          "lat": 43.116,
+          "region": "New York"
+        },
+        {
+          "lon": -98.606,
+          "lat": 38.402,
+          "region": "Nebraska"
+        }
+      ],
+      "miles_since_last_month": 121
+    },
+    "7": {
+      "name": "July",
+      "stage": "breeding",
+      "note": "Fledglings become independent; some adults begin migrating as early as the start of the month.",
+      "centroid": {
+        "lon": -85.726,
+        "lat": 41.668
+      },
+      "points": [
+        {
+          "lon": -88.375,
+          "lat": 42.041,
+          "region": "Michigan"
+        },
+        {
+          "lon": -100.691,
+          "lat": 42.246,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -87.253,
+          "lat": 44.001,
+          "region": "Michigan"
+        },
+        {
+          "lon": -84.714,
+          "lat": 41.482,
+          "region": "Michigan"
+        },
+        {
+          "lon": -71.854,
+          "lat": 40.472,
+          "region": "New York"
+        },
+        {
+          "lon": -89.624,
+          "lat": 31.613,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -77.396,
+          "lat": 43.318,
+          "region": "New York"
+        },
+        {
+          "lon": -73.962,
+          "lat": 43.609,
+          "region": "New York"
+        },
+        {
+          "lon": -96.972,
+          "lat": 44.912,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -89.795,
+          "lat": 53.084,
+          "region": "Saskatchewan"
+        },
+        {
+          "lon": -72.164,
+          "lat": 37.094,
+          "region": "New York"
+        },
+        {
+          "lon": -87.635,
+          "lat": 34.291,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -84.742,
+          "lat": 39.172,
+          "region": "Michigan"
+        },
+        {
+          "lon": -85.241,
+          "lat": 42.97,
+          "region": "Michigan"
+        },
+        {
+          "lon": -77.506,
+          "lat": 37.792,
+          "region": "Virginia"
+        },
+        {
+          "lon": -77.369,
+          "lat": 38.306,
+          "region": "Virginia"
+        },
+        {
+          "lon": -71.93,
+          "lat": 40.823,
+          "region": "New York"
+        },
+        {
+          "lon": -86.943,
+          "lat": 33.411,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -92.371,
+          "lat": 32.249,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -81.85,
+          "lat": 42.708,
+          "region": "Michigan"
+        },
+        {
+          "lon": -99.053,
+          "lat": 43.029,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -86.809,
+          "lat": 44.31,
+          "region": "Michigan"
+        },
+        {
+          "lon": -68.528,
+          "lat": 43.014,
+          "region": "New York"
+        },
+        {
+          "lon": -84.29,
+          "lat": 45.178,
+          "region": "Michigan"
+        },
+        {
+          "lon": -89.013,
+          "lat": 31.9,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -91.775,
+          "lat": 40.833,
+          "region": "Michigan"
+        },
+        {
+          "lon": -94.172,
+          "lat": 47.941,
+          "region": "Saskatchewan"
+        },
+        {
+          "lon": -93.344,
+          "lat": 35.553,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -96.294,
+          "lat": 41.942,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -83.655,
+          "lat": 46.819,
+          "region": "Michigan"
+        },
+        {
+          "lon": -93.491,
+          "lat": 50.336,
+          "region": "Saskatchewan"
+        },
+        {
+          "lon": -83.229,
+          "lat": 42.437,
+          "region": "Michigan"
+        },
+        {
+          "lon": -89.673,
+          "lat": 31.962,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -72.226,
+          "lat": 44.145,
+          "region": "New York"
+        },
+        {
+          "lon": -94.187,
+          "lat": 53.173,
+          "region": "Saskatchewan"
+        },
+        {
+          "lon": -88.109,
+          "lat": 32.526,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -89.499,
+          "lat": 32.916,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -68.395,
+          "lat": 41.13,
+          "region": "New York"
+        },
+        {
+          "lon": -92.382,
+          "lat": 41.237,
+          "region": "Michigan"
+        },
+        {
+          "lon": -87.054,
+          "lat": 41.618,
+          "region": "Michigan"
+        },
+        {
+          "lon": -87.947,
+          "lat": 35.715,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -87.91,
+          "lat": 40.412,
+          "region": "Michigan"
+        },
+        {
+          "lon": -79.334,
+          "lat": 39.349,
+          "region": "Virginia"
+        },
+        {
+          "lon": -85.247,
+          "lat": 43.597,
+          "region": "Michigan"
+        },
+        {
+          "lon": -84.531,
+          "lat": 43.015,
+          "region": "Michigan"
+        },
+        {
+          "lon": -91.903,
+          "lat": 50.248,
+          "region": "Saskatchewan"
+        },
+        {
+          "lon": -100.273,
+          "lat": 42.627,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -91.953,
+          "lat": 43.481,
+          "region": "Michigan"
+        },
+        {
+          "lon": -73.458,
+          "lat": 42.175,
+          "region": "New York"
+        },
+        {
+          "lon": -85.817,
+          "lat": 41.708,
+          "region": "Michigan"
+        },
+        {
+          "lon": -97.063,
+          "lat": 40.78,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -89.877,
+          "lat": 45.145,
+          "region": "Michigan"
+        },
+        {
+          "lon": -72.291,
+          "lat": 42.604,
+          "region": "New York"
+        },
+        {
+          "lon": -74.735,
+          "lat": 41.872,
+          "region": "New York"
+        },
+        {
+          "lon": -85.596,
+          "lat": 42.602,
+          "region": "Michigan"
+        },
+        {
+          "lon": -77.542,
+          "lat": 39.521,
+          "region": "Virginia"
+        },
+        {
+          "lon": -85.577,
+          "lat": 45.695,
+          "region": "Michigan"
+        },
+        {
+          "lon": -97.246,
+          "lat": 49.539,
+          "region": "Saskatchewan"
+        },
+        {
+          "lon": -97.938,
+          "lat": 41.596,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -72.382,
+          "lat": 42.268,
+          "region": "New York"
+        },
+        {
+          "lon": -99.876,
+          "lat": 41.688,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -74.079,
+          "lat": 42.41,
+          "region": "New York"
+        },
+        {
+          "lon": -86.009,
+          "lat": 44.369,
+          "region": "Michigan"
+        },
+        {
+          "lon": -85.807,
+          "lat": 41.661,
+          "region": "Michigan"
+        },
+        {
+          "lon": -101.669,
+          "lat": 41.189,
+          "region": "Nebraska"
+        },
+        {
+          "lon": -88.537,
+          "lat": 42.672,
+          "region": "Michigan"
+        },
+        {
+          "lon": -79.333,
+          "lat": 40.073,
+          "region": "Virginia"
+        },
+        {
+          "lon": -88.748,
+          "lat": 43.292,
+          "region": "Michigan"
+        },
+        {
+          "lon": -83.133,
+          "lat": 44.183,
+          "region": "Michigan"
+        },
+        {
+          "lon": -71.424,
+          "lat": 43.706,
+          "region": "New York"
+        }
+      ],
+      "miles_since_last_month": 139
+    },
+    "8": {
+      "name": "August",
+      "stage": "migration",
+      "note": "Migration builds toward its peak, which spans August and September.",
+      "centroid": {
+        "lon": -90.689,
+        "lat": 35.057
+      },
+      "points": [
+        {
+          "lon": -88.798,
+          "lat": 38.385,
+          "region": "Illinois"
+        },
+        {
+          "lon": -90.479,
+          "lat": 41.67,
+          "region": "Illinois"
+        },
+        {
+          "lon": -87.058,
+          "lat": 38.589,
+          "region": "Illinois"
+        },
+        {
+          "lon": -88.468,
+          "lat": 37.499,
+          "region": "Illinois"
+        },
+        {
+          "lon": -81.738,
+          "lat": 36.013,
+          "region": "Illinois"
+        },
+        {
+          "lon": -86.08,
+          "lat": 38.973,
+          "region": "Illinois"
+        },
+        {
+          "lon": -82.701,
+          "lat": 38.656,
+          "region": "Illinois"
+        },
+        {
+          "lon": -89.455,
+          "lat": 35.994,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -88.333,
+          "lat": 37.51,
+          "region": "Illinois"
+        },
+        {
+          "lon": -90.424,
+          "lat": 42.021,
+          "region": "Illinois"
+        },
+        {
+          "lon": -86.628,
+          "lat": 38.991,
+          "region": "Illinois"
+        },
+        {
+          "lon": -82.284,
+          "lat": 34.824,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -95.227,
+          "lat": 28.754,
+          "region": "Texas"
+        },
+        {
+          "lon": -96.695,
+          "lat": 29.733,
+          "region": "Texas"
+        },
+        {
+          "lon": -91.423,
+          "lat": 33.173,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -96.157,
+          "lat": 28.073,
+          "region": "Texas"
+        },
+        {
+          "lon": -95.829,
+          "lat": 27.985,
+          "region": "Texas"
+        },
+        {
+          "lon": -86.933,
+          "lat": 35.682,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -88.244,
+          "lat": 39.08,
+          "region": "Illinois"
+        },
+        {
+          "lon": -86.693,
+          "lat": 40.773,
+          "region": "Illinois"
+        },
+        {
+          "lon": -88.248,
+          "lat": 42.274,
+          "region": "Illinois"
+        },
+        {
+          "lon": -88.603,
+          "lat": 38.498,
+          "region": "Illinois"
+        },
+        {
+          "lon": -89.705,
+          "lat": 40.029,
+          "region": "Illinois"
+        },
+        {
+          "lon": -95.072,
+          "lat": 29.097,
+          "region": "Texas"
+        },
+        {
+          "lon": -91.834,
+          "lat": 27.427,
+          "region": "Texas"
+        },
+        {
+          "lon": -94.485,
+          "lat": 29.525,
+          "region": "Texas"
+        },
+        {
+          "lon": -90.191,
+          "lat": 32.145,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -87.116,
+          "lat": 45.573,
+          "region": "Illinois"
+        },
+        {
+          "lon": -89.118,
+          "lat": 40.191,
+          "region": "Illinois"
+        },
+        {
+          "lon": -85.992,
+          "lat": 40.381,
+          "region": "Illinois"
+        },
+        {
+          "lon": -96.258,
+          "lat": 31.269,
+          "region": "Texas"
+        },
+        {
+          "lon": -87.961,
+          "lat": 39.426,
+          "region": "Illinois"
+        },
+        {
+          "lon": -95.633,
+          "lat": 28.215,
+          "region": "Texas"
+        },
+        {
+          "lon": -93.223,
+          "lat": 33.997,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -91.935,
+          "lat": 30.519,
+          "region": "Texas"
+        },
+        {
+          "lon": -93.197,
+          "lat": 42.803,
+          "region": "Illinois"
+        },
+        {
+          "lon": -91.672,
+          "lat": 42.406,
+          "region": "Illinois"
+        },
+        {
+          "lon": -97.12,
+          "lat": 26.845,
+          "region": "Texas"
+        },
+        {
+          "lon": -88.288,
+          "lat": 39.385,
+          "region": "Illinois"
+        },
+        {
+          "lon": -93.882,
+          "lat": 30.31,
+          "region": "Texas"
+        },
+        {
+          "lon": -88.785,
+          "lat": 30.327,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -89.715,
+          "lat": 41.212,
+          "region": "Illinois"
+        },
+        {
+          "lon": -89.911,
+          "lat": 36.719,
+          "region": "Illinois"
+        },
+        {
+          "lon": -91.933,
+          "lat": 31.47,
+          "region": "Texas"
+        },
+        {
+          "lon": -88.651,
+          "lat": 40.304,
+          "region": "Illinois"
+        },
+        {
+          "lon": -89.533,
+          "lat": 42.693,
+          "region": "Illinois"
+        },
+        {
+          "lon": -94.712,
+          "lat": 27.045,
+          "region": "Texas"
+        },
+        {
+          "lon": -86.314,
+          "lat": 32.614,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -91.842,
+          "lat": 39.579,
+          "region": "Illinois"
+        },
+        {
+          "lon": -88.996,
+          "lat": 38.795,
+          "region": "Illinois"
+        },
+        {
+          "lon": -89.101,
+          "lat": 38.346,
+          "region": "Illinois"
+        },
+        {
+          "lon": -100.542,
+          "lat": 27.404,
+          "region": "Texas"
+        },
+        {
+          "lon": -88.907,
+          "lat": 39.141,
+          "region": "Illinois"
+        },
+        {
+          "lon": -92.59,
+          "lat": 26.572,
+          "region": "Texas"
+        },
+        {
+          "lon": -89.854,
+          "lat": 40.073,
+          "region": "Illinois"
+        },
+        {
+          "lon": -93.651,
+          "lat": 29.331,
+          "region": "Texas"
+        },
+        {
+          "lon": -91.502,
+          "lat": 33.784,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -89.137,
+          "lat": 31.061,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -95.95,
+          "lat": 29.246,
+          "region": "Texas"
+        },
+        {
+          "lon": -90.664,
+          "lat": 32.283,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -90.043,
+          "lat": 32.988,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -90.755,
+          "lat": 38.414,
+          "region": "Illinois"
+        },
+        {
+          "lon": -89.7,
+          "lat": 39.933,
+          "region": "Illinois"
+        },
+        {
+          "lon": -93.191,
+          "lat": 28.563,
+          "region": "Texas"
+        },
+        {
+          "lon": -87.534,
+          "lat": 42.034,
+          "region": "Illinois"
+        },
+        {
+          "lon": -92.066,
+          "lat": 31.549,
+          "region": "Arkansas"
+        },
+        {
+          "lon": -95.209,
+          "lat": 28.279,
+          "region": "Texas"
+        },
+        {
+          "lon": -94.677,
+          "lat": 30.349,
+          "region": "Texas"
+        },
+        {
+          "lon": -93.379,
+          "lat": 28.724,
+          "region": "Texas"
+        },
+        {
+          "lon": -90.227,
+          "lat": 32.452,
+          "region": "Arkansas"
+        }
+      ],
+      "miles_since_last_month": 530
+    },
+    "9": {
+      "name": "September",
+      "stage": "migration",
+      "note": "Migration continues at its peak.",
+      "centroid": {
+        "lon": -93.208,
+        "lat": 23.23
+      },
+      "points": [
+        {
+          "lon": -96.718,
+          "lat": 25.996,
+          "region": "Texas"
+        },
+        {
+          "lon": -100.303,
+          "lat": 25.21,
+          "region": "Texas"
+        },
+        {
+          "lon": -95.867,
+          "lat": 17.793,
+          "region": "Mexico"
+        },
+        {
+          "lon": -94.813,
+          "lat": 27.418,
+          "region": "Texas"
+        },
+        {
+          "lon": -96.734,
+          "lat": 21.425,
+          "region": "Mexico"
+        },
+        {
+          "lon": -87.511,
+          "lat": 17.587,
+          "region": "Guatemala"
+        },
+        {
+          "lon": -87.825,
+          "lat": 15.766,
+          "region": "Guatemala"
+        },
+        {
+          "lon": -95.299,
+          "lat": 24.692,
+          "region": "Texas"
+        },
+        {
+          "lon": -95.394,
+          "lat": 20.745,
+          "region": "Mexico"
+        },
+        {
+          "lon": -90.121,
+          "lat": 17.495,
+          "region": "Guatemala"
+        },
+        {
+          "lon": -94.552,
+          "lat": 16.86,
+          "region": "Mexico"
+        },
+        {
+          "lon": -96.505,
+          "lat": 26.508,
+          "region": "Texas"
+        },
+        {
+          "lon": -94.053,
+          "lat": 24.197,
+          "region": "Texas"
+        },
+        {
+          "lon": -96.29,
+          "lat": 24.906,
+          "region": "Texas"
+        },
+        {
+          "lon": -85.968,
+          "lat": 14.169,
+          "region": "Guatemala"
+        },
+        {
+          "lon": -93.739,
+          "lat": 16.723,
+          "region": "Mexico"
+        },
+        {
+          "lon": -88.873,
+          "lat": 16.399,
+          "region": "Guatemala"
+        },
+        {
+          "lon": -94.041,
+          "lat": 25.845,
+          "region": "Texas"
+        },
+        {
+          "lon": -87.812,
+          "lat": 17.204,
+          "region": "Guatemala"
+        },
+        {
+          "lon": -88.337,
+          "lat": 32.421,
+          "region": "Georgia"
+        },
+        {
+          "lon": -96.871,
+          "lat": 26.995,
+          "region": "Texas"
+        },
+        {
+          "lon": -93.157,
+          "lat": 19.092,
+          "region": "Mexico"
+        },
+        {
+          "lon": -81.983,
+          "lat": 33.741,
+          "region": "Georgia"
+        },
+        {
+          "lon": -88.251,
+          "lat": 16.682,
+          "region": "Guatemala"
+        },
+        {
+          "lon": -99.644,
+          "lat": 17.472,
+          "region": "Mexico"
+        },
+        {
+          "lon": -96.534,
+          "lat": 23.473,
+          "region": "Texas"
+        },
+        {
+          "lon": -95.895,
+          "lat": 25.914,
+          "region": "Texas"
+        },
+        {
+          "lon": -95.702,
+          "lat": 29.218,
+          "region": "Texas"
+        },
+        {
+          "lon": -94.362,
+          "lat": 17.204,
+          "region": "Mexico"
+        },
+        {
+          "lon": -84.58,
+          "lat": 33.71,
+          "region": "Georgia"
+        },
+        {
+          "lon": -89.762,
+          "lat": 21.978,
+          "region": "Mexico"
+        },
+        {
+          "lon": -95.605,
+          "lat": 22.052,
+          "region": "Mexico"
+        },
+        {
+          "lon": -97.198,
+          "lat": 18.222,
+          "region": "Mexico"
+        },
+        {
+          "lon": -99.554,
+          "lat": 16.902,
+          "region": "Mexico"
+        },
+        {
+          "lon": -96.053,
+          "lat": 31.025,
+          "region": "Texas"
+        },
+        {
+          "lon": -99.061,
+          "lat": 28.542,
+          "region": "Texas"
+        },
+        {
+          "lon": -94.894,
+          "lat": 23.978,
+          "region": "Texas"
+        },
+        {
+          "lon": -94.412,
+          "lat": 25.91,
+          "region": "Texas"
+        },
+        {
+          "lon": -97.617,
+          "lat": 26.889,
+          "region": "Texas"
+        },
+        {
+          "lon": -94.507,
+          "lat": 28.701,
+          "region": "Texas"
+        },
+        {
+          "lon": -90.097,
+          "lat": 14.684,
+          "region": "Guatemala"
+        },
+        {
+          "lon": -93.729,
+          "lat": 28.47,
+          "region": "Texas"
+        },
+        {
+          "lon": -98.038,
+          "lat": 17.538,
+          "region": "Mexico"
+        },
+        {
+          "lon": -94.948,
+          "lat": 19.98,
+          "region": "Mexico"
+        },
+        {
+          "lon": -93.014,
+          "lat": 20.684,
+          "region": "Mexico"
+        },
+        {
+          "lon": -84.272,
+          "lat": 34.721,
+          "region": "Georgia"
+        },
+        {
+          "lon": -87.028,
+          "lat": 33.84,
+          "region": "Georgia"
+        },
+        {
+          "lon": -87.665,
+          "lat": 31.657,
+          "region": "Georgia"
+        },
+        {
+          "lon": -86.898,
+          "lat": 12.72,
+          "region": "Guatemala"
+        },
+        {
+          "lon": -97.771,
+          "lat": 25.949,
+          "region": "Texas"
+        },
+        {
+          "lon": -94.508,
+          "lat": 20.893,
+          "region": "Mexico"
+        },
+        {
+          "lon": -98.966,
+          "lat": 25.729,
+          "region": "Texas"
+        },
+        {
+          "lon": -96.511,
+          "lat": 18.923,
+          "region": "Mexico"
+        },
+        {
+          "lon": -86.62,
+          "lat": 15.053,
+          "region": "Guatemala"
+        },
+        {
+          "lon": -96.768,
+          "lat": 27.553,
+          "region": "Texas"
+        },
+        {
+          "lon": -100.338,
+          "lat": 26.533,
+          "region": "Texas"
+        },
+        {
+          "lon": -87.739,
+          "lat": 14.186,
+          "region": "Guatemala"
+        },
+        {
+          "lon": -93.794,
+          "lat": 25.823,
+          "region": "Texas"
+        },
+        {
+          "lon": -88.277,
+          "lat": 33.508,
+          "region": "Georgia"
+        },
+        {
+          "lon": -98.324,
+          "lat": 24.277,
+          "region": "Texas"
+        },
+        {
+          "lon": -89.109,
+          "lat": 19.033,
+          "region": "Mexico"
+        },
+        {
+          "lon": -90.899,
+          "lat": 16.654,
+          "region": "Guatemala"
+        },
+        {
+          "lon": -85.684,
+          "lat": 32.497,
+          "region": "Georgia"
+        },
+        {
+          "lon": -88.401,
+          "lat": 34.288,
+          "region": "Georgia"
+        },
+        {
+          "lon": -93.163,
+          "lat": 15.144,
+          "region": "Mexico"
+        },
+        {
+          "lon": -90.869,
+          "lat": 15.273,
+          "region": "Guatemala"
+        },
+        {
+          "lon": -95.563,
+          "lat": 23.724,
+          "region": "Texas"
+        },
+        {
+          "lon": -98.043,
+          "lat": 25.912,
+          "region": "Texas"
+        },
+        {
+          "lon": -92.702,
+          "lat": 27.085,
+          "region": "Texas"
+        },
+        {
+          "lon": -98.398,
+          "lat": 26.744,
+          "region": "Texas"
+        }
+      ],
+      "miles_since_last_month": 831
+    },
+    "10": {
+      "name": "October",
+      "stage": "migration",
+      "note": "Migration eases in the first half of the month; most reach tropical wintering grounds.",
+      "centroid": {
+        "lon": -80.528,
+        "lat": 13.749
+      },
+      "points": [
+        {
+          "lon": -84.394,
+          "lat": 13.681,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -88.687,
+          "lat": 12.268,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -78.544,
+          "lat": 5.473,
+          "region": "Colombia"
+        },
+        {
+          "lon": -72.782,
+          "lat": 8.371,
+          "region": "Colombia"
+        },
+        {
+          "lon": -92.494,
+          "lat": 13.968,
+          "region": "Mexico"
+        },
+        {
+          "lon": -88.941,
+          "lat": 17.437,
+          "region": "Mexico"
+        },
+        {
+          "lon": -79.272,
+          "lat": 12.503,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -70.52,
+          "lat": 8.311,
+          "region": "Colombia"
+        },
+        {
+          "lon": -75.648,
+          "lat": 19.585,
+          "region": "Cuba"
+        },
+        {
+          "lon": -86.93,
+          "lat": 7.774,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -72.967,
+          "lat": 9.533,
+          "region": "Colombia"
+        },
+        {
+          "lon": -87.408,
+          "lat": 19.104,
+          "region": "Mexico"
+        },
+        {
+          "lon": -86.564,
+          "lat": 7.815,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -79.714,
+          "lat": 8.76,
+          "region": "Colombia"
+        },
+        {
+          "lon": -73.381,
+          "lat": 10.014,
+          "region": "Colombia"
+        },
+        {
+          "lon": -82.242,
+          "lat": 27.468,
+          "region": "Florida"
+        },
+        {
+          "lon": -91.932,
+          "lat": 15.436,
+          "region": "Mexico"
+        },
+        {
+          "lon": -92.826,
+          "lat": 16.685,
+          "region": "Mexico"
+        },
+        {
+          "lon": -74.785,
+          "lat": 9.914,
+          "region": "Colombia"
+        },
+        {
+          "lon": -78.783,
+          "lat": 19.511,
+          "region": "Cuba"
+        },
+        {
+          "lon": -84.011,
+          "lat": 11.024,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -75.94,
+          "lat": 17.876,
+          "region": "Cuba"
+        },
+        {
+          "lon": -67.36,
+          "lat": 8.221,
+          "region": "Colombia"
+        },
+        {
+          "lon": -77.268,
+          "lat": 19.029,
+          "region": "Cuba"
+        },
+        {
+          "lon": -73.483,
+          "lat": 9.311,
+          "region": "Colombia"
+        },
+        {
+          "lon": -85.805,
+          "lat": 12.377,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -90.942,
+          "lat": 17.55,
+          "region": "Mexico"
+        },
+        {
+          "lon": -91.5,
+          "lat": 17.934,
+          "region": "Mexico"
+        },
+        {
+          "lon": -85.634,
+          "lat": 11.651,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -73.935,
+          "lat": 17.54,
+          "region": "Cuba"
+        },
+        {
+          "lon": -90.713,
+          "lat": 19.414,
+          "region": "Mexico"
+        },
+        {
+          "lon": -80.347,
+          "lat": 20.53,
+          "region": "Cuba"
+        },
+        {
+          "lon": -84.876,
+          "lat": 13.587,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -90.387,
+          "lat": 19.074,
+          "region": "Mexico"
+        },
+        {
+          "lon": -83.208,
+          "lat": 11.073,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -72.545,
+          "lat": 8.801,
+          "region": "Colombia"
+        },
+        {
+          "lon": -84.874,
+          "lat": 8.05,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -82.296,
+          "lat": 12.775,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -74.691,
+          "lat": 11.113,
+          "region": "Colombia"
+        },
+        {
+          "lon": -84.07,
+          "lat": 28.36,
+          "region": "Florida"
+        },
+        {
+          "lon": -69.588,
+          "lat": 4.159,
+          "region": "Colombia"
+        },
+        {
+          "lon": -83.846,
+          "lat": 10.288,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -71.295,
+          "lat": 11.364,
+          "region": "Colombia"
+        },
+        {
+          "lon": -76.518,
+          "lat": 18.326,
+          "region": "Cuba"
+        },
+        {
+          "lon": -76.978,
+          "lat": 21.576,
+          "region": "Cuba"
+        },
+        {
+          "lon": -73.051,
+          "lat": 7.512,
+          "region": "Colombia"
+        },
+        {
+          "lon": -72.601,
+          "lat": 5.744,
+          "region": "Colombia"
+        },
+        {
+          "lon": -83.789,
+          "lat": 28.231,
+          "region": "Florida"
+        },
+        {
+          "lon": -74.56,
+          "lat": 10.368,
+          "region": "Colombia"
+        },
+        {
+          "lon": -81.199,
+          "lat": 10.128,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -85.073,
+          "lat": 10.046,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -76.082,
+          "lat": 18.206,
+          "region": "Cuba"
+        },
+        {
+          "lon": -85.486,
+          "lat": 9.769,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -84.206,
+          "lat": 11.934,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -76.415,
+          "lat": 19.025,
+          "region": "Cuba"
+        },
+        {
+          "lon": -79.661,
+          "lat": 19.313,
+          "region": "Cuba"
+        },
+        {
+          "lon": -71.761,
+          "lat": 8.586,
+          "region": "Colombia"
+        },
+        {
+          "lon": -88.246,
+          "lat": 8.06,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -82.298,
+          "lat": 27.776,
+          "region": "Florida"
+        },
+        {
+          "lon": -91.066,
+          "lat": 14.467,
+          "region": "Mexico"
+        },
+        {
+          "lon": -83.232,
+          "lat": 16.272,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -76.848,
+          "lat": 16.288,
+          "region": "Cuba"
+        },
+        {
+          "lon": -71.659,
+          "lat": 10.685,
+          "region": "Colombia"
+        },
+        {
+          "lon": -69.456,
+          "lat": 11.005,
+          "region": "Colombia"
+        },
+        {
+          "lon": -74.93,
+          "lat": 8.6,
+          "region": "Colombia"
+        },
+        {
+          "lon": -89.525,
+          "lat": 17.896,
+          "region": "Mexico"
+        },
+        {
+          "lon": -73.221,
+          "lat": 6.504,
+          "region": "Colombia"
+        },
+        {
+          "lon": -74.815,
+          "lat": 18.024,
+          "region": "Cuba"
+        },
+        {
+          "lon": -82.824,
+          "lat": 12.299,
+          "region": "Costa Rica"
+        },
+        {
+          "lon": -84.064,
+          "lat": 11.053,
+          "region": "Costa Rica"
+        }
+      ],
+      "miles_since_last_month": 1057
+    },
+    "11": {
+      "name": "November",
+      "stage": "wintering",
+      "note": "Mostly in the tropics, though a few linger in northern states and provinces.",
+      "centroid": {
+        "lon": -78.581,
+        "lat": 14.309
+      },
+      "points": [
+        {
+          "lon": -92.198,
+          "lat": 17.339,
+          "region": "Mexico"
+        },
+        {
+          "lon": -71.117,
+          "lat": 7.25,
+          "region": "Colombia"
+        },
+        {
+          "lon": -82.014,
+          "lat": 8.711,
+          "region": "Panama"
+        },
+        {
+          "lon": -78.148,
+          "lat": 20.104,
+          "region": "Cuba"
+        },
+        {
+          "lon": -88.806,
+          "lat": 17.879,
+          "region": "Mexico"
+        },
+        {
+          "lon": -73.119,
+          "lat": 9.853,
+          "region": "Colombia"
+        },
+        {
+          "lon": -86.404,
+          "lat": 17.836,
+          "region": "Mexico"
+        },
+        {
+          "lon": -81.332,
+          "lat": 28.313,
+          "region": "Florida"
+        },
+        {
+          "lon": -79.895,
+          "lat": 10.843,
+          "region": "Panama"
+        },
+        {
+          "lon": -83.775,
+          "lat": 6.261,
+          "region": "Panama"
+        },
+        {
+          "lon": -79.491,
+          "lat": 20.068,
+          "region": "Cuba"
+        },
+        {
+          "lon": -83.042,
+          "lat": 10.89,
+          "region": "Panama"
+        },
+        {
+          "lon": -80.033,
+          "lat": 10.606,
+          "region": "Panama"
+        },
+        {
+          "lon": -82.541,
+          "lat": 8.077,
+          "region": "Panama"
+        },
+        {
+          "lon": -75.015,
+          "lat": 4.284,
+          "region": "Colombia"
+        },
+        {
+          "lon": -83.878,
+          "lat": 28.338,
+          "region": "Florida"
+        },
+        {
+          "lon": -78.577,
+          "lat": 17.23,
+          "region": "Cuba"
+        },
+        {
+          "lon": -70.191,
+          "lat": 8.956,
+          "region": "Colombia"
+        },
+        {
+          "lon": -75.308,
+          "lat": 21.89,
+          "region": "Cuba"
+        },
+        {
+          "lon": -70.847,
+          "lat": 8.303,
+          "region": "Colombia"
+        },
+        {
+          "lon": -88.762,
+          "lat": 17.769,
+          "region": "Mexico"
+        },
+        {
+          "lon": -75.637,
+          "lat": 16.886,
+          "region": "Cuba"
+        },
+        {
+          "lon": -76.18,
+          "lat": 19.869,
+          "region": "Cuba"
+        },
+        {
+          "lon": -65.797,
+          "lat": 8.897,
+          "region": "Colombia"
+        },
+        {
+          "lon": -79.386,
+          "lat": 17.601,
+          "region": "Cuba"
+        },
+        {
+          "lon": -81.945,
+          "lat": 9.342,
+          "region": "Panama"
+        },
+        {
+          "lon": -72.75,
+          "lat": 7.011,
+          "region": "Colombia"
+        },
+        {
+          "lon": -83.204,
+          "lat": 27.754,
+          "region": "Florida"
+        },
+        {
+          "lon": -75.154,
+          "lat": 9.38,
+          "region": "Colombia"
+        },
+        {
+          "lon": -72.619,
+          "lat": 9.9,
+          "region": "Colombia"
+        },
+        {
+          "lon": -86.722,
+          "lat": 16.756,
+          "region": "Mexico"
+        },
+        {
+          "lon": -73.799,
+          "lat": 6.889,
+          "region": "Colombia"
+        },
+        {
+          "lon": -70.249,
+          "lat": 12.183,
+          "region": "Colombia"
+        },
+        {
+          "lon": -84.263,
+          "lat": 7.464,
+          "region": "Panama"
+        },
+        {
+          "lon": -80.536,
+          "lat": 26.883,
+          "region": "Florida"
+        },
+        {
+          "lon": -80.195,
+          "lat": 17.069,
+          "region": "Cuba"
+        },
+        {
+          "lon": -81.096,
+          "lat": 21.409,
+          "region": "Cuba"
+        },
+        {
+          "lon": -84.791,
+          "lat": 8.516,
+          "region": "Panama"
+        },
+        {
+          "lon": -75.972,
+          "lat": 19.19,
+          "region": "Cuba"
+        },
+        {
+          "lon": -79.05,
+          "lat": 6.863,
+          "region": "Panama"
+        },
+        {
+          "lon": -79.978,
+          "lat": 6.731,
+          "region": "Colombia"
+        },
+        {
+          "lon": -76.234,
+          "lat": 10.074,
+          "region": "Colombia"
+        },
+        {
+          "lon": -89.404,
+          "lat": 19.125,
+          "region": "Mexico"
+        },
+        {
+          "lon": -81.354,
+          "lat": 26.77,
+          "region": "Florida"
+        },
+        {
+          "lon": -74.544,
+          "lat": 12.041,
+          "region": "Colombia"
+        },
+        {
+          "lon": -74.981,
+          "lat": 17.952,
+          "region": "Cuba"
+        },
+        {
+          "lon": -74.815,
+          "lat": 20.046,
+          "region": "Cuba"
+        },
+        {
+          "lon": -77.555,
+          "lat": 5.967,
+          "region": "Colombia"
+        },
+        {
+          "lon": -83.384,
+          "lat": 9.825,
+          "region": "Panama"
+        },
+        {
+          "lon": -78.102,
+          "lat": 9.146,
+          "region": "Colombia"
+        },
+        {
+          "lon": -81.114,
+          "lat": 27.237,
+          "region": "Florida"
+        },
+        {
+          "lon": -75.345,
+          "lat": 5.624,
+          "region": "Colombia"
+        },
+        {
+          "lon": -73.115,
+          "lat": 7.185,
+          "region": "Colombia"
+        },
+        {
+          "lon": -77.618,
+          "lat": 18.48,
+          "region": "Cuba"
+        },
+        {
+          "lon": -77.866,
+          "lat": 14.561,
+          "region": "Cuba"
+        },
+        {
+          "lon": -75.508,
+          "lat": 20.761,
+          "region": "Cuba"
+        },
+        {
+          "lon": -71.923,
+          "lat": 9.489,
+          "region": "Colombia"
+        },
+        {
+          "lon": -81.036,
+          "lat": 27.093,
+          "region": "Florida"
+        },
+        {
+          "lon": -72.903,
+          "lat": 7.396,
+          "region": "Colombia"
+        },
+        {
+          "lon": -73.792,
+          "lat": 3.262,
+          "region": "Colombia"
+        },
+        {
+          "lon": -70.744,
+          "lat": 11.637,
+          "region": "Colombia"
+        },
+        {
+          "lon": -87.446,
+          "lat": 18.043,
+          "region": "Mexico"
+        },
+        {
+          "lon": -75.937,
+          "lat": 8.033,
+          "region": "Colombia"
+        },
+        {
+          "lon": -82.59,
+          "lat": 26.841,
+          "region": "Florida"
+        },
+        {
+          "lon": -74.481,
+          "lat": 6.263,
+          "region": "Colombia"
+        },
+        {
+          "lon": -82.185,
+          "lat": 8.898,
+          "region": "Panama"
+        },
+        {
+          "lon": -81.797,
+          "lat": 28.747,
+          "region": "Florida"
+        },
+        {
+          "lon": -81.298,
+          "lat": 28.055,
+          "region": "Florida"
+        },
+        {
+          "lon": -73.817,
+          "lat": 8.854,
+          "region": "Colombia"
+        },
+        {
+          "lon": -75.998,
+          "lat": 6.799,
+          "region": "Colombia"
+        }
+      ],
+      "miles_since_last_month": 136
+    },
+    "12": {
+      "name": "December",
+      "stage": "wintering",
+      "note": "Nearly the entire population is in the tropics.",
+      "centroid": {
+        "lon": -78.374,
+        "lat": 15.672
+      },
+      "points": [
+        {
+          "lon": -75.572,
+          "lat": 19.436,
+          "region": "Cuba"
+        },
+        {
+          "lon": -76.665,
+          "lat": 6.472,
+          "region": "Colombia"
+        },
+        {
+          "lon": -81.422,
+          "lat": 26.178,
+          "region": "Florida"
+        },
+        {
+          "lon": -82.713,
+          "lat": 11.004,
+          "region": "Panama"
+        },
+        {
+          "lon": -80.873,
+          "lat": 11.955,
+          "region": "Panama"
+        },
+        {
+          "lon": -71.963,
+          "lat": 5.28,
+          "region": "Colombia"
+        },
+        {
+          "lon": -79.74,
+          "lat": 26.945,
+          "region": "Florida"
+        },
+        {
+          "lon": -79.916,
+          "lat": 27.427,
+          "region": "Florida"
+        },
+        {
+          "lon": -81.258,
+          "lat": 18.791,
+          "region": "Cuba"
+        },
+        {
+          "lon": -79.115,
+          "lat": 28.24,
+          "region": "Florida"
+        },
+        {
+          "lon": -79.962,
+          "lat": 27.506,
+          "region": "Florida"
+        },
+        {
+          "lon": -80.746,
+          "lat": 27.966,
+          "region": "Florida"
+        },
+        {
+          "lon": -76.037,
+          "lat": 9.042,
+          "region": "Colombia"
+        },
+        {
+          "lon": -77.534,
+          "lat": 17.364,
+          "region": "Cuba"
+        },
+        {
+          "lon": -81.702,
+          "lat": 9.898,
+          "region": "Panama"
+        },
+        {
+          "lon": -77.525,
+          "lat": 6.768,
+          "region": "Colombia"
+        },
+        {
+          "lon": -83.432,
+          "lat": 9.615,
+          "region": "Panama"
+        },
+        {
+          "lon": -81.371,
+          "lat": 27.598,
+          "region": "Florida"
+        },
+        {
+          "lon": -74.173,
+          "lat": 21.698,
+          "region": "Cuba"
+        },
+        {
+          "lon": -75.826,
+          "lat": 18.86,
+          "region": "Cuba"
+        },
+        {
+          "lon": -71.293,
+          "lat": 4.508,
+          "region": "Colombia"
+        },
+        {
+          "lon": -82.432,
+          "lat": 25.544,
+          "region": "Florida"
+        },
+        {
+          "lon": -79.217,
+          "lat": 19.49,
+          "region": "Cuba"
+        },
+        {
+          "lon": -82.143,
+          "lat": 27.927,
+          "region": "Florida"
+        },
+        {
+          "lon": -79.654,
+          "lat": 9.082,
+          "region": "Panama"
+        },
+        {
+          "lon": -77.411,
+          "lat": 17.73,
+          "region": "Cuba"
+        },
+        {
+          "lon": -81.778,
+          "lat": 27.392,
+          "region": "Florida"
+        },
+        {
+          "lon": -75.384,
+          "lat": 8.189,
+          "region": "Colombia"
+        },
+        {
+          "lon": -81.206,
+          "lat": 8.854,
+          "region": "Panama"
+        },
+        {
+          "lon": -81.298,
+          "lat": 18.46,
+          "region": "Cuba"
+        },
+        {
+          "lon": -77.488,
+          "lat": 20.957,
+          "region": "Cuba"
+        },
+        {
+          "lon": -83.156,
+          "lat": 8.282,
+          "region": "Panama"
+        },
+        {
+          "lon": -78.687,
+          "lat": 16.899,
+          "region": "Cuba"
+        },
+        {
+          "lon": -79.809,
+          "lat": 18.47,
+          "region": "Cuba"
+        },
+        {
+          "lon": -74.762,
+          "lat": 17.837,
+          "region": "Cuba"
+        },
+        {
+          "lon": -78.212,
+          "lat": 9.161,
+          "region": "Colombia"
+        },
+        {
+          "lon": -82.915,
+          "lat": 10.22,
+          "region": "Panama"
+        },
+        {
+          "lon": -81.701,
+          "lat": 28.024,
+          "region": "Florida"
+        },
+        {
+          "lon": -78.532,
+          "lat": 18.191,
+          "region": "Cuba"
+        },
+        {
+          "lon": -77.203,
+          "lat": 21.32,
+          "region": "Cuba"
+        },
+        {
+          "lon": -84.622,
+          "lat": 8.031,
+          "region": "Panama"
+        },
+        {
+          "lon": -73.047,
+          "lat": 7.56,
+          "region": "Colombia"
+        },
+        {
+          "lon": -81.441,
+          "lat": 9.429,
+          "region": "Panama"
+        },
+        {
+          "lon": -77.039,
+          "lat": 21.282,
+          "region": "Cuba"
+        },
+        {
+          "lon": -73.18,
+          "lat": 11.081,
+          "region": "Colombia"
+        },
+        {
+          "lon": -73.954,
+          "lat": 17.553,
+          "region": "Cuba"
+        },
+        {
+          "lon": -77.934,
+          "lat": 19.748,
+          "region": "Cuba"
+        },
+        {
+          "lon": -76.88,
+          "lat": 20.038,
+          "region": "Cuba"
+        },
+        {
+          "lon": -76.369,
+          "lat": 9.891,
+          "region": "Panama"
+        },
+        {
+          "lon": -83.339,
+          "lat": 26.556,
+          "region": "Florida"
+        },
+        {
+          "lon": -81.479,
+          "lat": 26.571,
+          "region": "Florida"
+        },
+        {
+          "lon": -83.713,
+          "lat": 6.957,
+          "region": "Panama"
+        },
+        {
+          "lon": -77.239,
+          "lat": 6.31,
+          "region": "Colombia"
+        },
+        {
+          "lon": -73.418,
+          "lat": 11.456,
+          "region": "Colombia"
+        },
+        {
+          "lon": -75.771,
+          "lat": 8.478,
+          "region": "Colombia"
+        },
+        {
+          "lon": -77.714,
+          "lat": 7.916,
+          "region": "Panama"
+        },
+        {
+          "lon": -74.009,
+          "lat": 6.296,
+          "region": "Colombia"
+        },
+        {
+          "lon": -75.622,
+          "lat": 7.619,
+          "region": "Colombia"
+        },
+        {
+          "lon": -72.282,
+          "lat": 6.241,
+          "region": "Colombia"
+        },
+        {
+          "lon": -79.133,
+          "lat": 7.115,
+          "region": "Colombia"
+        },
+        {
+          "lon": -75.291,
+          "lat": 7.658,
+          "region": "Colombia"
+        },
+        {
+          "lon": -82.84,
+          "lat": 26.663,
+          "region": "Florida"
+        },
+        {
+          "lon": -73.573,
+          "lat": 11.349,
+          "region": "Colombia"
+        },
+        {
+          "lon": -75.4,
+          "lat": 6.948,
+          "region": "Colombia"
+        },
+        {
+          "lon": -76.831,
+          "lat": 21.46,
+          "region": "Cuba"
+        },
+        {
+          "lon": -80.285,
+          "lat": 18.69,
+          "region": "Cuba"
+        },
+        {
+          "lon": -81.568,
+          "lat": 27.621,
+          "region": "Florida"
+        },
+        {
+          "lon": -70.658,
+          "lat": 8.799,
+          "region": "Colombia"
+        },
+        {
+          "lon": -82.734,
+          "lat": 7.717,
+          "region": "Panama"
+        },
+        {
+          "lon": -77.007,
+          "lat": 19.434,
+          "region": "Cuba"
+        }
+      ],
+      "miles_since_last_month": 95
+    }
+  }
+}
