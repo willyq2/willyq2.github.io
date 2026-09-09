@@ -25,7 +25,7 @@ body {
 .name-highlight {
     font-family: 'Noto Serif', serif;
     font-weight: 800;
-    color: hsl(30, 100%, 61%);
+    color: hsl(30, 100%, 58%);
 }
 
 #introduction a {
@@ -35,7 +35,7 @@ body {
 
 #introduction a:hover,
 a:hover {
-    color: hsl(30, 100%, 61%);
+    color: hsl(30, 100%, 70%);
 }
 
 .tab-nav {
@@ -58,7 +58,7 @@ a:hover {
 .tab.active {
     font-family: 'Noto Serif', serif;
     font-weight: 800;
-    color: hsl(30, 100%, 61%);
+    color: hsl(30, 100%, 58%);
     font-size: 1.5em;
 }
 
