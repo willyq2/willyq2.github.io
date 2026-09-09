@@ -2,7 +2,7 @@ body {
     font-family: 'Noto Sans', sans-serif;
     font-weight: 350;
     margin: 50px 15px;
-    background-color: white;
+    background-color: hsl(210, 100%, 99%);
 }
 
 #container {
@@ -18,10 +18,14 @@ body {
     font-weight: 550;
 }
 
+#description {
+    color: gray;
+}
+
 .name-highlight {
     font-family: 'Noto Serif', serif;
     font-weight: 800;
-    color: darkorange;
+    color: hsl(30, 100%, 61%);
 }
 
 #introduction a {
@@ -29,12 +33,9 @@ body {
     text-decoration: none;
 }
 
-#introduction a:hover {
-    color: hsl(33, 100%, 50%);
-}
-
-#description {
-    color: gray;
+#introduction a:hover,
+a:hover {
+    color: hsl(30, 100%, 61%);
 }
 
 .tab-nav {
@@ -57,12 +58,12 @@ body {
 .tab.active {
     font-family: 'Noto Serif', serif;
     font-weight: 800;
-    color: hsl(33, 100%, 50%);
+    color: hsl(30, 100%, 61%);
     font-size: 1.5em;
 }
 
 .tab:not(.active):hover {
-    color: hsl(33, 100%, 70%);
+    color: hsl(30, 100%, 70%);
 }
 
 .tab-content {
@@ -100,7 +101,8 @@ body {
     height: auto;
     padding: 5px;
     border: 1px solid gray;
-    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+    background-color: white;
     display: block;
 }
 
@@ -143,10 +145,6 @@ body {
 .visual-row a {
     flex: 1;
     display: flex;
-}
-
-a:hover {
-    color: hsl(33, 100%, 50%);
 }
 
 .visual-row img {
