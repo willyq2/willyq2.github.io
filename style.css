@@ -35,7 +35,7 @@ body {
 
 #introduction a:hover,
 a:hover {
-    color: hsl(30, 100%, 80%);
+    color: hsl(30, 100%, 70%);
 }
 
 .tab-nav {
@@ -43,7 +43,7 @@ a:hover {
     gap: 20px;
     align-items: baseline;
     padding-bottom: 10px;
-    border-bottom: 1px solid hsl(210, 100%, 80%);
+    border-bottom: 1px solid lightgray;
     min-height: 52px;
 }
 
@@ -63,7 +63,7 @@ a:hover {
 }
 
 .tab:not(.active):hover {
-    color: hsl(30, 100%, 80%);
+    color: hsl(30, 100%, 70%);
 }
 
 .tab-content {
@@ -77,7 +77,7 @@ a:hover {
 .data-item {
     margin: 30px 0;
     padding-bottom: 30px;
-    border-bottom: 1px solid hsl(210, 100%, 80%);
+    border-bottom: 1px solid lightgray;
 }
 
 .data-item:last-child {
