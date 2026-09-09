@@ -93,8 +93,7 @@ body {
     align-items: stretch;
 }
 
-.data-link img,
-.data-link video {
+.data-link img {
     box-sizing: border-box;
     flex: 0 0 auto;
     max-width: 60%;
@@ -103,6 +102,12 @@ body {
     border: 1px solid gray;
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
     display: block;
+}
+
+.data-link img.no-frame {
+    padding: 0;
+    border: none;
+    box-shadow: none;
 }
 
 .data-info {
@@ -193,8 +198,7 @@ a:hover {
         align-items: flex-start;
     }
 
-    .data-link img,
-    .data-link video {
+    .data-link img {
         width: 100%;
         max-width: 100%;
     }
