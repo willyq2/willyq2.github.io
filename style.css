@@ -18,13 +18,15 @@ body {
     font-weight: 550;
 }
 
+.name-highlight {
+    font-family: 'Noto Serif', serif;
+    font-weight: 800;
+    color: darkorange;
+}
+
 #introduction a {
     color: black;
     text-decoration: none;
-}
-
-#introduction a:hover {
-    color: hsl(33, 100%, 50%);
 }
 
 #description {
