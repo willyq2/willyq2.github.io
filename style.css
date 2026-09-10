@@ -106,6 +106,10 @@ a:hover {
     background-color: white;
 }
 
+.data-link:hover img {
+    border: 2px solid hsl(30, 100%, 70%);
+}
+
 .data-info {
     flex: 1;
     display: flex;
