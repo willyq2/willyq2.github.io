@@ -48,7 +48,7 @@ body {
 
 #introduction a:hover,
 a:hover {
-    color: var(--color-accent-light);
+    color: var(--color-accent);
 }
 
 .tab-nav {
@@ -120,7 +120,7 @@ a:hover {
 }
 
 .data-link:hover img {
-    border: 2px solid var(--color-accent-light);
+    border: 2px solid var(--color-accent);
     box-shadow: 1px 1px 4px var(--color-accent-shadow);
 }
 
